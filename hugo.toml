@@ -9,6 +9,10 @@ enableEmoji = true
 #sectionPagesMenu = "main"
 #googleAnalytics = "UA-1511XXXX-X"
 
+
+[security]
+  allowContent = ['.*']
+
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   lastmod = ["lastmod", ":fileModTime", ":default"]
