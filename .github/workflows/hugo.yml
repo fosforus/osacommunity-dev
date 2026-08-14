@@ -66,12 +66,12 @@ jobs:
           echo "Go: $(go version)"
           echo "Hugo: $(hugo version)"
           echo "Node.js: $(node --version)"
-      - name: Install Node.js dependencies
-        run: |
-          if [ -f package-lock.json ]; then
-            echo "Installing Node.js dependencies..."
-            npm ci
-          fi
+      # - name: Install Node.js dependencies
+      #   run: |
+      #     if [ -f package-lock.json ]; then
+      #       echo "Installing Node.js dependencies..."
+      #       npm ci
+      #     fi
       - name: Configure Git
         run: |
           git config --global core.quotepath false
