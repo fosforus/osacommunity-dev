@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/</link>
+    <description>Recent content in Speakers on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rusty Conover</title>
+      <link>http://localhost:1313/speakers/rusty-conover/</link>
+      <pubDate>Fri, 31 Oct 2025 12:39:32 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/rusty-conover/</guid>
+      <description>Founder of Query.Farm, where he builds extensions, and products with DuckDB.&#xA;Previously Served as Head of Cloud Data Platform at Schonfeld Strategic Advisors from 2021 to 2024, where he leads a global team building a cloud-agnostic data platform for quantitative trading. His stack included Apache Arrow, DuckDB, Apache Iceberg, AWS Lambda, Athena, and S3. Previously held leadership roles as CTO at J.P. Morgan (ROAR platform, secure multiparty computation) and VP at Two Sigma (cloud-scale caching, container optimizations, Spark, Mesos).</description>
+    </item>
+    <item>
+      <title>Russell Spitzer</title>
+      <link>http://localhost:1313/speakers/russell-spitzer/</link>
+      <pubDate>Wed, 29 Oct 2025 12:19:32 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/russell-spitzer/</guid>
+      <description>Russell Spitzer received his Ph.D from UCSF in 2013 after performing a lot of comparisons of protein binding sites. Following that he became deeply invested in distributed computing and involved in several Apache projects. While working at Datastax he became a key contributor to the DataStax Spark-Cassandra Connector and also worked on both of those (and other) Apache projects. More recently he has been involved with the Apache Iceberg project and has devoted most of his time to data file management and advancing the table format.</description>
+    </item>
+    <item>
+      <title>Anastasiia Zvenigorodskaia</title>
+      <link>http://localhost:1313/speakers/anastasiia-zvenigorodskaia/</link>
+      <pubDate>Fri, 24 Oct 2025 00:35:33 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/anastasiia-zvenigorodskaia/</guid>
+      <description> Co-founder &amp;amp; COO at Epicmax Speaker at international tech conferences Open Source advocate Strategic consultant on operations, finances, and team efficiency Official Notion Ambassador </description>
+    </item>
+    <item>
+      <title>Peculiar C. Umeh</title>
+      <link>http://localhost:1313/speakers/peculiar-c-umeh/</link>
+      <pubDate>Fri, 24 Oct 2025 00:31:18 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/peculiar-c-umeh/</guid>
+      <description>Peculiar C. Umeh is an Open-Source Advocate, Software Developer, Chair, and Project Manager for the CHAOSS Education Project. She is an experienced Project Manager with a versatile background in software development and community building, with a proven track record of leading cross-functional teams, driving innovation, and contributing to CHAOSS open-source projects.&#xA;She loves the intersection between tech and people, and is passionate about educating emerging talents and early-career professionals in open-source contributions.</description>
+    </item>
+    <item>
+      <title>Josh Lee</title>
+      <link>http://localhost:1313/speakers/josh-lee/</link>
+      <pubDate>Tue, 21 Oct 2025 13:22:29 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/josh-lee/</guid>
+      <description>Whether it’s operators or observability, agile or accessibility, my expertise shines because I’m passionate about all of it. I’ve been building software for more than a decade and I love sharing experiences via public speaking. I’m currently a Developer Advocate for Altinity where I help create educational content about ClickHouse® and OpenTelemetry, and I am a contributor to the OpenTelemetry project.</description>
+    </item>
+    <item>
+      <title>Christopher Bergh</title>
+      <link>http://localhost:1313/speakers/christopher-bergh/</link>
+      <pubDate>Tue, 21 Oct 2025 13:20:08 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/christopher-bergh/</guid>
+      <description>Christopher Bergh is the CEO and Head Chef at DataKitchen. Chris has over 30 years of experience in research, software engineering, data analytics, and executive management. Chris has an M.S. from Columbia University.&#xA;Chris is a recognized expert on DataOps. He is the co-author of the DataOps Cookbook and DataOps Manifesto and a speaker on DataOps at many industry conferences. Chris began his career at MIT&amp;rsquo;s Lincoln Laboratory and NASA. There, he created AI algorithms that optimized aircraft arrival at several major airports in the US.</description>
+    </item>
+    <item>
+      <title>Chris Crane</title>
+      <link>http://localhost:1313/speakers/chris-crane/</link>
+      <pubDate>Tue, 21 Oct 2025 13:14:38 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/chris-crane/</guid>
+      <description>Chris Crane is the co-founder and head of product at Fiveonefour, creators of the MooseStack, on a mission to bring incredible developer experiences to the data &amp;amp; analytics stack. He&amp;rsquo;s previously led product and data teams at Nike, Sysdig, and Datalogue.</description>
+    </item>
+    <item>
+      <title>David Stokes</title>
+      <link>http://localhost:1313/speakers/david-stokes/</link>
+      <pubDate>Fri, 17 Oct 2025 12:51:02 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/david-stokes/</guid>
+      <description>Dave Stokes is a MySQL Community Manager for Oracle Corporation and started at MySQL as a PHP Developer in the MySQL Certification Group. He lives in Texas, is the author of MySQL and JSON: A Practical Programming Guide</description>
+    </item>
+    <item>
+      <title>Boris Tyshkevich</title>
+      <link>http://localhost:1313/speakers/boris-tyshkevich/</link>
+      <pubDate>Wed, 01 Oct 2025 16:06:02 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/boris-tyshkevich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alkin Tezuysal</title>
+      <link>http://localhost:1313/speakers/alkin-tezuysal/</link>
+      <pubDate>Sat, 27 Sep 2025 07:58:56 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/alkin-tezuysal/</guid>
+      <description>Alkin Tezuysal is the Director of Services at Altinity Inc. He has extensive experience in open-source relational databases, working in various sectors and large functions. With over three decades of industry experience, he has led global operations teams for MySQL and ClickHouse® customers and users. He has co-authored MySQL Cookbook by O&amp;rsquo;Reilly Media. He was awarded MySQL Rockstar 2023—Oracle (MySQL Community)—Co-authored Database Design and Modeling with PostgreSQL and MySQL 2024 by Packt.</description>
+    </item>
+    <item>
+      <title>Peter Corless</title>
+      <link>http://localhost:1313/speakers/peter-corless/</link>
+      <pubDate>Thu, 18 Sep 2025 15:23:13 -0500</pubDate>
+      <guid>http://localhost:1313/speakers/peter-corless/</guid>
+      <description>Peter has worked across a broad spectrum of the data industry over the past decade: real-time data streaming, as well as distributed databases, OLTP and OLAP, SQL and NoSQL. He recently wrote an O&amp;rsquo;Reilly book on Open Source Observability.</description>
+    </item>
+    <item>
+      <title>Ron Kapoor</title>
+      <link>http://localhost:1313/speakers/ron-kapoor/</link>
+      <pubDate>Thu, 18 Sep 2025 15:23:13 -0500</pubDate>
+      <guid>http://localhost:1313/speakers/ron-kapoor/</guid>
+      <description>Ron is a Developer Advocate at CelerData, where he helps bridge the gap between high-performance analytics technology and the data engineering community. Before joining CelerData, Ron worked at Jefferies, where he engineered real-time streaming systems and electronic trading infrastructure for fixed income products. His work focused on ultra-low-latency performance, reliability, and data integrity in capital markets environments. He’s especially interested in modern data architecture. Particularly streaming analytics, lakehouse ecosystems, and the intersection of simplicity and performance.</description>
+    </item>
+    <item>
+      <title>Anurag Pandey</title>
+      <link>http://localhost:1313/speakers/anurag-pandey/</link>
+      <pubDate>Thu, 18 Sep 2025 14:43:03 -0500</pubDate>
+      <guid>http://localhost:1313/speakers/anurag-pandey/</guid>
+      <description>Dedicating my efforts and expertise on building Auto-Healing databases.</description>
+    </item>
+    <item>
+      <title>Rakshit Khare</title>
+      <link>http://localhost:1313/speakers/rakshit-khare/</link>
+      <pubDate>Thu, 18 Sep 2025 13:43:11 -0500</pubDate>
+      <guid>http://localhost:1313/speakers/rakshit-khare/</guid>
+      <description>Rakshit Khare is a seasoned analytics specialist and solutions architect with over 16 years of experience delivering transformative data solutions across Insurance, Banking, and Healthcare industries in the Americas and EMEA regions. Currently at Amazon Web Services (AWS), Rakshit leads CxO-level pre-sales engagements, architects comprehensive analytics solutions, and drives cloud migration strategies that enhance operational efficiency and business value.&#xA;Rakshit’s expertise spans the full AWS analytics stack, including Redshift, S3, Glue, Step Functions, and Apache Iceberg, with a proven track record in migrating batch workloads to near-real-time architectures.</description>
+    </item>
+    <item>
+      <title>Mya Jaye</title>
+      <link>http://localhost:1313/speakers/mya-jaye/</link>
+      <pubDate>Wed, 03 Sep 2025 12:11:05 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/mya-jaye/</guid>
+      <description>A brilliant, talented, self-taught, ambivert who loves attending and speaking at conferences. I enjoy tinkering with small board computers like raspberry pis.&#xA;☕ If you see me around, don&amp;rsquo;t hesitate to come say hi!&#xA;🏒 Hockey player since I was 7&#xA;💻 Programming since I was 14&#xA;✏️ Writer / Blogger&#xA;🎹 Pianist&#xA;🦺 First Responder&#xA;🧶 Fiber Art&#xA;♟️ Chess Player</description>
+    </item>
+    <item>
+      <title>Georg Heiler</title>
+      <link>http://localhost:1313/speakers/georg-heiler/</link>
+      <pubDate>Tue, 26 Aug 2025 12:20:33 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/georg-heiler/</guid>
+      <description>Georg is a Senior data expert @Magenta and a ML-ops engineer @ASCII. He is solving challenges with data. His interests include geospatial graphs and time series. Georg transitions the data platform of Magenta to the cloud and is handling large scale multi-modal ML-ops challenges at ASCII.</description>
+    </item>
+    <item>
+      <title>Chris Dabatos</title>
+      <link>http://localhost:1313/speakers/chris-dabatos/</link>
+      <pubDate>Tue, 19 Aug 2025 11:21:16 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/chris-dabatos/</guid>
+      <description>Chris Dabatos, developer advocate at TiDB with a focus on distributed databases and helping teams scale without overcomplicating things. He spends a lot of time building demos, speaking at meetups and conferences, and working with open source projects that blend AI and data infrastructure. He’s big on showing, not just telling. So expect real world examples and maybe a few stories about what didn’t work. Outside of work, he runs a YouTube channel, helps organize hackathons, and lives in Las Vegas.</description>
+    </item>
+    <item>
+      <title>Karthickram Vailraj</title>
+      <link>http://localhost:1313/speakers/karthickram-vailraj/</link>
+      <pubDate>Mon, 18 Aug 2025 14:03:16 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/karthickram-vailraj/</guid>
+      <description>Karthickram Vailraj is a seasoned engineering leader with over 15 years of experience specializing in Site Reliability Engineering (SRE), database administration, and quality assurance across fintech, e-commerce, and capital markets industries. He is recognized for his expertise in architecting highly available, scalable cloud-native infrastructures and automating full lifecycle QA processes, contributing to critical projects impacting millions of users and managing trillions in assets.&#xA;Currently serving as Senior Manager and Engineering Lead at Charles Schwab &amp;amp; Co.</description>
+    </item>
+    <item>
+      <title>sri Rama Satya Prasanth</title>
+      <link>http://localhost:1313/speakers/sri-rama-satya-prasanth/</link>
+      <pubDate>Mon, 18 Aug 2025 13:59:31 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/sri-rama-satya-prasanth/</guid>
+      <description>Sri Rama Satya Prasanth Vuppuluri is a highly accomplished product and functional manager with over 11 years of cross-functional experience spanning management consulting, software development, human-centered design, and enterprise system modernization. Currently a Manager at Deloitte Consulting LLP, Prasanth leads digital transformation initiatives within the United States Health and Human Services (HHS) domain, delivering high-impact solutions across Medicaid, SNAP, TANF, LIHEAP, and Child Care Assistance programs.&#xA;In his current role with the Virginia Department of Social Services, he spearheads critical enhancements to the Virginia Case Management System (VaCMS)—the state&amp;rsquo;s flagship integrated eligibility platform.</description>
+    </item>
+    <item>
+      <title>Viktor Kessler</title>
+      <link>http://localhost:1313/speakers/viktor-kessler/</link>
+      <pubDate>Mon, 18 Aug 2025 13:45:15 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/viktor-kessler/</guid>
+      <description>Viktor has spent his entire career at the intersection of data and innovation — building risk engines, data warehouses, and modern data lakes. He’s led transformative data initiatives at global powerhouses like SAP, PwC, ERGO, MongoDB, and Dremio. Today, he’s the founder of Vakamo Inc. and the creator of Lakekeeper, a fast-growing open-source project that helps organizations embrace the Lakehouse architecture with confidence and clarity.</description>
+    </item>
+    <item>
+      <title>Fatih Degirmenci</title>
+      <link>http://localhost:1313/speakers/fatih-degirmenci/</link>
+      <pubDate>Mon, 18 Aug 2025 13:42:10 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/fatih-degirmenci/</guid>
+      <description>Fatih is a Senior Manager, Core Platforms QE at SUSE, specializing in automation, infrastructure, CI/CD, DevOps, and QE.&#xA;Before joining SUSE, Fatih served as the Executive Director of the Continuous Delivery Foundation (CDF) at the Linux Foundation, where he led initiatives to enhance cross-industry and cross-community collaboration in the CI/CD domain. Prior to that, he was a Principal Developer at Ericsson, where he played a key role in several large-scale CI/CD initiatives.</description>
+    </item>
+    <item>
+      <title>Ray Paik</title>
+      <link>http://localhost:1313/speakers/ray-paik/</link>
+      <pubDate>Mon, 18 Aug 2025 13:40:01 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/ray-paik/</guid>
+      <description>Ray is a Community Manager at PingCAP where he is helping to grow the TiDB community. Prior to PingCAP, Ray managed open source communities at Cube Dev, GitLab and the Linux Foundation. Ray has been a speaker at open source conferences such as All Things Open, Community Leadership Summit, FOSDEM, GitLab Commit, Open Source Summit, and SCaLE.&#xA;Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the Bay FC women&amp;rsquo;s soccer team.</description>
+    </item>
+    <item>
+      <title>Peng Wang</title>
+      <link>http://localhost:1313/speakers/peng-wang/</link>
+      <pubDate>Mon, 18 Aug 2025 13:35:59 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/peng-wang/</guid>
+      <description>Peng Wang is the Global Technical Evangelist for OceanBase, a distributed relational database designed for cloud-native applications. He brings over a decade of experience in the database industry, including his previous role as a team lead in Intel’s database R&amp;amp;D group.&#xA;He is also a contributor to several top-level Apache open source projects, and is passionate about open collaboration in the developer community.&#xA;At OceanBase, he leads global developer engagement efforts — including technical content creation, community building, and open source evangelism.</description>
+    </item>
+    <item>
+      <title>Rajesh Sura</title>
+      <link>http://localhost:1313/speakers/rajesh-sura/</link>
+      <pubDate>Mon, 18 Aug 2025 13:31:22 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/rajesh-sura/</guid>
+      <description>Rajesh Sura is a senior data and analytics leader with over 16 years of experience in designing and scaling enterprise data platforms, artificial intelligence (AI) systems, and business intelligence (BI) solutions. He currently leads the Data Engineering and Business Intelligence function for North America Stores, Amazon, where he oversees the development of cloud-native architectures, AI-enabled BI tools, and conversational analytics platforms that support large-scale retail operations.&#xA;Rajesh has contributed to the design and deployment of Natural Language Interfaces for business intelligence, the migration of legacy data systems to cloud environments, and the creation of secure, governed frameworks for analytics.</description>
+    </item>
+    <item>
+      <title>Jayesh Asrani</title>
+      <link>http://localhost:1313/speakers/jayesh-asrani/</link>
+      <pubDate>Mon, 18 Aug 2025 13:25:40 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/jayesh-asrani/</guid>
+      <description>Jayesh Asrani , Principal Solutions Architect StarTree , helping customers achieve their real-time analytics goals prior to this he worked in field engineering for startups in Data Engineering, Integration to Data Science.</description>
+    </item>
+    <item>
+      <title>Marc Antoine Desroches</title>
+      <link>http://localhost:1313/speakers/marc-antoine-desroches/</link>
+      <pubDate>Tue, 01 Jul 2025 13:55:22 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/marc-antoine-desroches/</guid>
+      <description>I use high-frequency telemetry to ship great games at Ubisoft.&#xA;I worked previously at Sony, Legion Labs and Google.</description>
+    </item>
+    <item>
+      <title>Taylor Murphy</title>
+      <link>http://localhost:1313/speakers/taylor-murphy/</link>
+      <pubDate>Mon, 30 Sep 2024 10:03:00 -0500</pubDate>
+      <guid>http://localhost:1313/speakers/taylor-murphy/</guid>
+      <description>Taylor has a rich background in data science and engineering. Before becoming the CEO of Arch, he co-founded Meltano, a revolutionary open-source data movement tool. His journey includes leading data initiatives at GitLab and Concert, a genetics startup. Now, as the Founder and CEO of Arch, Taylor continues to drive innovation in data management and analytics, leveraging years of expertise to develop cutting-edge solutions that empower businesses to make informed decisions based on robust data insights.</description>
+    </item>
+    <item>
+      <title>Laura Gutierrez Funderburk</title>
+      <link>http://localhost:1313/speakers/laura-gutierrez-funderburk/</link>
+      <pubDate>Thu, 29 Aug 2024 10:16:10 -0600</pubDate>
+      <guid>http://localhost:1313/speakers/laura-gutierrez-funderburk/</guid>
+      <description>Laura Funderburk holds a B.Sc. in Mathematics from Simon Fraser University and has extensive work experience as a data scientist. She is passionate about leveraging open source for MLOps and DataOps and is dedicated to outreach and education.</description>
+    </item>
+    <item>
+      <title>Aditi Pandit</title>
+      <link>http://localhost:1313/speakers/aditi-pandit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/aditi-pandit/</guid>
+      <description>Aditi is a Principal Engineer at Ahana/IBM. She is a Prestissimo committer in the Presto and Velox Open source projects. Aditi has an extensive data infrastructure career of ~18 years at Google, Teradata Aster and Informatica before joining Ahana/IBM. She has a MS in Computer Science from Stony Brook University.</description>
+    </item>
+    <item>
+      <title>Aj Steers</title>
+      <link>http://localhost:1313/speakers/aj-steers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/aj-steers/</guid>
+      <description>Aaron (&amp;ldquo;&amp;ldquo;AJ&amp;rdquo;&amp;rdquo;) Steers has designed and implemented numerous BI and Data Warehousing solutions, including BI systems for AWS EC2, Amazon Prime Video, and many others. Prior to joining Airbyte to work on AI and Data Engineering applications, AJ was the creator of the Singer SDK (https://sdk.meltano.com), an open source EL framework with over 700 dependent repos on GitHub and 50+ open source contributors.&#xA;At Airbyte, AJ has provided technical leadership for a number of AI-related initiatives, including the PyAirbyte Python library, introduction of vector store destinations, universal file transfers, and our new CDK for unstructured data sources.</description>
+    </item>
+    <item>
+      <title>Akshay Ram</title>
+      <link>http://localhost:1313/speakers/akshay-ram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/akshay-ram/</guid>
+      <description>I love to build technology products that help people live better lives.&#xA;Specialties : Product Management, Technology, User experience, Competitor analysis, Business Strategy</description>
+    </item>
+    <item>
+      <title>Albert Wong</title>
+      <link>http://localhost:1313/speakers/albert-wong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/albert-wong/</guid>
+      <description>Albert Wong is a developer advocate at CelerData, a database company that is building StarRocks, a Linux Foundation project that aims to be the world&amp;rsquo;s fastest open source data query engine.</description>
+    </item>
+    <item>
+      <title>Ale Murray</title>
+      <link>http://localhost:1313/speakers/ale-murray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ale-murray/</guid>
+      <description>Ale Murray is currently Director of Community at Confluent, where she has been a major force for establishing a vibrant, collaborative and vast Confluent community in all five continents, helping developers to make the most of Apache Kafka® and other open source technologies. Previously, she was the EMEA community manager at DataStax, where she helped to establish Apache Cassandra™ as a key technology within the open source landscape. In her career, Ale has led the planning of over 800 meetups and community events as well as MVP programs for the technology communities.</description>
+    </item>
+    <item>
+      <title>Alex Merced</title>
+      <link>http://localhost:1313/speakers/alex-merced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/alex-merced/</guid>
+      <description>Alex Merced is a developer advocate for Dremio and has worked as a developer and instructor for companies like GenEd Systems, Crossfield Digital, CampusGuard and General Assembly.&#xA;Alex is passionate about technology and has put out tech content on outlets such as blogs, videos and his podcasts Datanation and Web Dev 101. Alex Merced has contributed a variety of libraries in the Javascript &amp;amp; Python worlds including SencilloDB, CoquitoJS, dremio-simple-query and more.</description>
+    </item>
+    <item>
+      <title>Ali Alemi</title>
+      <link>http://localhost:1313/speakers/ali-alemi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ali-alemi/</guid>
+      <description>Ali Alemi is a Streaming Specialist Solutions Architect at AWS. Ali advises AWS customers with architectural best practices and helps them design real-time analytics data systems which are reliable, secure, efficient, and cost-effective. He works backward from customer’s use cases and designs data solutions to solve their business problems. Prior to joining AWS, Ali supported several public sector customers and AWS consulting partners in their application modernization journey and migration to the Cloud.</description>
+    </item>
+    <item>
+      <title>Ali LeClerc</title>
+      <link>http://localhost:1313/speakers/ali-leclerc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ali-leclerc/</guid>
+      <description>Ali has over a decade of experience in open source software, product, and community marketing. She was most recently Head of Community at Ahana, the SaaS for Presto company, which was acquired by IBM. She works closely with the Presto Foundation to drive open source programs. Prior to Ahana, Ali held community and marketing positions at Alluxio, Couchbase, and Time Warner. She holds a degree from Yale University in Political Science.</description>
+    </item>
+    <item>
+      <title>Aliaksandr Valialkin</title>
+      <link>http://localhost:1313/speakers/aliaksandr-valialkin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/aliaksandr-valialkin/</guid>
+      <description>Aliaksandr is a co-founder and the principal architect of VictoriaMetrics. He is also a well-known author of the popular performance-oriented libraries: fasthttp, fastcache and quicktemplate. Prior to VictoriaMetrics, Aliaksandr held CTO and Architect roles with adtech companies serving high volumes of traffic. He holds a Master’s Degree in Computer Software Engineering. He decided to found VictoriaMetrics after experiencing the shortcomings of all available time series databases and monitoring solutions.</description>
+    </item>
+    <item>
+      <title>Allison Horst</title>
+      <link>http://localhost:1313/speakers/allison-horst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/allison-horst/</guid>
+      <description>Allison is a data scientist, professional educator, and Developer Marketing Manager with Observable&amp;rsquo;s Developer Relations team, where she creates and shares educational content to help data teams build interactive visualizations, data apps, and dashboards. From 2012 - 2022, Allison developed and led data science curricula at UC Santa Barbara. She actively works to contribute to open resources, including through open source software (e.g. the palmerpenguins data package), books, tutorials, and documentation.</description>
+    </item>
+    <item>
+      <title>Alyssa Wright</title>
+      <link>http://localhost:1313/speakers/alyssa-wright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/alyssa-wright/</guid>
+      <description>I design systems of collaboration for companies that want to leverage open source in legally compliant, operationally secure, and technologically innovative ways. I do this by authentically connecting with people and working with them to build corporate cultures where engineers not only leverage the advantages of open source to build better products but also leave a legacy of impact for both people and planet.</description>
+    </item>
+    <item>
+      <title>Amit Dutta</title>
+      <link>http://localhost:1313/speakers/amit-dutta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/amit-dutta/</guid>
+      <description>Amit is working as a Software Engineer at Meta Platforms Inc. At Meta, he worked in design, development of multiple data warehouse query engine products, consolidation of query engines and generally improving reliability/scalability of complex systems. Prior to Meta, Amit completed his Masters in Computer Science from University of Alabama at Birmingham, and Undergraduate from Bangladesh University of Engineering and Technology.</description>
+    </item>
+    <item>
+      <title>Andrew Madson</title>
+      <link>http://localhost:1313/speakers/andrew-madson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/andrew-madson/</guid>
+      <description>Andrew Madson is a Data Analytics, Data Science, and AI Evangelist at Dremio, where he leverages his extensive expertise in data analytics, machine learning, and artificial intelligence to drive innovation and educate the wider community. With a strong academic background, including multiple master&amp;rsquo;s degrees in data analytics and business management, Andrew deeply understands the technical intricacies involved in data-driven decision-making.&#xA;Andrew&amp;rsquo;s career is marked by impactful roles at prominent organizations. He served as the Senior Director of Data Analytics &amp;amp; AI at Arizona State University, where he streamlined analytics processes and significantly enhanced team productivity.</description>
+    </item>
+    <item>
+      <title>Andrey Gusarov</title>
+      <link>http://localhost:1313/speakers/andrey-gusarov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/andrey-gusarov/</guid>
+      <description>Senior Data Engineer | Data Architect | Engineering Manager</description>
+    </item>
+    <item>
+      <title>Anita Ihuman</title>
+      <link>http://localhost:1313/speakers/anita-ihuman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/anita-ihuman/</guid>
+      <description>Anita is a developer advocate and a technical writer specializing in cloud native and DevOps engineering. She is championing the growth and adoption of cloud-native solutions in Africa as an organizer of Kubernetes Community Days(KCD) Nigeria and the CNCF Abuja community group. She is an Open source evangelist and has led great efforts in around DEI, Documentation, and Community growth. She has published multiple articles on Software Engineering, Productivity, Career Growth, and Community health.</description>
+    </item>
+    <item>
+      <title>Arjun Sharda</title>
+      <link>http://localhost:1313/speakers/arjun-sharda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/arjun-sharda/</guid>
+      <description>My name is Arjun Sharda and I am passionate about technology. Despite my young age of 13, I am already an entrepreneur, writer, full-stack developer, and YouTuber. I have been working on many open-source projects and have earned certifications from reputable institutions such as Stanford, Meta, Google, Amazon Web Services, and deeplearning.ai.</description>
+    </item>
+    <item>
+      <title>Arnaud Adant</title>
+      <link>http://localhost:1313/speakers/arnaud-adant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/arnaud-adant/</guid>
+      <description>Arnaud has over 20 years of database experience. He started his career as a software engineer, became more interested in database technology and joined Oracle MySQL in 2011 as a support technical engineer. He is now Database Team Lead at Jump Trading in Chicago, Illinois. When not on a database issue, he likes to play ping pong and read ancient Chinese texts. He is the author of Huaying, a Chinese dictionary iOS app.</description>
+    </item>
+    <item>
+      <title>Arthur Ansquer</title>
+      <link>http://localhost:1313/speakers/arthur-ansquer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/arthur-ansquer/</guid>
+      <description>Product Manager and ClickHouse® user for a handful of years. Based in Madrid, Spain. Now in charge of the Aiven for ClickHouse® and Aiven for Cassandra at Aiven.io</description>
+    </item>
+    <item>
+      <title>Arul Jegadish</title>
+      <link>http://localhost:1313/speakers/arul-jegadish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/arul-jegadish/</guid>
+      <description>Arul has extensive experience in building and managing open source based DevOps toolchains. OpsVerse, a company he co-founded, is into the business of making it easy for anyone to run OSS DevOps tools at scale.</description>
+    </item>
+    <item>
+      <title>Avi Press</title>
+      <link>http://localhost:1313/speakers/avi-press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/avi-press/</guid>
+      <description>Avi Press is a developer tool author, and functional programming language enthusiast, serving as a founder &amp;amp; CEO of Scarf. Avi loves thinking about and discussing how people can solve problems by more effectively sharing data, and how that applies to building a sustainable open-source ecosystem. He is also a host of the Hacking Open Source Business Podcast, where Avi continues to share insights, inspire discussions, and contribute to the ever-evolving open-source landscape.</description>
+    </item>
+    <item>
+      <title>Beinan Wang</title>
+      <link>http://localhost:1313/speakers/beinan-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/beinan-wang/</guid>
+      <description>Dr. Beinan Wang is a Senior Staff Software Engineer at Alluxio and a committer and TSC of PrestoDB. Prior to Alluxio, he was the Tech Lead of the Presto team at Twitter and he built large-scale distributed SQL systems for Twitter’s data platform. He has twelve-year of experience working on performance optimization, distributed caching, and volume data processing. He received his Ph.D. in computer engineering from Syracuse University on the symbolic model checking and runtime verification of distributed systems.</description>
+    </item>
+    <item>
+      <title>Boaz Leskes</title>
+      <link>http://localhost:1313/speakers/boaz-leskes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/boaz-leskes/</guid>
+      <description>Boaz is part of MotherDuck’s founding team and leads its database group. In past life, he spent some years on distributed systems, (Elastic)search and cloud platforms. Will happily talk to any of these, or speed skating, kite surfing, rowing, or any other thing of interest.</description>
+    </item>
+    <item>
+      <title>Brian Bickell</title>
+      <link>http://localhost:1313/speakers/brian-bickell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/brian-bickell/</guid>
+      <description>Brian is the VP of Strategy and Alliances at Cube. Prior to his work at Cube, he managed tech alliances at Firebolt and built the award winning data management business at the consulting firm InterWorks. Brian combines strong technical acumen and industry experience with his more than a decade of experience in data analytics consulting to approach the challenges facing the analytics practitioner with wisdom and empathy.</description>
+    </item>
+    <item>
+      <title>Cameron Cyr</title>
+      <link>http://localhost:1313/speakers/cameron-cyr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/cameron-cyr/</guid>
+      <description>Cameron is a data fanatic who has spent his career developing data systems enabling valuable use cases such as analytics and machine learning. During this time, he has placed a focus on building reliable and scalable data systems with an emphasis on data quality. Cameron currently serves as a Staff Data Engineer for a vacation rental tech startup. He also is one of the organizers of the Nashville Data Engineering Group meetup.</description>
+    </item>
+    <item>
+      <title>Chris Hazard</title>
+      <link>http://localhost:1313/speakers/chris-hazard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/chris-hazard/</guid>
+      <description>Dr. Chris Hazard is Howso co-founder and CTO. Howso&amp;rsquo;s understandable and privacy enhancing AI spun out of Hazardous Software, a company Chris founded in 2007 that focuses on decision support, visualization, and simulation for hard strategy problems in large organizations, DoD, and government. Chris holds a PhD in computer science from NC State, with focus on artificial intelligence for trust and reputation. He was a software architect of CDMA infrastructure at Motorola, worked on robot coordination and logistics at Kiva Systems (now Amazon Robotics), is an active member of the CompTIA AI Advisory Council, and advised NATO on cyber security policies.</description>
+    </item>
+    <item>
+      <title>Cole Bowden</title>
+      <link>http://localhost:1313/speakers/cole-bowden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/cole-bowden/</guid>
+      <description>Based in San Diego, Cole is the Release Manager and a Developer Advocate for Trino. He was introduced to the project as a software engineering intern at Facebook back when it was Presto, and has stuck with it since. When not working with software, he enjoys live music, baseball, and all things gaming.</description>
+    </item>
+    <item>
+      <title>Dipesh Mittal</title>
+      <link>http://localhost:1313/speakers/dipesh-mittal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/dipesh-mittal/</guid>
+      <description>Dipesh has been building software for over 11 years across startups. He was head of engineering at a $500M company for 5 years before starting his own venture in monitoring space.</description>
+    </item>
+    <item>
+      <title>Diptiman Raichaudhuri</title>
+      <link>http://localhost:1313/speakers/diptiman-raichaudhuri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/diptiman-raichaudhuri/</guid>
+      <description>Staff Developer Advocate at Confluent, ex-AWS Data Analytics Specialist, ex-Google Cloud - Data platform specialist. Designed and implemented ‘Modern Data Platform’ for large scale enterprise use cases. Worked at the intersection of Data(Spark, Flink, Kafka, Kinesis, Redshift, Iceberg, Glue, Hive, Neo4j, Neptune) and AI(torch,sagemaker,vertex ai,kubeflow, LLMs) at cloud scale (AWS and Google Cloud).</description>
+    </item>
+    <item>
+      <title>Donny Greenberg</title>
+      <link>http://localhost:1313/speakers/donny-greenberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/donny-greenberg/</guid>
+      <description>Donny is the co-founder and CEO of 🏃‍♀️Runhouse🏠. He was previously the product lead for PyTorch at Meta, supporting the AI community across research, production, OSS, and enterprise. Notable projects include TorchRec, the open-sourcing of Meta&amp;rsquo;s large-scale recommendations infra, TorchArrow &amp;amp; TorchData. He is based in New York.</description>
+    </item>
+    <item>
+      <title>Dunith Dhanushka</title>
+      <link>http://localhost:1313/speakers/dunith-dhanushka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/dunith-dhanushka/</guid>
+      <description>Dunith avidly enjoys designing, building, and operating large-scale real-time, event-driven architectures. He&amp;rsquo;s got 10+ years of doing so and loves to share his learnings through blogging, videos, and public speaking.&#xA;Dunith works at Redpanda as a Senior Developer Advocate, where he spends much time educating developers about building event-driven applications with Redpanda.</description>
+    </item>
+    <item>
+      <title>Evan Rusackas</title>
+      <link>http://localhost:1313/speakers/evan-rusackas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/evan-rusackas/</guid>
+      <description>Evan is a community lead and software engineer with Preset, Inc. and works closely with the Apache Superset community. Evan&amp;rsquo;s interests lie in UI design, data visualization, and frontend engineering. He spends the bulk of his time growing and engaging with the Superset community, striving to improve the product and its processes. When not working on software, he&amp;rsquo;s a dad, a bassist, a beer judge, and an enthusiast of time well-spent in a garage.</description>
+    </item>
+    <item>
+      <title>Fahad shah</title>
+      <link>http://localhost:1313/speakers/fahad-shah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/fahad-shah/</guid>
+      <description>I work at RisingWave Labs as a developer advocate. I am passionate about stream processing, real-time analytics, and open-source software and communities.</description>
+    </item>
+    <item>
+      <title>Felipe Mendes</title>
+      <link>http://localhost:1313/speakers/felipe-mendes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/felipe-mendes/</guid>
+      <description>Felipe Mendes is an IT specialist with over a decade of experience working with distributed systems and databases. He has co-authored several technical publications, ranging from Linux, containers, distributed systems and distributed databases. A frequent speaker at events, he works as a Solution Architect for ScyllaDB.</description>
+    </item>
+    <item>
+      <title>Gabor Szarnyas</title>
+      <link>http://localhost:1313/speakers/gabor-szarnyas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/gabor-szarnyas/</guid>
+      <description>Gábor Szárnyas is Developer Relations Advocate at DuckDB Labs. He obtained his PhD in software engineering in 2019 and spent 3 years as a post-doctoral researcher at CWI in Amsterdam, working on graph data management techniques.</description>
+    </item>
+    <item>
+      <title>Gang Tao</title>
+      <link>http://localhost:1313/speakers/gang-tao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/gang-tao/</guid>
+      <description>Gang has over 20 years experience in software development, and is a recognized expert of AI, BI, Big Data and Data Visualization. He was the principal engineer of Splunk&amp;rsquo;s ML and Data platform. He&amp;rsquo;s also a die-hard fan of AC Milan.</description>
+    </item>
+    <item>
+      <title>Gian Merlino</title>
+      <link>http://localhost:1313/speakers/gian-merlino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/gian-merlino/</guid>
+      <description>Gian is a co-founder and CTO of Imply. Gian is also one of the main committers of Druid. Previously, Gian led the data ingestion team at Metamarkets and held senior engineering positions at Yahoo. He holds a B.S. in Computer Science from Caltech.</description>
+    </item>
+    <item>
+      <title>Guangya Liu</title>
+      <link>http://localhost:1313/speakers/guangya-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/guangya-liu/</guid>
+      <description>Guangya Liu is a Senior Technical Staff Member (STSM) for IBM Cloud Pak for Watson AIOps and ITOM (IT Operations Management). He is the technical leader driving the IBM Cloud Pak for Watson AIOps foundation development and customer support. He is also the open source leader for the overall IBM IBM Cloud Pak for Watson AIOps team, driving the cloud-native open source contribution to align with IBM Cloud Pak strategy.</description>
+    </item>
+    <item>
+      <title>Heather Meeker</title>
+      <link>http://localhost:1313/speakers/heather-meeker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/heather-meeker/</guid>
+      <description>Heather Meeker is the co-founder of Chinstrap Community, a forum for building commercial open source software businesses. She was a founding partner at OSS Capital, an early stage venture capital fund specializing in commercial open source development. She is also a partner at Tech Law Partners, LLP, www.techlawpartners.com, a law firm focused on technology transactions.&#xA;Meeker is an internationally-known specialist in open source software licensing. Her new book, From Project to Profit, is a handbook for structuring commercial open source software businesses.</description>
+    </item>
+    <item>
+      <title>Jarek Potiuk</title>
+      <link>http://localhost:1313/speakers/jarek-potiuk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/jarek-potiuk/</guid>
+      <description>Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation&#xA;Jarek is an Engineer with a broad experience in many subjects - Open-Source, Cloud, Mobile, Robotics, AI, Backend, Developer Experience, but he also had a lot of non-engineering experience - running a company, being CTO, organizing big, international community events, technical sales support, pr and marketing advisory but also looking at legal aspect of licensing and building open-source communities are all under his belt.</description>
+    </item>
+    <item>
+      <title>Javier Ramirez</title>
+      <link>http://localhost:1313/speakers/javier-ramirez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/javier-ramirez/</guid>
+      <description>I help developers make the most of their (fast) data, I make sure the core team behind QuestDB listens to absolutely every piece of feedback I get, and I facilitate collaboration in our open source repository.&#xA;I love data, big and small. I have extensive experience with SQL, NoSQL, graph, in-memory databases, Big Data, and Machine Learning. I like distributed, scalable, always-on systems.&#xA;Before working in Developer Relations, I spent 20 years developing software professionally and sharing what I learnt with the community.</description>
+    </item>
+    <item>
+      <title>Jeffrey Nelson</title>
+      <link>http://localhost:1313/speakers/jeffrey-nelson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/jeffrey-nelson/</guid>
+      <description>Jeff has a background in data analytics and is passionate to enable developers of all abilities to use data to solve real-world problems. He enjoys blending storytelling with technology to teach analytics principles and practices to developers. Prior to Google, Jeff worked as a data engineer at a global systems integrator in the Media &amp;amp; Entertainment vertical, where he helped small and large companies gain value from their data.</description>
+    </item>
+    <item>
+      <title>Jordan Tigani</title>
+      <link>http://localhost:1313/speakers/jordan-tigani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/jordan-tigani/</guid>
+      <description>Jordan is co-founder and chief duck-herder at MotherDuck, a startup building a serverless analytics platform based on DuckDB. He spent a decade working on Google BigQuery, an engineer, book author, Eng and PM leader. More recently, as Chief Product Officer at SingleStore, he helped them relaunch their database as a service and grow it into a thriving business. His biggest claim to fame is predicting world cup matches with a better record than Paul the Octopus.</description>
+    </item>
+    <item>
+      <title>Josep Prat</title>
+      <link>http://localhost:1313/speakers/josep-prat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/josep-prat/</guid>
+      <description>Josep Prat is a Open Source Software Director at Aiven and is passionate about Open Source Technologies. With a strong background in Scala and distributed systems, he contributes to several Open Source Projects and is a committer and Project Management Committee member for Apache Kafka. In his spare time, Josep enjoys late and long brunches on Sundays.</description>
+    </item>
+    <item>
+      <title>Jove Zhong</title>
+      <link>http://localhost:1313/speakers/jove-zhong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/jove-zhong/</guid>
+      <description>Jove has over 18 years in enterprise software product development and management. He previously was an Engineering Director at Splunk, and holds 17 Patents and 4 AWS Certifications. He is a board sports fanatic, incl. agile board.</description>
+    </item>
+    <item>
+      <title>Juan Luis Cano Rodríguez</title>
+      <link>http://localhost:1313/speakers/juan-luis-cano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/juan-luis-cano/</guid>
+      <description>Juan Luis is an Aerospace Engineer with a passion for STEM, programming, outreach, and sustainability. He has a decade of experience as developer advocate, software engineer, and Python trainer in several industries, and currently he works as Principal Product Manager for Kedro, an open source Python framework for data science, at QuantumBlack, AI by McKinsey.&#xA;He has made significant contributions to the PyData stack and published several open-source packages, the most important one being poliastro, an open-source Python library for orbital mechanics used at space agencies, satellite companies, and universities.</description>
+    </item>
+    <item>
+      <title>Julien Jakubowski</title>
+      <link>http://localhost:1313/speakers/julien-jakubowski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/julien-jakubowski/</guid>
+      <description>Julien Jakubowski is a Developer Advocate at StreamNative with over 20+ years of experience as a developer, staff engineer, and consultant. He has built several complex systems with distributed, scalable, and event-driven architecture for various industrial sectors such as retail, finance, and manufacturing.&#xA;Julien delivers talks at conferences on software engineering, specializing in the Java community: Devoxx, VoxxedDays, Berlin Buzzwords, Java User Groups, and Google Developer Groups, among others.&#xA;Julien is located in France.</description>
+    </item>
+    <item>
+      <title>Jun Rao</title>
+      <link>http://localhost:1313/speakers/jun-rao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/jun-rao/</guid>
+      <description>Jun Rao is a co-founder of Confluent, a company that provides a data streaming platform based on Apache Kafka. Before Confluent, Jun Rao was a senior staff engineer at LinkedIn where he led the development of Kafka. Before LinkedIn, Jun Rao was a researcher at IBM&amp;rsquo;s Almaden research center, where he conducted research on database and distributed systems. Jun Rao is a committer of Apache Kafka and Apache Cassandra.</description>
+    </item>
+    <item>
+      <title>Kanthi Subramanian</title>
+      <link>http://localhost:1313/speakers/kanthi-subramanian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/kanthi-subramanian/</guid>
+      <description>Kanthi has close to 2 decades of experience in software development with focus on Data Engineering(ETL/Streaming pipelines, Data warehousing) in the last 4-5 years. He has been an active open source contributor to projects such as Apache Airflow , Cassandra and others.</description>
+    </item>
+    <item>
+      <title>Karin Wolok</title>
+      <link>http://localhost:1313/speakers/karin-wolok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/karin-wolok/</guid>
+      <description>Karin is the founder of Project Elevate, a DevRel consulting company. With a decade of experience in community programming, advocacy, and developer relations, Karin has built thriving communities that drive growth and engagement for companies across various industries. As Head of Developer Community at StarTree, Karin played a key role in bringing the company from 0-1 in developer engagement, marketing, community programs, recruiting, and culture development. She also led the community at Neo4j, where she built a thriving community that became one of the unique selling points of the product.</description>
+    </item>
+    <item>
+      <title>Ken Chen</title>
+      <link>http://localhost:1313/speakers/ken-chen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ken-chen/</guid>
+      <description>Ken Chen has over 14 years of enterprise software experience. He previously worked in AWS, Splunk and EMC and has deep experience in distributed systems, database and enterprise / cloud storage architecture design and development.</description>
+    </item>
+    <item>
+      <title>Kenaz Kwa</title>
+      <link>http://localhost:1313/speakers/kenaz-kwa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/kenaz-kwa/</guid>
+      <description>Kenaz Kwa is the VP of Product and Design at FOSSA, a technology platform that helps organizations with open source license compliance, security, and SBOM management. Prior to joining FOSSA, Kenaz served as the Director of Product Management at Puppet, a DevOps leader in configuration management. Previously, he held several Program Manager positions at Microsoft on the Azure team.</description>
+    </item>
+    <item>
+      <title>Kyle Cunningham</title>
+      <link>http://localhost:1313/speakers/kyle-cunningham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/kyle-cunningham/</guid>
+      <description>Kyle Cunningham is a software engineer and user experience designer. He&amp;rsquo;s had a lifetime passion for technology that began with legos, taking apart electronics, and building computers. That passion has continued with over 15 years of professional experience in the tech industry, helping organizations all over the world make things easier, more convenient, and more civiliz</description>
+    </item>
+    <item>
+      <title>Lorenzo Mangani</title>
+      <link>http://localhost:1313/speakers/lorenzo-mangani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/lorenzo-mangani/</guid>
+      <description>CEO and Co-Founder at QXIP &amp;amp; Gigapipe. Expert in Open-Source, Analytics, Monitoring and Observability.</description>
+    </item>
+    <item>
+      <title>Mary Grygleski</title>
+      <link>http://localhost:1313/speakers/mary-grygleski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/mary-grygleski/</guid>
+      <description>Mary is a Java Champion and a passionate Senior Developer Advocate at DataStax, a leading data management company that champions Open Source software and specializes in Big Data, DB-as-a-service, Streaming, and Cloud-Native systems. She spent 3.5 years as a very effective advocate at IBM, focusing on Java, Jakarta EE, OpenJ9, Open Source, Cloud, and Distributed Systems. She transitioned from Unix/C to Java around 2000 and has never looked back since then.</description>
+    </item>
+    <item>
+      <title>Matt Harrison</title>
+      <link>http://localhost:1313/speakers/matt-harrison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/matt-harrison/</guid>
+      <description>Matt teaches Python and Data Science. He has a CS degree from Stanford University. He is a best-selling author on Python and Data subjects. His books: Effective Pandas, Illustrated Guide to Learning Python 3, Intermediate Python, Learning the Pandas Library, and Effective PyCharm have all been best-selling books on Amazon. He just published Machine Learning Pocket Reference and Pandas Cookbook (Second Edition). He has taught courses at large companies (Netflix, NASA, Verizon, Adobe, HP, Exxon, and more), Universities (Stanford, University of Utah, BYU), as well as small companies.</description>
+    </item>
+    <item>
+      <title>Maxime Beauchemin</title>
+      <link>http://localhost:1313/speakers/maxime-beauchemin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/maxime-beauchemin/</guid>
+      <description>Maxime Beauchemin is the founder and CEO of Preset, a series B startup supporting and commercializing the Apache Superset project. Max is the original creator of Apache Airflow and Apache Superset, the open-source projects he started during his time at Airbnb. Max has over a decade of experience in data engineering at companies including Lyft, Airbnb, Meta, and Ubisoft.</description>
+    </item>
+    <item>
+      <title>Micha Eichmann</title>
+      <link>http://localhost:1313/speakers/micha-eichmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/micha-eichmann/</guid>
+      <description>I support our clients in their quest to make decisions data-informed. My background is in data science and bioinformatics.</description>
+    </item>
+    <item>
+      <title>Michael Disteli</title>
+      <link>http://localhost:1313/speakers/michael-disteli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/michael-disteli/</guid>
+      <description>I have worked in the field of helping government agencies and other businesses accelerate their digital transformation for over 10 years.&#xA;Starting as a product manager for secure e-mail and e-payment solutions at Swiss Post for over 5 years, I transitioned into the field of data management some years ago.&#xA;Again as product manager I was heavily involved in creating and establishing the open-source data platform HelloDATA. As of right now I am responsible for scaling and developing our data management solutions at Bedag Solutions AG.</description>
+    </item>
+    <item>
+      <title>Michael Molina</title>
+      <link>http://localhost:1313/speakers/michael-molina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/michael-molina/</guid>
+      <description>Michael Molina is a Senior Software Engineer at Airbnb. He has served as a PMC member for Apache Superset for 4 years and was the release manager of 3 major Superset releases. Michael is currently working on Superset Extensions and is passionate about open source collaboration.</description>
+    </item>
+    <item>
+      <title>Michel Tricot</title>
+      <link>http://localhost:1313/speakers/michel-tricot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/michel-tricot/</guid>
+      <description>Michel is the co-founder and CEO of Airbyte, the leading open-source data integration platform that allows replicating data from any APIs, databases &amp;amp; files to data warehouses, data lakes, and any other destinations. Airbyte has been used by over 40k companies and has over 4k daily active customers. Airbyte raised $180M from Accel, Benchmark, Coatue &amp;amp; Altimeter.&#xA;Prior to starting Airbyte, Michel was a founding member &amp;amp; Director of Engineering at rideOS, and Head of Integrations and Director of Engineering at LiveRamp.</description>
+    </item>
+    <item>
+      <title>Mike Driscoll</title>
+      <link>http://localhost:1313/speakers/mike-driscoll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/mike-driscoll/</guid>
+      <description>I&amp;rsquo;ve spent over two decades as a technologist, entrepreneur, and investor. Rill (2020-present) is a cloud service for operational intelligence; Metamarkets (acquired by Snap, Inc. in 2017) was a real-time analytics platform for digital ad firms; Data Collective (2011-present) is investing $2B+ in assets in deep tech; Dataspora (acquired by Via Science in 2011) was an early pioneer in data science; CustomInk.com (1999-present) is a leader in custom apparel online.</description>
+    </item>
+    <item>
+      <title>Mingyu Chen</title>
+      <link>http://localhost:1313/speakers/mingyu-chen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/mingyu-chen/</guid>
+      <description>Apache Doris PMC Chair. 10 years of experience in distributed system, focusing on distributed scalable analytical databases.</description>
+    </item>
+    <item>
+      <title>Nadine Farah</title>
+      <link>http://localhost:1313/speakers/nadine-farah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/nadine-farah/</guid>
+      <description>Nadine Farah is leading Onehouse&amp;rsquo;s developer initiatives. She&amp;rsquo;s passionate about bridging engineering, product &amp;amp; marketing to help drive product adoption. She previously led Rockset&amp;rsquo;s developer initiatives, focusing on building technical content to drive developer adoption for real-time analytics. At Bose, she contributed to the watchOS SDK &amp;amp; worked with partners to embrace spatial audio in the music and gaming industries.</description>
+    </item>
+    <item>
+      <title>Nick Schrock</title>
+      <link>http://localhost:1313/speakers/nick-schrock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/nick-schrock/</guid>
+      <description>Nick Schrock is the founder and CTO of Dagster Labs, the company behind Dagster. Previously, Nick worked at Facebook, where he co-created GraphQL. Nick believes deeply in the power of well-designed developer tools to make engineers more productive, accelerate their careers, make their lives more enjoyable, and transform the organizations in which they work.</description>
+    </item>
+    <item>
+      <title>Nidhin Jose</title>
+      <link>http://localhost:1313/speakers/nidhin-jose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/nidhin-jose/</guid>
+      <description>Nidhin Jose is a highly experienced Staff Java Backend Engineer with over 13 years of expertise in designing and developing high-performance, scalable backend systems. Specializing in distributed systems and event-driven architectures, he is proficient in technologies such as Java, Spring Boot, Apache Kafka, and Cassandra. Nidhin has extensive experience in optimizing both relational (DB2, PostgreSQL) and NoSQL (Cassandra) databases, implementing advanced performance optimization techniques including multithreading, parallel processing, and caching strategies, all while ensuring system reliability and scalability.</description>
+    </item>
+    <item>
+      <title>Nikolay Sivko</title>
+      <link>http://localhost:1313/speakers/nikolay-sivko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/nikolay-sivko/</guid>
+      <description>Nikolay Sivko, Founder &amp;amp; CEO at Coroot, is on a mission to make production troubleshooting easier for developers everywhere. He&amp;rsquo;s deeply enthusiastic about Site Reliability Engineering (SRE) practices, observability, and open source solutions. With over a decade of hands-on experience in the Observability field, Nikolay is a seasoned expert who brings practical insights to the table.</description>
+    </item>
+    <item>
+      <title>Nir Gazit</title>
+      <link>http://localhost:1313/speakers/nir-gazit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/nir-gazit/</guid>
+      <description>CEO @ traceloop; ex-chief architect @ Fiverr, ex-tech lead @ Google; OpenTelemetry contributor</description>
+    </item>
+    <item>
+      <title>Noa Baron</title>
+      <link>http://localhost:1313/speakers/noa-baron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/noa-baron/</guid>
+      <description>Noa is a Staff Engineer at Cato Networks with a big passion for infrastructure. Over the past 5 years she has been working with data and helping data teams to successfully handle the growing amount of data collected from the Cato Cloud. Her work focuses on building the new Cato Data Platform, to ensure it supports the organization growing demand for data in scale and use cases with efficient and cost-effective solutions, all while keeping up with Cato’s growth and achieving outstanding performance.</description>
+    </item>
+    <item>
+      <title>Odeajo Israel</title>
+      <link>http://localhost:1313/speakers/odeajo-israel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/odeajo-israel/</guid>
+      <description>Odeajo Israel is a highly accomplished and certified professional in the field of technology. He holds certifications as a Google TensorFlow developer, Google Web/Mobile Developer, and Google IT Support Specialist. With extensive experience in data science, machine learning, and software development, Odeajo has made significant contributions to the industry.&#xA;Odeajo&amp;rsquo;s professional journey spans multiple roles, he has a strong background in software development, engineering, database administration, and programming. Odeajo&amp;rsquo;s versatility and adaptability have allowed him to excel in different areas of technology.</description>
+    </item>
+    <item>
+      <title>Pat Nadolny</title>
+      <link>http://localhost:1313/speakers/pat-nadolny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/pat-nadolny/</guid>
+      <description>Pat is Senior Data Engineer at Meltano where he spends most of his time contributing to the Meltano open source project and its surrounding ecosystem.</description>
+    </item>
+    <item>
+      <title>Pedram Navid</title>
+      <link>http://localhost:1313/speakers/pedram-navid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/pedram-navid/</guid>
+      <description>Pedram Navid is the Head of Data Engineering at Dagster Labs, and an avid birdwatcher.</description>
+    </item>
+    <item>
+      <title>Peter Zaitsev</title>
+      <link>http://localhost:1313/speakers/peter-zaitsev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/peter-zaitsev/</guid>
+      <description>Peter Zaitsev is an entrepreneur and co-founder of Percona, Coroot, FerretDB and other tech companies. As one of the leading experts in Open Source strategy and database optimization, Peter has applied his technical knowledge and entrepreneurial drive to contribute as a board member and advisor to several open source startups. Additionally, Peter is the co-author of the book &amp;ldquo;High Performance MySQL: Optimization, Backup and Replication,&amp;rdquo; one of the most popular books on MySQL performance.</description>
+    </item>
+    <item>
+      <title>Robert Hodges</title>
+      <link>http://localhost:1313/speakers/robert-hodges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/robert-hodges/</guid>
+      <description>Robert Hodges is CEO of Altinity, an enterprise provider for open source ClickHouse® data warehouses. He&amp;rsquo;s also a database geek with experience on at least 20 DBMS types. He has worked on open software since 2006.</description>
+    </item>
+    <item>
+      <title>Roman Shaposhnik</title>
+      <link>http://localhost:1313/speakers/roman-shaposhnik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/roman-shaposhnik/</guid>
+      <description>Roman is a co-founder of Ainekko: a 100% open-source company on a mission to democratize how “the machine learning community collaborates on models, datasets, and applications” and helping “the AI community building the future” have more choices than just a single (albeit awesome!) walled garden. He is a serial entrepreneur, technologist and a co-founder and former CTO of ZEDEDA Inc. who is also deeply involved in the world of Open Source as both VP of Legal Affairs at the Apache Software Foundation and a former VP of Technology at The Linux Foundation.</description>
+    </item>
+    <item>
+      <title>Ryan Blue</title>
+      <link>http://localhost:1313/speakers/ryan-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ryan-blue/</guid>
+      <description>Ryan Blue is the co-creator of Apache Iceberg and works on open source data infrastructure. He is an Avro, Parquet, and Spark committer.</description>
+    </item>
+    <item>
+      <title>Sachidananda Maharana</title>
+      <link>http://localhost:1313/speakers/sachidananda-maharana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/sachidananda-maharana/</guid>
+      <description>Loves Distributed Systems</description>
+    </item>
+    <item>
+      <title>Sean Hughes</title>
+      <link>http://localhost:1313/speakers/sean-hughes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/sean-hughes/</guid>
+      <description>Sean is the co-founder of Evidence, an open source business intelligence tool where all content is defined in markdown and SQL. Previously, he helped build the data team at a Canadian private equity firm, and uncovered several problems with BI tools which Evidence sets out to solve. He&amp;rsquo;s an analyst at heart and loves building things that make an analyst&amp;rsquo;s job easier and more fun.</description>
+    </item>
+    <item>
+      <title>Shirshanka Das</title>
+      <link>http://localhost:1313/speakers/shirshanka-das/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/shirshanka-das/</guid>
+      <description>Shirshanka is CTO and Co-Founder of Acryl Data, the company driving the DataHub project. DataHub is used by companies like Peloton, Optum, Expedia, Klarna and many others. With the DataHub community, he is leading the charge on developer-led approaches for modern data discovery, quality and automated governance.&#xA;Over the last decade, Shirshanka has created foundational systems across operational, streaming and data warehousing ecosystems. While at LinkedIn, he founded the open source DataHub project and is also a PMC and committer on the Apache Gobblin project.</description>
+    </item>
+    <item>
+      <title>Shivji Kumar Jha</title>
+      <link>http://localhost:1313/speakers/shivji-kumar-jha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/shivji-kumar-jha/</guid>
+      <description>Shiv is a an architect at Nutanix and heads the cloud data platform team helping Nutanix products with data storage- databases, messaging, analytics etc. With a team of 6, Shiv works on making apache pulsar, nats-server, druid, debezium, presto etc available as a platform for all of nutanix cloud products.&#xA;Shiv loves spending time on Data storage and MLOps related research and has contributed to MySQL and pulsar codebases. Shiv is an avid reader (tech, fiction, economics etc) and is always looking at ways to simplify software architectures.</description>
+    </item>
+    <item>
+      <title>Siddarth Jain</title>
+      <link>http://localhost:1313/speakers/siddarth-jain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/siddarth-jain/</guid>
+      <description>Currently, I&amp;rsquo;m building Doctor Droid, an event analytics tool for monitoring purposes.&#xA;Previously, I was a full stack ML Engineer (Data Science models, ML models and Data engineering) at a leading hyperlocal startup where we delivered over a million food &amp;amp; e-commerce orders every day.</description>
+    </item>
+    <item>
+      <title>Siri Varma Vegiraju</title>
+      <link>http://localhost:1313/speakers/siri-varma-vegiraju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/siri-varma-vegiraju/</guid>
+      <description>Siri Varma Vegiraju is a seasoned professional in healthcare, cloud computing, and security. Currently, he focuses on securing Azure Cloud workloads, leveraging his extensive experience in distributed systems and real-time streaming solutions. Prior to his current role, Siri contributed significantly to cloud observability platforms and multi-cloud environments. He has demonstrated his expertise through notable achievements in various competitive events and as a judge and technical reviewer for leading publications. Siri frequently speaks at industry conferences on topics related to Cloud and Security and holds a Masters Degree from University of Texas, Arlington with a specialization in Computer Science.</description>
+    </item>
+    <item>
+      <title>Subham Rakshit</title>
+      <link>http://localhost:1313/speakers/subham-rakshit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/subham-rakshit/</guid>
+      <description>Subham Rakshit is a Streaming Solutions Architect for Analytics at AWS based in the UK. He works with customers to design and build streaming architectures so that they can get value from analysing their streaming data. His two little daughters keep her occupied most of the time outside work and loves solving jigsaw puzzles with them.</description>
+    </item>
+    <item>
+      <title>Tatiana Krupenya</title>
+      <link>http://localhost:1313/speakers/tatiana-krupenya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/tatiana-krupenya/</guid>
+      <description>CEO of DBeaver, universal database management tool</description>
+    </item>
+    <item>
+      <title>Timothy Spann</title>
+      <link>http://localhost:1313/speakers/timothy-spann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/timothy-spann/</guid>
+      <description>Tim Spann is the Principal Developer Advocate for Data in Motion @ Cloudera where he works with Apache Kafka, Apache Flink, Apache NiFi, Apache Iceberg, TensorFlow, Apache Spark, big data, the IoT, machine learning, and deep learning. Tim has over a decade of experience with the IoT, big data, distributed computing, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal Field Engineer at Cloudera, a Senior Solutions Architect at AirisData and a senior field engineer at Pivotal.</description>
+    </item>
+    <item>
+      <title>Udi Rot</title>
+      <link>http://localhost:1313/speakers/udi-rot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/udi-rot/</guid>
+      <description>Udi is a software engineer from Tel Aviv. Over the past 10 years, he has worked across the software stack, from low-level programming and reverse engineering to cloud deployments and database architecture. Udi is obsessed with efficiency, optimization, and understanding how things work under the hood. Outside of work, he enjoys swimming laps in the pool and going to football matches.</description>
+    </item>
+    <item>
+      <title>Uma Maheswara Rao Gangumalla</title>
+      <link>http://localhost:1313/speakers/uma-maheswara-rao-gangumalla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/uma-maheswara-rao-gangumalla/</guid>
+      <description>Uma Maheswara Rao is an Apache Software Foundation Member[1]. An Apache Hadoop, Ozone, BookKeeper, Incubator committer and a member of the Project Management Committee[2], and a long-term active contributor to the Apache Hadoop project. He is also mentoring several incubator projects at Apache. He has more than 15 years of experience in large scale Distributed Software Platforms design and development. Currently, Uma is working as a Senior Engineering Manager at Cloudera, Inc, and primarily focuses on open source big data technologies.</description>
+    </item>
+    <item>
+      <title>Viktoria Ondrejova</title>
+      <link>http://localhost:1313/speakers/viktoria-ondrejova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/viktoria-ondrejova/</guid>
+      <description>Data Analyst Intern at Slido, currently pursuing a degree in Computer Science.</description>
+    </item>
+    <item>
+      <title>Ville Brofeldt</title>
+      <link>http://localhost:1313/speakers/ville-brofeldt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/ville-brofeldt/</guid>
+      <description>Ville is a full stack engineer in the Data Platform team at Apple, working on various data related services. In addition to being passionate about data visualization, Ville enjoys all aspects of the data stack, covering frontend, backend, databases/query engines and infrastructure. Ville has been a committer on the Apache Superset since the Incubator days. In his spare time, Ville enjoys running and cycling.</description>
+    </item>
+    <item>
+      <title>Zhou Sun</title>
+      <link>http://localhost:1313/speakers/zhou-sun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/zhou-sun/</guid>
+      <description>DataLake optimization &amp;amp; indexing. Bringing database performance and functionality to arbitrary files.&#xA;Previously I lead the query team at SingleStore (cloud-native distributed HTAP database), encompassing the query engine, storage engine, code generation framework, and various database extensions.</description>
+    </item>
+  </channel>
+</rss>

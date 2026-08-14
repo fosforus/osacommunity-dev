@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fahad shah on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/fahad-shah/</link>
+    <description>Recent content in Fahad shah on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/fahad-shah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-Time Games Analytics and Leaderboard with RisingWave, Kafka, and Superset (Preset)</title>
+      <link>http://localhost:1313/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</guid>
+      <description>In this session, we will set up a real-time pipeline using Kafka, RisingWave, and Superset in Preset. We will ingest player-related data into a Kafka topic and configure RisingWave to consume this data, creating materialized views for real-time analysis. With RisingWave and Superset, we can generate real-time visual dashboards, set up alerts, and create reports, enabling us to monitor player performance, create real-time leaderboards, and analyze game trends in real-time.</description>
+    </item>
+  </channel>
+</rss>

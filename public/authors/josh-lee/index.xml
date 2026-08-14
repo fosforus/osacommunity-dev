@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josh Lee on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/authors/josh-lee/</link>
+    <description>Recent content in Josh Lee on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 12:32:44 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/josh-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Summit Europe 2025: Strengthening the Foundation of Open Innovation</title>
+      <link>http://localhost:1313/posts/os-summit-europe-2025/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/os-summit-europe-2025/</guid>
+      <description>Open Source Summit Europe 2025: Strengthening the Foundation of Open Innovation By Joshua Lee | September 10, 2025&#xA;Open Source Summit Europe 2025 brought together thousands of developers, maintainers, and technology leaders to celebrate and advance the open source ecosystem. Among the conference&amp;rsquo;s many sessions and discussions, two announcements stood out as particularly significant for the future of open source collaboration.&#xA;DocumentDB Joins the Linux Foundation Family DocumentDB joins the Linux Foundation, continuing a trend that began last year with OpenSearch and Valkey.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mary Grygleski on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/mary-grygleski/</link>
+    <description>Recent content in Mary Grygleski on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/mary-grygleski/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a ChatGPT Data Pipeline with RisingWave Stream Processor and Astra Vector Search</title>
+      <link>http://localhost:1313/sessions/2023/building-a-chatgpt-data-pipeline-with-risingwave-stream-processor-and-astra-vector-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/building-a-chatgpt-data-pipeline-with-risingwave-stream-processor-and-astra-vector-search/</guid>
+      <description>Enter the exciting brave new world of GenAI, by building a ChatGPT Data Pipeline that leverages on RisingWave&amp;rsquo;s efficient stream processing write jobs for real-time market data that&amp;rsquo;s been enriched with Astra/Cassandra&amp;rsquo;s high performant vector embedding and similarity search.</description>
+    </item>
+  </channel>
+</rss>

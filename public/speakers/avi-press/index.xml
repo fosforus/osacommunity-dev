@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avi Press on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/avi-press/</link>
+    <description>Recent content in Avi Press on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/avi-press/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Guide to Responsible Data Collection In Open Source</title>
+      <link>http://localhost:1313/sessions/2023/a-guide-to-responsible-data-collection-in-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/a-guide-to-responsible-data-collection-in-open-source/</guid>
+      <description>Collecting usage data in open source can be a controversial topic, but attitudes on this topic have been notably shifting recently. After working with many open source projects and companies over the past 4 years, our team at Scarf has established empirically successful best practices and considerations that all open source projects should be aware of to effectively track the usage of their software. This talk will discuss a breadth of considerations including:</description>
+    </item>
+    <item>
+      <title>Open Source Success: Learnings from 1 Billion Downloads</title>
+      <link>http://localhost:1313/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</guid>
+      <description>In this talk, we share the results of an in-depth analysis of data gathered from over 1 billion open source package downloads across more than 2000 diverse projects on Scarf. Our findings offer valuable insights into user behaviors and interactions with open source software, making it essential for maintainers, founders, and executives in open source companies.&#xA;During the presentation, we delve deep into our data, uncovering the best practices employed by successful open source projects.</description>
+    </item>
+    <item>
+      <title>Panel: Sustaining Open-Source Success</title>
+      <link>http://localhost:1313/sessions/2025/panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/panel/</guid>
+      <description>Open source thrives on passion — but it also takes more. This panel brings together leaders from across the ecosystem to explore how open-source projects can stay healthy, grow contributors, and even turn sustainability into profitability. From practical frameworks like the CHAOSS Practitioner Guides to lessons in building successful businesses around open code and data-driven insights from massive usage analytics, our panelists will share real-world tactics for keeping open source vibrant for the long term.</description>
+    </item>
+  </channel>
+</rss>

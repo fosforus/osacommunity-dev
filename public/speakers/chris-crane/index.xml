@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Crane on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/chris-crane/</link>
+    <description>Recent content in Chris Crane on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/chris-crane/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OLAP in your App: Integrating realtime &amp; agentic analytics into your app</title>
+      <link>http://localhost:1313/sessions/2025/6-olap-in-your-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/6-olap-in-your-app/</guid>
+      <description>Modern analytics experiences demand “conversation-fast” backends—systems that serve the requests of an agent or LLM in real time at the speed of a natural conversation.&#xA;In this talk, we’ll get deep into an open-source reference architecture for powering conversational AI and real-time analytics in user-facing applications. We’ll get hands-on in the code, and explore practical patterns for integrating streaming and analytical infrastructure into your web application, including AI chat systems.</description>
+    </item>
+  </channel>
+</rss>

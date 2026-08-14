@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSA Con 2025 Sessions on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/sessions/2025/</link>
+    <description>Recent content in OSA Con 2025 Sessions on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/sessions/2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Roundup of Observability Datastores</title>
+      <link>http://localhost:1313/sessions/2025/a-roundup-of-observability-datastores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/a-roundup-of-observability-datastores/</guid>
+      <description>From plain-old Postgres to the LGTM stack, ELK, Cassandra, and ClickHouse®, the landscape of telemetry storage options is as vast as it is overwhelming. With so many choices, how do we decide which datastore is right for the job? In this talk, Joshua will guide attendees through the foundational principles of telemetry—covering metrics, traces, logs, profiles, and wide events—and break down the strengths and limitations of different database technologies for each use case.</description>
+    </item>
+    <item>
+      <title>Agnostic is the Only Constant: Embracing the Lakehouse Paradigm Without Lock-In</title>
+      <link>http://localhost:1313/sessions/2025/agnostic-is-the-only-constant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/agnostic-is-the-only-constant/</guid>
+      <description>As the Lakehouse paradigm rises in popularity, so does the risk of being locked into a single vendor&amp;rsquo;s ecosystem. But what if you could have all the benefits of a unified architecture—without giving up control?&#xA;In this session, we introduce Lakekeeper, an open-source Apache Iceberg catalog that makes it possible to build Lakehouse architectures that are truly portable: across clouds, compute engines, and storage layers.&#xA;This talk speaks directly to data professionals looking to stay ahead of the curve by exploring:</description>
+    </item>
+    <item>
+      <title>AI Your OTel</title>
+      <link>http://localhost:1313/sessions/2025/ai-your-otel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/ai-your-otel/</guid>
+      <description>New employee onboarding often involves navigating a sea of information, which can delay full productivity. This session will explore how AI can personalize information discovery, helping new hires integrate more quickly and engage effectively.&#xA;We&amp;rsquo;ll detail an architecture that uses OpenTelemetry to transmit metrics and Google&amp;rsquo;s Model Context Protocol (MCP) Toolbox for Databases to connect AI agents with a high-performance ClickHouse® data lake. This setup allows for dynamic, real-time access to relevant company knowledge.</description>
+    </item>
+    <item>
+      <title>AI-Native Analytics: Building the Next Generation of Intelligent, Conversational Decision Systems</title>
+      <link>http://localhost:1313/sessions/2025/ai-native-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/ai-native-analytics/</guid>
+      <description>As enterprises grapple with an explosion of data and increasing pressure to make rapid, informed decisions, traditional Business Intelligence (BI) tools are reaching their limits. Static dashboards and complex query interfaces often exclude non-technical users, creating friction between data and action. Enter AI-native analytics—a transformative approach that integrates natural language interfaces (NLIs) with scalable machine learning (ML) to deliver intelligent, conversational decision systems.&#xA;This keynote explores how organizations can reimagine their analytics infrastructure by embedding AI into the very fabric of user interaction.</description>
+    </item>
+    <item>
+      <title>AI-Powered Alert Analysis: Uncovering Critical Patterns in ClickHouse® Databases</title>
+      <link>http://localhost:1313/sessions/2025/ai-powered-alert-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/ai-powered-alert-analysis/</guid>
+      <description>Manual analysis of thousands of daily database alerts is impossible—but AI changes everything. This talk demonstrates using modern AI tools to analyze internal alert databases and uncover critical patterns in ClickHouse® Deployments.&#xA;Through live demos, we&amp;rsquo;ll show how to:&#xA;Identify the most critical and common alert patterns using AI-assisted SQL generation&#xA;Correlate application alerts with ClickHouse® system tables (query_log, part_log, asynchronous_metric_log)&#xA;Automate root cause analysis and predict alert escalation paths</description>
+    </item>
+    <item>
+      <title>Apache Superset Extensions - Taking Open Source BI to the Next Level</title>
+      <link>http://localhost:1313/sessions/2025/apache-superset-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/apache-superset-extensions/</guid>
+      <description>Apache Superset has always been leading the charge on open-source BI, but now it&amp;rsquo;s getting ready to truly take over the BI world. Learn all about Superset&amp;rsquo;s new extensions architecture that will allow users and developers to more rapidly expand and improve the product&amp;rsquo;s capabilities, while simplifying life for both developers and maintainers.</description>
+    </item>
+    <item>
+      <title>ClickHouse® Chronicles: Real-World War Rooms with Human and AI Agents</title>
+      <link>http://localhost:1313/sessions/2025/clickhouse-chronicles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/clickhouse-chronicles/</guid>
+      <description>Distributed systems are full of surprises—and ClickHouse® is no exception. In this talk, Shivji (Nutanix) and Anurag (Incerto) share real-world war room stories from designing, testing, and running ClickHouse® across both cloud and on-prem environments, where debugging production issues often felt more like unraveling plot twists in a thriller than routine operations.&#xA;We&amp;rsquo;ll walk through some of the toughest incidents we&amp;rsquo;ve faced: what broke, what we thought was wrong, what actually was wrong, and how we got to the root cause.</description>
+    </item>
+    <item>
+      <title>Companies vs. Foundations: Who Should Steer Your Open Source Project?</title>
+      <link>http://localhost:1313/sessions/2025/companies-vs-foundations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/companies-vs-foundations/</guid>
+      <description>Recently, several open source companies attracted a lot of attention after their announcements of license changes. Not surprisingly, these shifts sparked backlash from open source enthusiasts, prompting some to create community-driven forks under open source foundations.&#xA;Now there is growing skepticism toward (single) company backed open source projects, with many arguing that open source projects should be run by neutral foundations to prevent future bait-and-switch tactics. But is foundation backing really the answer?</description>
+    </item>
+    <item>
+      <title>Don&#39;t Fire Your Developers and Other Lessons for the AI Revolution</title>
+      <link>http://localhost:1313/sessions/2025/dont-fire-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/dont-fire-developers/</guid>
+      <description>AI is going to alter the world. Will it lead to a golden age, human extinction, or just one more technical advance? History tells us that the winners in the race will be those who best merge human capabilities with the power of AI. We&amp;rsquo;ll look at how this is already playing out in analytics and open source software. Some of the changes will surprise you.</description>
+    </item>
+    <item>
+      <title>Emerging Architectures for Real-Time Observability at Scale</title>
+      <link>http://localhost:1313/sessions/2025/emerging-architectures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/emerging-architectures/</guid>
+      <description>Observability (O11y) is the practice of collecting, analyzing and acting upon system telemetry to ensure optimum performance and reliability. It is a real-time use case that every tech-driven organization faces. However, the landscape of observability is rapidly changing driven by a number of factors:&#xA;• The adoption of OpenTelemetry (OTel) at the agent and collection layers • The rise of disaggregated observability stacks, combining best-of-breed solutions for each layer, built on open source technologies • The evolution of &amp;ldquo;Observability 2.</description>
+    </item>
+    <item>
+      <title>Everything I Learned About ClickHouse® was From Real Workloads</title>
+      <link>http://localhost:1313/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</guid>
+      <description>After years of pushing ClickHouse® to its outer limits in real-world observability workloads, we&amp;rsquo;ve learned a lot - sometimes the hard way - about getting the most out of your analytics system. But before you dive into inverted indexes, object storage, and terabyte-scale performance tuning, it&amp;rsquo;s critical to get the basics right.&#xA;This talk starts at the beginning, walking through the fundamentals that make ClickHouse® such a powerful engine for analytical workloads, the performance advantages of columnar storage, how its architecture supports horizontal scaling, and why it&amp;rsquo;s ideal for high-throughput, low-latency queries.</description>
+    </item>
+    <item>
+      <title>From Custom-Facing to Agent-Facing: Empowering Real-Time Analytics by Apache Doris</title>
+      <link>http://localhost:1313/sessions/2025/from-custom-to-agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/from-custom-to-agent/</guid>
+      <description>In this talk, I will introduce how Apache Doris, as a real-time analytical database, extends from custom-facing business scenarios to agent-facing ones.&#xA;I will cover the technical details behind high concurrency and low-latency query analytics, as well as capabilities supporting AI scenarios such as hybrid search, agent observability, and collaboration between Doris MCP Server and large language models (LLMs).&#xA;This will help the audience understand how Doris empowers enterprises to perform real-time data exploration in the AI era.</description>
+    </item>
+    <item>
+      <title>Garbage Data = Garbage AI: An Open Source Data Quality Framework for Teams With No Time</title>
+      <link>http://localhost:1313/sessions/2025/datakitchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/datakitchen/</guid>
+      <description>Data teams continue to face long-standing challenges: their customers often distrust their results, data providers frequently ignore their existence, and teams spend more time firefighting than creating insights. The demand for AI just makes it more complicated: no wonder many data teams experience PTSD.&#xA;The solution is simple: identify problems before they reach your customer. You need to implement data quality tests—lots of them. Check every table and column. See if anything is incorrect.</description>
+    </item>
+    <item>
+      <title>How Open Source Businesses Will Thrive in the Age of AI</title>
+      <link>http://localhost:1313/sessions/2025/how-open-source-businesses-will-thrive-in-the-age-of-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/how-open-source-businesses-will-thrive-in-the-age-of-ai/</guid>
+      <description>Commercial Open Source Software (COSS) is a burgeoning business sector. This talk will focus on how the demand for COSS will be driven by the advance of LLM and AI.</description>
+    </item>
+    <item>
+      <title>Micromegas - unified observability for video games</title>
+      <link>http://localhost:1313/sessions/2025/micromegas-unified-observability-for-video-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/micromegas-unified-observability-for-video-games/</guid>
+      <description>How we built an open source observability stack that can track every frame of our game.&#xA;https://github.com/madesroches/micromegas/&#xA;When every frame lasting 1/60th of a second can record thousands of events, traditional time series databases just won&amp;rsquo;t do.</description>
+    </item>
+    <item>
+      <title>OLAP in your App: Integrating realtime &amp; agentic analytics into your app</title>
+      <link>http://localhost:1313/sessions/2025/6-olap-in-your-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/6-olap-in-your-app/</guid>
+      <description>Modern analytics experiences demand “conversation-fast” backends—systems that serve the requests of an agent or LLM in real time at the speed of a natural conversation.&#xA;In this talk, we’ll get deep into an open-source reference architecture for powering conversational AI and real-time analytics in user-facing applications. We’ll get hands-on in the code, and explore practical patterns for integrating streaming and analytical infrastructure into your web application, including AI chat systems.</description>
+    </item>
+    <item>
+      <title>Open Analytics in Action</title>
+      <link>http://localhost:1313/sessions/2025/open-analytics-in-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/open-analytics-in-action/</guid>
+      <description>This session explores how open-source analytics technologies are transforming the public sector through the lens of Electronic Income Verification (EIV) systems—platforms that process over 850,000 real-time verifications daily, integrate 40+ data sources, and maintain 99.95% uptime to support equitable, efficient public benefit delivery.&#xA;We’ll dive into the open-source stack behind these systems: event streaming with Apache Kafka, data orchestration with Airflow, analytics with Apache Superset and DuckDB, and ML-powered fraud detection using tools like scikit-learn and Hugging Face NLP.</description>
+    </item>
+    <item>
+      <title>Open Source Database Architectures for High Volume Financial Analytics</title>
+      <link>http://localhost:1313/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</guid>
+      <description>Financial analytics platforms face unprecedented data challenges, processing millions of transactions while delivering real-time insights to traders, risk managers, and compliance teams. Open source distributed databases have emerged as the backbone of modern FinTech analytics, enabling organizations to scale cost-effectively while maintaining full control over their data architecture.&#xA;This presentation explores how open source technologies like Apache Cassandra, PostgreSQL with Citus, and ClickHouse® power financial analytics through strategic sharding, replication, and consistency models.</description>
+    </item>
+    <item>
+      <title>Open Source Event-Driven Analytics for Real-Time Retail Inventory Management</title>
+      <link>http://localhost:1313/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</guid>
+      <description>The retail sector&amp;rsquo;s shift toward omnichannel fulfillment and instant availability demands has exposed critical limitations in traditional batch-processed inventory systems. This presentation demonstrates how open source Event-Driven Architecture (EDA) tools are transforming retail inventory analytics, enabling continuous real-time processing that delivers superior accuracy, automated insights, and scalable supply chain responsiveness.&#xA;Open source analytics platforms are proving their value in retail operations, with adopters experiencing up to 30% fewer stockouts and 15% improved inventory accuracy compared to proprietary batch systems.</description>
+    </item>
+    <item>
+      <title>Open Source’s Massive Unfair Advantage in the AI Era</title>
+      <link>http://localhost:1313/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</guid>
+      <description>As AI transforms how we build, scale, and interact with software, one thing is becoming clear: open source isn’t just keeping up—it’s leading. In this keynote, Max Beauchemin, creator of Apache Superset and Apache Airflow, unpacks why open source is uniquely positioned to dominate in the age of AI. From training data to developer velocity, open projects have structural advantages that proprietary vendors simply can&amp;rsquo;t replicate.&#xA;We&amp;rsquo;ll explore how LLMs &amp;ldquo;&amp;ldquo;know&amp;rdquo;&amp;rdquo; open source deeply, how AI-native workflows amplify OSS contributions, and why communities—not corporations—are becoming the new centers of gravity for software innovation.</description>
+    </item>
+    <item>
+      <title>Panel: Sustaining Open-Source Success</title>
+      <link>http://localhost:1313/sessions/2025/panel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/panel/</guid>
+      <description>Open source thrives on passion — but it also takes more. This panel brings together leaders from across the ecosystem to explore how open-source projects can stay healthy, grow contributors, and even turn sustainability into profitability. From practical frameworks like the CHAOSS Practitioner Guides to lessons in building successful businesses around open code and data-driven insights from massive usage analytics, our panelists will share real-world tactics for keeping open source vibrant for the long term.</description>
+    </item>
+    <item>
+      <title>Real-Time Customer-Facing Analytics: From Pain to Production</title>
+      <link>http://localhost:1313/sessions/2025/35-real-time-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/35-real-time-analytics/</guid>
+      <description>This talk dives into technical optimizations that deliver low-latency, high-concurrency queries on Apache Iceberg without sacrificing openness. Together, we&amp;rsquo;ll examine what kills performance when querying Iceberg, highlight best practices that make queries faster, and evaluate query engine optimizations for Iceberg—including handling position and equality delete tables, distributed metadata parsing, and more. You&amp;rsquo;ll hear real-world stories from leading enterprises who have used these lessons to optimize Apache Iceberg performance at scale and walk away with actionable techniques for making your Iceberg lakehouse faster than ever.</description>
+    </item>
+    <item>
+      <title>Scaling Data Pipelines @ Magenta Telekom</title>
+      <link>http://localhost:1313/sessions/2025/scaling-data-pipelines-magenta-telekom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/scaling-data-pipelines-magenta-telekom/</guid>
+      <description>Magenta Telekom ingests many terabytes of new data every day, and every downstream consumer wants it immediately. The real bottleneck turned out not to be hardware but humans wrestling with hidden, hard-wired dependencies in hundreds of heterogeneous pipelines and sometimes tool silos.&#xA;Our fix was to treat every data asset as a node in a data-dependency graph and every transformation as an edge. Ingestion, Transformation, AI and BI are all part of the same executable graph.</description>
+    </item>
+    <item>
+      <title>Smarter Analytics: AI-Driven Intelligence in Modern Databases</title>
+      <link>http://localhost:1313/sessions/2025/smarter-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/smarter-analytics/</guid>
+      <description>What happens when databases don’t just store data—but help analyze it intelligently? This talk explores emerging trends in AI-powered database intelligence, from schema optimization and real-time query tuning to transforming unstructured content using techniques like sentiment analysis and entity recognition. We&amp;rsquo;ll also dive into the future of self-driving databases and multi-modal analytics that integrate text, images, and more. Attendees will leave with a forward-looking view of how AI is reshaping database engines into context-aware, insight-generating platforms—laying the foundation for the next generation of open-source analytics systems.</description>
+    </item>
+    <item>
+      <title>SQL Window Functions In Five Easy Steps</title>
+      <link>http://localhost:1313/sessions/2025/sql-window-functions-in-five-easy-steps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/sql-window-functions-in-five-easy-steps/</guid>
+      <description>Structured Query Language&amp;rsquo;s Window Functions are a powerful tool for analytics. They let you get more granular insight than a GROUP BY clause. But the syntax is obtuse, the terms used are nebulous (unbounded previous anyone?), and the results can be much less insightful than expected. This session is a quick introduction to and explanation of how to use Window Functions efficiently to better investigate your data.</description>
+    </item>
+    <item>
+      <title>Streaming Analytics in Action: Real-World Case Studies from Uber, Razorpay, and Stripe</title>
+      <link>http://localhost:1313/sessions/2025/streaming-analytics-in-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/streaming-analytics-in-action/</guid>
+      <description>Discover the transformative power of streaming analytics featuring groundbreaking case studies from some of the most innovative companies in the world. Explore how Uber, Razorpay, and Stripe leverage next-gen streaming architectures to power their real-time decision-making, improve user experiences, and drive operational excellence. These case studies will offer a rare glimpse into the advanced technologies and strategies behind these leading-edge systems, showcasing real-world applications of streaming analytics that are as inspiring as they are practical.</description>
+    </item>
+    <item>
+      <title>The Open Source Hero&#39;s Journey</title>
+      <link>http://localhost:1313/sessions/2025/os-hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/os-hero/</guid>
+      <description>Joseph Cambell&amp;rsquo;s story-circle describes the journeys of epic heroes from the known into the unknown in search of rewards. Maybe it&amp;rsquo;s not so different from the Gartner Hype Cycle that describes the journeys of innovations; And as individual developers we also go through a journey of discovery when adopting new tools and technologies.</description>
+    </item>
+    <item>
+      <title>What the Spec?!: New Features in Apache Iceberg™ Table Format V3</title>
+      <link>http://localhost:1313/sessions/2025/what-the-spec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/what-the-spec/</guid>
+      <description>Apache Iceberg™ made great advancements going from Table Format V1 to Table Format V2, introducing features like position deletes, advanced metrics, and cleaner metadata abstractions. But with Table Format V3 on the horizon, Iceberg users have even more to look forward to.&#xA;In this session, we’ll explore some of the exciting new user-facing features that V3 Iceberg is about to introduce and see how they’ll make working with Open Data Formats easier than ever!</description>
+    </item>
+    <item>
+      <title>Why Your FAQ Search Sucks and How I Fixed It</title>
+      <link>http://localhost:1313/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</guid>
+      <description>I was fed up with FAQ search that spits back junk or nothing at all. TSIA says over sixty percent of support tickets could be solved by our own docs, so why isn’t that happening? In this talk I’ll show how I built a simple semantic search app with just three hundred lines of Python. I’ll demo it live answering three differently worded questions, and all in under a hundred milliseconds using TiDB Open-Source and Amazon Bedrock embeddings.</description>
+    </item>
+  </channel>
+</rss>

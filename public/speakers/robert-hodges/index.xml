@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Hodges on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/robert-hodges/</link>
+    <description>Recent content in Robert Hodges on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/robert-hodges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panel: Open Source means Open! Or Does it? The State of Licensing in 2023</title>
+      <link>http://localhost:1313/sessions/2023/panel-open-source/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/panel-open-source/</guid>
+      <description>Open source licenses are a linchpin of the free and open source software movement. Join our panel of open source experts as we do our yearly check-on the state of licenses. We&amp;rsquo;ll talk about new developments in licensing this year (Terraform anyone?), revisit what a license actually does for your project, and talk about legal and moral issues when projects relicense. We&amp;rsquo;ll even take questions from the crowd.</description>
+    </item>
+    <item>
+      <title>The Future of Analytics is Open Source and Cloud Native</title>
+      <link>http://localhost:1313/sessions/2023/the-future-of-analytics/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/the-future-of-analytics/</guid>
+      <description>Analytic platforms are like cathedrals for data - and their foundations are cloud native. In this talk we&amp;rsquo;ll discuss the forces driving open source adoption, how cloud native enables flexible analytic applications, and what it means for systems being designed today.</description>
+    </item>
+    <item>
+      <title>Build a Great Business on Open Source without Selling Your Soul</title>
+      <link>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</guid>
+      <description>Open source software is fun to work on, but building a real business is tough. We&amp;rsquo;ve all read about commercial open source companies that switched to proprietary models or flat went out of business. Our panel of three CEOs have all built successful companies on open source without resorting to licensing rug-pulls or other fauxpen source tricks that disrespect users. We&amp;rsquo;ll discuss what worked for us, what didn&amp;rsquo;t, and how we balanced our belief in open source communities with making payroll every two weeks.</description>
+    </item>
+    <item>
+      <title>Don&#39;t Fire Your Developers and Other Lessons for the AI Revolution</title>
+      <link>http://localhost:1313/sessions/2025/dont-fire-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/dont-fire-developers/</guid>
+      <description>AI is going to alter the world. Will it lead to a golden age, human extinction, or just one more technical advance? History tells us that the winners in the race will be those who best merge human capabilities with the power of AI. We&amp;rsquo;ll look at how this is already playing out in analytics and open source software. Some of the changes will surprise you.</description>
+    </item>
+    <item>
+      <title>Restaurants or Food Trucks? Mobile Analytic Databases and the Real-Time Data Lake</title>
+      <link>http://localhost:1313/sessions/2024/restaurants-or-food-trucks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/restaurants-or-food-trucks/</guid>
+      <description>Cloud data warehouses are the dominant life form for modern analytic systems. They work like restaurants where users visit to feed on data. Larger data sets, AI, and user decisions to keep information in their own data lakes are undermining the restaurant model. What we need now is food trucks that move anywhere users need them. The food truck metaphor helps us envision a powerful new analytic system: the real-time data lake.</description>
+    </item>
+  </channel>
+</rss>

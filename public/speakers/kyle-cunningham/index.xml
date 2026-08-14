@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Cunningham on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/kyle-cunningham/</link>
+    <description>Recent content in Kyle Cunningham on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/kyle-cunningham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going beyond Observability: Grafana for Analytics</title>
+      <link>http://localhost:1313/sessions/2023/going-beyond-observability-grafana-for-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/going-beyond-observability-grafana-for-analytics/</guid>
+      <description>Grafana is a powerful platform for infrastructure observability and visualization, allowing for easy access to a wide array of operational metrics. It is more than that too however, as Grafana has been quickly adding a multitude of features to support a large variety of data analysis use cases; all while using the same intuitive user experience that Grafana has become known for. See how new scatter plots, data transformations, usability enhancements, and other tools are making Grafana a first class citizen in the realm of data analysis.</description>
+    </item>
+  </channel>
+</rss>

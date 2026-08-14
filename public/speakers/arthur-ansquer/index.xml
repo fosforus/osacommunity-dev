@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arthur Ansquer on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/arthur-ansquer/</link>
+    <description>Recent content in Arthur Ansquer on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/arthur-ansquer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging object storage: Tiered Storage for ClickHouse®</title>
+      <link>http://localhost:1313/sessions/2023/leveraging-object-storage-tiered-storage-for-clickhouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/leveraging-object-storage-tiered-storage-for-clickhouse/</guid>
+      <description>Discussing the journey to make Tiered Storage available for Aiven for ClickHouse®. From product discovery to the benefits and use cases of leveraging object storage for ClickHouse® workloads.</description>
+    </item>
+  </channel>
+</rss>

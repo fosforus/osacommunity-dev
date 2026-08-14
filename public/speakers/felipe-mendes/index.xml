@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Mendes on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/felipe-mendes/</link>
+    <description>Recent content in Felipe Mendes on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/felipe-mendes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You put OLTP in my OLAP! Analytics and Real-time Converged</title>
+      <link>http://localhost:1313/sessions/2023/you-put-oltp-in-my-olap-analytics-and-real-time-converged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/you-put-oltp-in-my-olap-analytics-and-real-time-converged/</guid>
+      <description>Analytics (OLAP) and Real-time (OLTP) workloads serve distinctly different purposes. OLAP is optimized for data analysis and reporting, while OLTP is optimized for real-time low-latency traffic.&#xA;Most databases are designed to primarily benefit from one of them. Worse, concurrently running both workloads under the same datastore will frequently introduce resource contention, where the workloads end up hurting each other, considerably dragging down the overall distributed system&amp;rsquo;s performance.&#xA;In this talk, we will share different strategies and approaches to mitigate the performance impacts perceived when OLAP and OLTP workloads are run to the extreme.</description>
+    </item>
+  </channel>
+</rss>

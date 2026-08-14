@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+<link rel="stylesheet" href="/css/style.css" media="screen">
+
+    <title>Community Series recap: How modern engines unlock the full potential of Apache Superset</title>
+
+<meta name="description" content="Sida Shen from StarRocks introduces advanced techniques for optimizing the use of Apache Superset, a leading open-source data visualization and analytics platform.">
+
+
+<link rel="canonical" href="http://localhost:1313/posts/superset-recap/" />
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/superset-recap/" />
+<link rel="alternate" hreflang="x-default" href="http://localhost:1313/posts/superset-recap/" />
+
+
+
+
+<meta property="og:title" content="Community Series recap: How modern engines unlock the full potential of Apache Superset" />
+<meta property="og:description" content="Sida Shen from StarRocks introduces advanced techniques for optimizing the use of Apache Superset, a leading open-source data visualization and analytics platform." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/superset-recap/" />
+    <meta property="og:image" content="http://localhost:1313/posts/superset-recap/event-superset.png" />
+      
+    <meta property="og:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg" />
+      
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png" />
+      
+  <meta property="article:section" content="posts" />
+  
+    <meta property="article:published_time" content="2024-12-11T00:00:00+00:00" />
+  
+  
+    <meta property="article:modified_time" content="2026-01-05T12:32:44-06:00" />
+  
+
+
+
+
+
+
+
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:image" content="http://localhost:1313/posts/superset-recap/event-superset.png"/>
+  <meta name="twitter:title" content="Community Series recap: How modern engines unlock the full potential of Apache Superset"/>
+<meta name="twitter:description" content="Sida Shen from StarRocks introduces advanced techniques for optimizing the use of Apache Superset, a leading open-source data visualization and analytics platform."/>
+
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Community Series recap: How modern engines unlock the full potential of Apache Superset",
+  "image": "http://localhost:1313/posts/superset-recap/event-superset.png",
+  "datePublished": "2024-12-11T00:00:00+00:00",
+  "dateModified": "2026-01-05T12:32:44-06:00",
+  "mainEntityOfPage": "http://localhost:1313/",
+  "publisher": {
+    "@type": "Organization",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/images/logo-osacom-text-light-2026.svg"
+    },
+    "name": "The Open Source Analytics Community"
+  },
+  "wordcount" :  340 ,
+  "description": "Sida Shen from StarRocks introduces advanced techniques for optimizing the use of Apache Superset, a leading open-source data visualization and analytics platform.",
+  "keywords":  null 
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" href="http://localhost:1313/favicon.png">
+
+    
+</head>
+
+<body class="posts single d-flex flex-column min-vh-100">
+    
+        <header class="main-header">
+  <nav class="navbar navbar-dark navbar-expand-lg">
+    <div class="container">
+
+      
+      <a class="navbar-brand" href="/">
+        
+        <img src="/images/logo-osacom-text-light-2026.svg" alt="logo"
+          class="d-inline-block">
+        
+      </a>
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="menu-main navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#events">Events</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#subscribe-to-newsletter">Newsletter</a>
+          </li>
+          
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Resources
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a class="dropdown-item" href="/posts" >
+                  News
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/sessions" >
+                  OSA CON Sessions
+                </a>
+              </li>
+              </ul>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#participate">Participate</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#about">About</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="https://osacon.io">OSA Con 2026 ↗</a>
+          </li>
+          
+          </ul>
+
+        
+        <a href="https://go.osacom.io/slack" class="btn btn-primary">Join the Slack</a>
+
+      </div>
+
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div id="content">
+        <nav class="header-breadcrumb my-2" aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb my-0">
+            
+            
+                
+                
+                    
+                
+                    
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/">Home</a> </li>
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/posts/">Posts</a> </li>
+                
+            
+                <li class="breadcrumb-item active" aria-current="page">  Community Series recap: How modern engines unlock the full potential of Apache Superset</li>
+            
+        </ol>
+    </div>
+</nav>
+
+
+<div class="container py-3">
+  <div class="py-3">
+  <div class="row">
+  <div class="col-12 pb-3 pe-lg-5">
+    <h1 style="font-size:2.5rem;padding-bottom:15px">Community Series recap: How modern engines unlock the full potential of Apache Superset</h1>
+    <div class="ratio ratio-16x9" style="max-width:890px;">
+     <iframe src="https://www.youtube.com/embed/He52l9ra1MY" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+</div>
+<h3>Summary:</h3>
+<p>This session, part of the Open Source Analytics (OSA) Conference 2024 series, introduced advanced techniques for optimizing the use of Apache Superset, a leading open-source data visualization and analytics platform. The speaker, Sida Shen from StarRocks, covered the following key points:
+</p>
+<ol>
+  <li><b>Introduction to Apache Superset:</b>
+    <ul>
+      <li>A lightweight, open-source platform for data exploration and visualization.</li>
+      <li>Provides drag-and-drop dashboard creation without requiring coding.</li>
+      <li>Focuses on leveraging existing data infrastructure without duplicating data.</li>
+    </ul>
+  </li>
+  <li><b>Challenges in Using Superset:</b>
+    <ul>
+      <li>Performance issues such as slow dashboard loading and unpredictable query times.</li>
+      <li>Complex architectures require separate data warehousing solutions for optimized performance.</li>
+      <li>High costs and challenges in pre-computation pipelines for handling diverse datasets.</li>
+    </ul>
+  </li>
+  <li><b>Optimizing Superset Performance:</b>
+    <ul>
+      <li>Discussed strategies such as data partitioning, indexing, and materialized views to improve query speed.</li>
+      <li>Highlighted the importance of choosing the right compute engine optimized for analytics.</li>
+    </ul>
+  </li>
+  <li><b>Features of StarRocks:</b>
+    <ul>
+      <li>A highly optimized open-source engine that supports advanced features like real-time data ingestion, columnar storage, and in-memory data shuffling.</li>
+      <li>Delivers superior performance for analytical queries, even on complex workloads involving large datasets.</li>
+    </ul>
+  </li>
+  <li><b>Materialized Views (MVs):</b>
+    <ul>
+      <li>Explained how StarRocks' materialized views can pre-compute and optimize queries automatically without requiring dashboard reconfiguration.</li>
+      <li>Demonstrated dynamic query rewriting capabilities to improve user experience and efficiency.</li>
+    </ul>
+  </li>
+  <li><b>Lakehouse Performance:</b>
+    <ul>
+      <li>Addressed the challenges of integrating data lakes with analytics, such as high latency and metadata inefficiencies.</li>
+      <li>Showcased how StarRocks bridges the gap between data lakes and traditional warehouses, achieving near-parity in performance while maintaining flexibility.</li>
+    </ul>
+  </li>
+  <li><b>Demo Highlights:</b>
+    <ul>
+      <li>Showcased Superset dashboards powered by StarRocks, emphasizing real-time query acceleration.</li>
+      <li>Demonstrated the use of materialized views and query rewrites to drastically reduce execution times.</li>
+    </ul>
+  </li>
+  <li><b>Future of Analytics:</b>
+    <ul>
+      <li>Discussed evolving trends in open formats (like Iceberg, Delta, and Hudi) and their potential to reduce dependency on proprietary data warehouses.</li>
+      <li>Emphasized the importance of evolving table formats and real-time capabilities in lakehouse architectures.</li>
+    </ul>
+  </li>
+</ol>
+<p style="font-size:15px;">Disclaimer: This summary was generated using AI and is intended for informational purposes only. Please refer to the original session or material for complete accuracy and context.</p><br />
+
+</div>
+
+
+    </div>
+    <footer class="py-5 mt-auto bg-midnight">
+  <div class="container py-5">
+    <div class="d-flex flex-wrap justify-content-between align-items-center">
+      <p class="col-md mb-0 text-muted"></p>
+      <ul class="nav col-md-auto justify-content-end">
+        <li class="nav-item"><a href="/code-of-conduct/" class="nav-link px-2 text-light" title='Code of Conduct' aria-label='Code of Conduct'>Code of Conduct</a></li>
+        <li class="nav-item"><a href="/privacy-policy/" class="nav-link px-2 text-light" title='Privacy Policy' aria-label='Privacy Policy'>Privacy Policy</a></li>
+        </ul>
+    </div>
+  </div>
+</footer>
+    
+
+
+<script src="/js/bootstrap/bootstrap.bundle.min.min.c90b9b454b73b06a9a0995c2e13ec9d39ba80362f34c0df2121a1082696ed4a150a348b559791bbc32d172b2246b44f6342722d553e22d78d8e908b169a12035.js" integrity="sha512-yQubRUtzsGqaCZXC4T7J05uoA2LzTA3yEhoQgmlu1KFQo0i1WXkbvDLRcrIka0T2NCci1VPiLXjY6QixaaEgNQ==" crossorigin="anonymous" defer></script>
+
+
+
+  <script src="/js/main.min.e8d88c82c0438b527f1aca4115652ba1e2877bf805b75593b23ac0e3fe2b3fe95a467d1feef275355132ba061da6404b0d24d55afabc209b294b1db043be014d.js" integrity="sha512-6NiMgsBDi1J/GspBFWUroeKHe/gFt1WTsjrA4/4rP&#43;laRn0f7vJ1NVEyugYdpkBLDSTVWvq8IJspSx2wQ74BTQ==" crossorigin="anonymous" defer></script>
+
+
+
+      
+</body>
+</html>

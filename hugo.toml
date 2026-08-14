@@ -1,0 +1,155 @@
+baseURL = 'https://osacom.io/'
+title = 'The Open Source Analytics Community'
+theme = 'hugo-bootstrap'
+
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+#sectionPagesMenu = "main"
+#googleAnalytics = "UA-1511XXXX-X"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = 'series'
+  author = "authors"
+  speaker = "speakers"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.99.1"
+
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      wrapStandAloneImageWithinParagraph = false
+
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+
+
+# Site Params
+
+# Open Graph, Twitter Cards and schema.org Thing and Article (in posts)
+# https://gohugo.io/templates/internal/#open-graph
+# https://gohugo.io/templates/internal/#twitter-cards
+# https://schema.org/Thing
+# https://schema.org/Article
+[params]
+  description = "Discover, collaborate, and innovate with developers, projects, and companies across the open-source data stack."
+  images = ['images/logo-osacom-text-light-2026.svg','images/site-feature-image.png']
+  mainMenuLogo = "images/logo-osacom-text-light-2026.svg"
+
+  [params.options]
+    bootStrapJs = true
+    breadCrumb = true
+    listCategoryFilter = true
+    listTagFilter = true
+
+
+[[menus.main]]
+name = "Events"
+url = "/#events"
+weight = 10
+
+[[menus.main]]
+name = "Newsletter"
+url = "/#subscribe-to-newsletter"
+weight = 20
+
+[[menus.main]]
+name = "Participate"
+url = "/#participate"
+weight = 30
+
+[[menus.main]]
+name = "About"
+url = "/#about"
+weight = 40
+
+
+
+[[menus.main]]
+identifier = "resources"
+name = "Resources"
+weight = 20
+
+
+[[menus.main]]
+name = "News"
+url = "posts"
+parent="resources"
+weight = 10
+
+[[menus.main]]
+name = "OSA CON Sessions"
+url = "sessions"
+parent="resources"
+weight = 30
+
+
+[[menus.main]]
+name = 'OSA Con 2026 ↗'
+url = "https://osacon.io"
+weight = 50
+
+
+
+
+[[menus.social]]
+  name = "YouTube"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/images/feather/feather-sprite.svg#youtube'/></svg>"
+  url = "https://www.youtube.com/@OpenSourceAnalyticsConference"
+  weight = 10
+  title = "Visit our YouTube channel"
+
+[[menus.social]]
+  name = "Slack"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-slack'><use href='/images/feather/feather-sprite.svg#slack'/></svg>"
+  url = "https://go.osacom.io/slack"
+  weight = 20
+  title = "Join us on Slack"
+
+[[menus.social]]
+  name = "LinkedIn"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-linkedin'><use href='/images/feather/feather-sprite.svg#linkedin'/></svg>"
+  url = "https://www.linkedin.com/showcase/osa-con/"
+  weight = 30
+  title = "Connect on LinkedIn"

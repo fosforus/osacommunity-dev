@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/categories/events/</link>
+    <description>Recent content in Events on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 12:32:44 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSA Con 2024: CFPs are now closed.</title>
+      <link>http://localhost:1313/posts/osa-con-24-cfp-now-closed/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osa-con-24-cfp-now-closed/</guid>
+      <description>OSA Con 2024: CFPs are now closed - thanks to all who submitted. Thanks to all who submitted talks for this year&amp;rsquo;s event. It was a great range of ideas, and we wish we could share them all. We carefully curated the list based on this year&amp;rsquo;s themes and selected a diverse range of speakers.&#xA;We hope to see you all there - if you have not already please register here.</description>
+    </item>
+    <item>
+      <title>OSA Con 2024: Submit Your Proposals on Open Source Analytics Today!</title>
+      <link>http://localhost:1313/posts/osa-con-24-submit-proposals/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osa-con-24-submit-proposals/</guid>
+      <description>OSA Con 2024: Submit Your Proposals on Open Source Analytics Today! Open source projects are building blocks for the biggest, fastest, cheapest analytic software on the planet. OSA Con is the vendor-neutral, 100% open conference where developers gather to learn about those projects and the analytic apps that build on them. The 2024 conference runs from 19 to 21 November. The call for papers is open until July 29th. Project roadmaps, industrial applications, new technologies, better vendor models for open source projects, crazy new ideas–all welcome!</description>
+    </item>
+  </channel>
+</rss>

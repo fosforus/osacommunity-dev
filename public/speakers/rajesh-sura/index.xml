@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajesh Sura on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/rajesh-sura/</link>
+    <description>Recent content in Rajesh Sura on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/rajesh-sura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Native Analytics: Building the Next Generation of Intelligent, Conversational Decision Systems</title>
+      <link>http://localhost:1313/sessions/2025/ai-native-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/ai-native-analytics/</guid>
+      <description>As enterprises grapple with an explosion of data and increasing pressure to make rapid, informed decisions, traditional Business Intelligence (BI) tools are reaching their limits. Static dashboards and complex query interfaces often exclude non-technical users, creating friction between data and action. Enter AI-native analytics—a transformative approach that integrates natural language interfaces (NLIs) with scalable machine learning (ML) to deliver intelligent, conversational decision systems.&#xA;This keynote explores how organizations can reimagine their analytics infrastructure by embedding AI into the very fabric of user interaction.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+<link rel="stylesheet" href="/css/style.css" media="screen">
+
+    <title>Aerodynamic Data Models: Flying Fast at Scale with DuckDB</title>
+
+<meta name="description" content="At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.
+In this lightning talk, we&amp;rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.
+Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes.">
+  
+
+<link rel="canonical" href="http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/" />
+<link rel="alternate" hreflang="en" href="http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/" />
+<link rel="alternate" hreflang="x-default" href="http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/" />
+
+
+
+
+<meta property="og:title" content="Aerodynamic Data Models: Flying Fast at Scale with DuckDB" />
+<meta property="og:description" content="At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.
+In this lightning talk, we&rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.
+Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/" />
+    <meta property="og:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg" />
+      
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png" />
+      
+  <meta property="article:section" content="sessions" />
+  
+  
+    <meta property="article:modified_time" content="2025-10-20T12:04:39-05:00" />
+  
+
+
+
+
+
+
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg"/>
+    <meta name="twitter:title" content="Aerodynamic Data Models: Flying Fast at Scale with DuckDB"/>
+<meta name="twitter:description" content="At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.
+In this lightning talk, we&rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.
+Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes."/>
+
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Aerodynamic Data Models: Flying Fast at Scale with DuckDB",
+  "datePublished": "0001-01-01T00:00:00+00:00",
+  "dateModified": "2025-10-20T12:04:39-05:00",
+  "mainEntityOfPage": "http://localhost:1313/",
+  "publisher": {
+    "@type": "Organization",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/images/logo-osacom-text-light-2026.svg"
+    },
+    "name": "The Open Source Analytics Community"
+  },
+  "wordcount" :  149 ,
+  "description": "At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.\nIn this lightning talk, we\u0026rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.\nOur primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes.",
+  "keywords":  null 
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" href="http://localhost:1313/favicon.png">
+
+    
+</head>
+
+<body class="sessions single d-flex flex-column min-vh-100">
+    
+        <header class="main-header">
+  <nav class="navbar navbar-dark navbar-expand-lg">
+    <div class="container">
+
+      
+      <a class="navbar-brand" href="/">
+        
+        <img src="/images/logo-osacom-text-light-2026.svg" alt="logo"
+          class="d-inline-block">
+        
+      </a>
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="menu-main navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#events">Events</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#subscribe-to-newsletter">Newsletter</a>
+          </li>
+          
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Resources
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a class="dropdown-item" href="/posts" >
+                  News
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/sessions" >
+                  OSA CON Sessions
+                </a>
+              </li>
+              </ul>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#participate">Participate</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/#about">About</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="https://osacon.io">OSA Con 2026 ↗</a>
+          </li>
+          
+          </ul>
+
+        
+        <a href="https://go.osacom.io/slack" class="btn btn-primary">Join the Slack</a>
+
+      </div>
+
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div id="content">
+        <nav class="header-breadcrumb my-2" aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb my-0">
+            
+            
+                
+                
+                    
+                
+                    
+                
+                    
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/">Home</a> </li>
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/">Sessions</a> </li>
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/2024/">OSA Con 2024 Sessions</a> </li>
+                
+            
+                <li class="breadcrumb-item active" aria-current="page">  Aerodynamic Data Models: Flying Fast at Scale with DuckDB</li>
+            
+        </ol>
+    </div>
+</nav>
+
+
+
+<section class="speaker-detail">
+  <div class="container">
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              
+              <figure class="thumb my-3">
+                <a href="http://localhost:1313/speakers/mike-driscoll/">
+                  <div class="img-container">
+                    <img src="/images/speakers/mike_driscoll.jpg" alt="Mike Driscoll" class="rounded-circle">
+                  </div>
+                  <h5 class="name">Mike Driscoll</h5>
+                </a> 
+              </figure>
+               
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <div class="session-meta" id="date">
+              <span style="display: none;" id="adjTime"></span>
+              
+                          
+              
+                <em>Presented at OSACon 2024</em>
+              
+            </div>
+            <div class="d-lg-none d-xl-none">
+              By
+              
+              <a class="speaker-inline-item" href="http://localhost:1313/speakers/mike-driscoll/">Mike Driscoll</a>
+              
+            </div>
+
+            
+            <br>
+            <div class="mb-3"><a href='/slides/2024/Aerodynamic-Data-Models_-Flying-Fast-at-Scale-with-DuckDB.pdf' target="_blank" class="btn btn-primary text-white" download><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download align-middle" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708z"/>
+</svg>&nbsp; Download slides</a></div>
+            
+
+            <div class="content mt-4"><p>At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.</p>
+<p>In this lightning talk, we&rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.</p>
+<p>Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes. We also utilize enum types for more efficient handling of string column queries, along with config tunings. These approaches have collectively enabled us to enhance DuckDB&rsquo;s capability to handle larger datasets (100+ GBs) with sub-second query responses.</p>
+<p>We invite you to join us in this insightful session to discover how these optimizations can significantly improve your data processing and query performance in DuckDB.</p>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="mb-3">
+      <iframe id="video-iframe" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"
+        allowtransparency="true" src='https://www.youtube.com/embed/KCSKq9VQ8CY'
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"
+        webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    </div>
+    
+  </div>
+  </div>
+</section>
+
+
+<script>
+  function adjTime(timeStart, timeEnd) {
+    let dateStart = new Date(Date.parse(timeStart));
+    let dateEnd = new Date(Date.parse(timeEnd));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let adjString = days[dateStart.getDay()]+", May "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    document.getElementById("adjTime").innerHTML = adjString;
+  }
+    
+</script>
+
+
+    </div>
+    <footer class="py-5 mt-auto bg-midnight">
+  <div class="container py-5">
+    <div class="d-flex flex-wrap justify-content-between align-items-center">
+      <p class="col-md mb-0 text-muted"></p>
+      <ul class="nav col-md-auto justify-content-end">
+        <li class="nav-item"><a href="/code-of-conduct/" class="nav-link px-2 text-light" title='Code of Conduct' aria-label='Code of Conduct'>Code of Conduct</a></li>
+        <li class="nav-item"><a href="/privacy-policy/" class="nav-link px-2 text-light" title='Privacy Policy' aria-label='Privacy Policy'>Privacy Policy</a></li>
+        </ul>
+    </div>
+  </div>
+</footer>
+    
+
+
+<script src="/js/bootstrap/bootstrap.bundle.min.min.c90b9b454b73b06a9a0995c2e13ec9d39ba80362f34c0df2121a1082696ed4a150a348b559791bbc32d172b2246b44f6342722d553e22d78d8e908b169a12035.js" integrity="sha512-yQubRUtzsGqaCZXC4T7J05uoA2LzTA3yEhoQgmlu1KFQo0i1WXkbvDLRcrIka0T2NCci1VPiLXjY6QixaaEgNQ==" crossorigin="anonymous" defer></script>
+
+
+
+  <script src="/js/main.min.e8d88c82c0438b527f1aca4115652ba1e2877bf805b75593b23ac0e3fe2b3fe95a467d1feef275355132ba061da6404b0d24d55afabc209b294b1db043be014d.js" integrity="sha512-6NiMgsBDi1J/GspBFWUroeKHe/gFt1WTsjrA4/4rP&#43;laRn0f7vJ1NVEyugYdpkBLDSTVWvq8IJspSx2wQ74BTQ==" crossorigin="anonymous" defer></script>
+
+
+
+      
+</body>
+</html>

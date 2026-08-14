@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mya Jaye on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/mya-jaye/</link>
+    <description>Recent content in Mya Jaye on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/mya-jaye/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Your OTel</title>
+      <link>http://localhost:1313/sessions/2025/ai-your-otel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/ai-your-otel/</guid>
+      <description>New employee onboarding often involves navigating a sea of information, which can delay full productivity. This session will explore how AI can personalize information discovery, helping new hires integrate more quickly and engage effectively.&#xA;We&amp;rsquo;ll detail an architecture that uses OpenTelemetry to transmit metrics and Google&amp;rsquo;s Model Context Protocol (MCP) Toolbox for Databases to connect AI agents with a high-performance ClickHouse® data lake. This setup allows for dynamic, real-time access to relevant company knowledge.</description>
+    </item>
+  </channel>
+</rss>

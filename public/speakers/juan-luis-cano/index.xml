@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Luis Cano Rodríguez on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/juan-luis-cano/</link>
+    <description>Recent content in Juan Luis Cano Rodríguez on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/juan-luis-cano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who needs ChatGPT? Rock solid AI pipelines with Hugging Face and Kedro</title>
+      <link>http://localhost:1313/sessions/2023/who-needs-chatgpt-rock-solid-ai-pipelines-with-hugging-face-and-kedro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/who-needs-chatgpt-rock-solid-ai-pipelines-with-hugging-face-and-kedro/</guid>
+      <description>Artificial Intelligence is all the rage, largely thanks to generative systems like ChatGPT, Midjourney, and the like. These commercial systems are very sophisticated and powerful, but also a bit opaque if you want to learn how they work or adapt them to your needs. What happens inside the &amp;lsquo;black box&amp;rsquo;?&#xA;Luckily there are open AI models that you can download comfortably, study without restrictions, and adjust so that they do what you want.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktoria Ondrejova on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/viktoria-ondrejova/</link>
+    <description>Recent content in Viktoria Ondrejova on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/viktoria-ondrejova/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Zero to Superset Hero: Data visualisation as a code with Terraform</title>
+      <link>http://localhost:1313/sessions/2023/from-zero-to-superset-hero-data-visualisation-as-a-code-with-terraform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/from-zero-to-superset-hero-data-visualisation-as-a-code-with-terraform/</guid>
+      <description>In this session, we will share the journey of overcoming common frustrations with Superset. These day-to-day struggles include the time-consuming process of renaming a column in each chart, copy-pasting metrics just to create a slightly similar chart, and many more challenges that grow bigger as your company does. The challenges got so big for us that despite having zero prior experience with the Go language, we decided to create the Superset Terraform provider and build a so-called “dashboards as a code” solution.</description>
+    </item>
+  </channel>
+</rss>

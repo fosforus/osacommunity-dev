@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jayesh Asrani on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/jayesh-asrani/</link>
+    <description>Recent content in Jayesh Asrani on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/jayesh-asrani/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Streaming Analytics in Action: Real-World Case Studies from Uber, Razorpay, and Stripe</title>
+      <link>http://localhost:1313/sessions/2025/streaming-analytics-in-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/streaming-analytics-in-action/</guid>
+      <description>Discover the transformative power of streaming analytics featuring groundbreaking case studies from some of the most innovative companies in the world. Explore how Uber, Razorpay, and Stripe leverage next-gen streaming architectures to power their real-time decision-making, improve user experiences, and drive operational excellence. These case studies will offer a rare glimpse into the advanced technologies and strategies behind these leading-edge systems, showcasing real-world applications of streaming analytics that are as inspiring as they are practical.</description>
+    </item>
+  </channel>
+</rss>

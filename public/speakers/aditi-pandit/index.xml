@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditi Pandit on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/aditi-pandit/</link>
+    <description>Recent content in Aditi Pandit on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/aditi-pandit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prestissimo : The new generation Presto</title>
+      <link>http://localhost:1313/sessions/2023/prestissimo-the-new-generation-presto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/prestissimo-the-new-generation-presto/</guid>
+      <description>Prestissimo is the latest innovation in the Presto SQL query engine (https://prestodb.io/). It is an ambitious endeavor to replace Presto&amp;rsquo;s Java based runtime execution with a new state of the art C++ engine based on the concepts of vectorization and runtime optimizations.&#xA;The Native engine has many benefits :&#xA;Huge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations. Eliminates spiky and unpredictable Java GC issues.</description>
+    </item>
+    <item>
+      <title>Presto Native Engine at Meta and IBM</title>
+      <link>http://localhost:1313/sessions/presto-native-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/presto-native-engine/</guid>
+      <description>Presto 2.0 is a full rewrite of the Presto query execution engine (https://prestodb.io/). The goal is to bring a 3-4x improvement in Presto performance and scalability by moving from the old Java implementation to a modern C++ one. This move towards native execution aligns with industry initiatives like Databricks Photon and Apache DataFusion, among others. We are very excited to bring this technology to Presto to make it the best Open Data Lakehouse engine in the market.</description>
+    </item>
+  </channel>
+</rss>

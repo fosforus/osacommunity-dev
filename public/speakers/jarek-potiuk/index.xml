@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jarek Potiuk on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/jarek-potiuk/</link>
+    <description>Recent content in Jarek Potiuk on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/jarek-potiuk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>`New` Workflow Orchestrator in town: Apache Airflow 2.x</title>
+      <link>http://localhost:1313/sessions/2023/new-workflow-orchestrator-in-town-apache-airflow-2-x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/new-workflow-orchestrator-in-town-apache-airflow-2-x/</guid>
+      <description>Quite often you hear about the &amp;ldquo;new&amp;rdquo; orchestrator that aims to solve your orchestration needs. You can also often hear how it compares to Airlfow. However those comparisions often overlook the fact that since Airflow 2.0 has been introduced, it continues to evolve and piece-by-piece modernize itself.&#xA;New UI, New ways of writing your orchestration tasks, new ways to test them. And the comparision often overlook that if you start your journey with Airflow today, your experience will be quite a bit different than even 2 years ago (what usually most comparisions talk about).</description>
+    </item>
+    <item>
+      <title>Airflow 3 is coming!</title>
+      <link>http://localhost:1313/sessions/2024/airflow-3-is-coming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/airflow-3-is-coming/</guid>
+      <description>This session is about the new major release of Airflow that we plan to release early in 2025. This is the first major release of Airflow since 2021 when we released Airflow 2 and it is a result of 4 years of improvements we&amp;rsquo;ve implemented as minor releases, but also a lot of listening to our users, and changing industry. While Airlfow remains the most important and strongest ETL/Data orchestrator in use, with the advent of LLM/GenAI becoming mainstream part of the data orchestration and a wealth of workflow and tooling specialising in those, Airflow 3 is aiming to become the only True Open-Source, Open-Governance Enterprise-level strong Orchestration solution for all your batch processing worfklow needs.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,157 @@
+vision: "We envision a future where analytics software is not only free for everyone to use and enhance but where the best tools seamlessly work together within a fair and transparent marketplace, free from the constraints of unjust pricing and proprietary barriers." 
+
+jointypes:
+  - title: Contributors
+    bgcolor: "#ffd9ee"
+    benefits:
+      - Meet the people and projects who will leverage and integrate with your project.
+      - Network with your fellow creators.
+      - Evangelize your projects and share creative ways to use apply them in real applications.
+      - Get ideas for ways to make your project more valuable to a wider community.
+
+  - title: Community members
+    bgcolor: "#f0d9ff"
+    benefits:
+      - Learn how to develop analytic applications on open source.
+      - Keep up with the state of technology in analytics.
+      - Ask questions and bounce ideas around in a friendly and supportive community.
+      - Get new ideas for using data in your workplace.
+      - Speak freely about COSS/SaaS vendors outside the constraints of OSS foundations and vendor neutrality restrictions.
+
+event_photos:
+    - img: IMG_8309.webp
+    - img: IMG_8356.webp
+    - img: SF-meetup-copy.webp
+    - img: NYC-meetup-copy.webp
+    - img: FOSDEM-meetup-copy.webp
+    - img: Chicago-meetup-copy.webp
+
+community_events:
+    - date: 2026-09-02
+      title: Whose Cloud Is It Anyway? Take ownership of your data and your costs with BYOC
+      venue: San Francisco, CA
+      type: Meetup
+      reg_link: https://luma.com/ruft92qf
+      reg_text: RSVP
+
+    - date: 2026-09-08
+      title: Building AI Applications at Scale ft. ClickHouse®, Grafana, and dltHub
+      venue: Berlin, Germany
+      type: Meetup
+      reg_link: https://luma.com/oretqk1d
+      reg_text: RSVP
+
+    - date: 2026-09-10
+      title: Building AI Applications at Scale
+      venue: Warszawa, Poland
+      type: Meetup
+      reg_link: https://luma.com/xitk92gu
+      reg_text: RSVP
+
+    - date: 2026-11-02
+      title: OSA Con 2026 - The Anti-Hype Conference for Open Source Analytics and AI
+      venue: San Francisco, CA + Online
+      type: Conference
+      reg_link: https://luma.com/eis7567t
+      reg_text: Register
+
+participate_cards:
+    - title: Attend a meetup
+      text: "A few times a year we gather in person — SF, NYC, Chicago, Brussels — for short technical talks and open discussion. Online sessions in between."
+      link: See the schedule
+      url: "#events"
+
+    - title: Speak or propose a session
+      text: "Practitioner talks only: what you built, what broke, what you'd do differently. First-time speakers welcome."
+      link: Submit a topic
+      url: https://osacon.io/get-involved
+
+    - title: Join the Slack
+      text: "Ask questions, share benchmarks, and get unstuck with maintainers and engineers in your part of the stack."
+      link: Open the Slack invite
+      url: https://go.osacom.io/slack
+
+    - title: Subscribe to the newsletter
+      text: "One monthly email: upcoming events, new recordings, and community project notes. No vendor pitches."
+      link: Subscribe for updates
+      url: "#subscribe-to-newsletter"
+
+    - title: Partner with the community
+      text: "Host a meetup, contribute venue or infrastructure, or support OSA Con. Project-neutral by design."
+      link: Talk to the organizers
+      url: "/contact"
+
+    - title: Explore OSA Con
+      text: "The annual gathering: Nov 2, 2026, San Francisco + online, free. Plus five years of session recordings."
+      link: Explore OSA Con 2026
+      url: "https://osacon.io"
+
+features_extended:
+    - number: 5+
+      title: Years of Community
+      text: Building connections across the open-source analytics ecosystem.
+
+    - number: 5,000+
+      title: Engineers & Analysts
+      text: A global audience of practitioners and builders.
+
+    - number: 45+
+      title: Countries Represented
+      text: A worldwide community of data professionals.
+
+    - number: 300+
+      title: Technical Talks
+      text: Practical content from experts and practitioners.
+
+
+projects:
+    - name: Superset
+      image: /images/projects/superset.svg
+
+    - name: Presto
+      image: /images/projects/presto.svg
+
+    - name: DuckDB
+      image: /images/projects/duckdb.svg
+
+    - name: Airflow
+      image: /images/projects/airflow.svg
+
+    - name: Kafka
+      image: /images/projects/kafka.svg
+
+    - name: Flink
+      image: /images/projects/flink.png  
+
+    - name: Grafana
+      image: /images/projects/grafana.svg  
+
+    - name: Iceberg
+      image: /images/projects/iceberg.svg  
+
+    - name: Arrow
+      image: /images/projects/arrow.svg  
+
+    - name: dbt
+      image: /images/projects/dbt.svg  
+
+    - name: Hudi
+      image: /images/projects/hudi.png
+
+    - name: Nifi
+      image: /images/projects/nifi.svg
+    
+    - name: Meltano
+      image: /images/projects/meltano.svg  
+
+    - name: Starrocks
+      image: /images/projects/starrocks-logo.png  
+
+    - name: Cassandra
+      image: /images/projects/cassandra.svg
+
+    - name: Kubernetes
+      image: /images/projects/kubernetes.png  
+
+    - name: Dagster
+      image: /images/partners/dagster.png  

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nadine Farah on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/nadine-farah/</link>
+    <description>Recent content in Nadine Farah on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/nadine-farah/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Panel Discussion on Growing a Healthy Open Source Community</title>
+      <link>http://localhost:1313/sessions/2023/panel-discussion-on-growing-a-healthy-open-source-community/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/panel-discussion-on-growing-a-healthy-open-source-community/</guid>
+      <description>Communities are at the heart of the open source movement. Community members help with everything from code contributions to trying out software to marketing. Plus, good communities are just fun to be around. In this panel discussion our experts will discuss strategies and tactics to build communities that are welcoming to all, promote collaborative work, and help make their open source projects a success.</description>
+    </item>
+    <item>
+      <title>Data Alchemy: Transforming Raw Data to Gold with Apache Hudi and DBT</title>
+      <link>http://localhost:1313/sessions/2023/data-alchemy-transforming-raw-data-to-gold-with-apache-hudi-and-dbt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/data-alchemy-transforming-raw-data-to-gold-with-apache-hudi-and-dbt/</guid>
+      <description>The medallion architecture graduates raw data sitting in operational systems into a set of refined tables in a series of stages, ultimately processing data to serve analytics from gold tables. While there is a deep desire to build this architecture incrementally, it is very challenging with current technologies available on lakehouses. Many technologies can’t efficiently update records or efficiently process incremental data without recomputing all the data to serve low-latency tables.</description>
+    </item>
+  </channel>
+</rss>

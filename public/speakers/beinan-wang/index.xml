@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beinan Wang on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/beinan-wang/</link>
+    <description>Recent content in Beinan Wang on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/beinan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximizing Query Speed and Minimizing Costs in Data Lakes with Open-Source Caching</title>
+      <link>http://localhost:1313/sessions/2023/maximizing-query-speed-and-minimizing-costs-in-data-lakes-with-open-source-caching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/maximizing-query-speed-and-minimizing-costs-in-data-lakes-with-open-source-caching/</guid>
+      <description>As data lakes scale in complexity and size, companies face challenges with slow and inconsistent data access, rapidly growing storage costs, and high operation costs when migrating to the cloud. In this talk, we discuss an open-source caching framework we designed to improve performance by 1.5x and reduce storage costs by millions per year. The framework leverages tools like Hadoop, Parquet, Hudi, and Alluxio and applies to both on-prem and cloud environments.</description>
+    </item>
+  </channel>
+</rss>

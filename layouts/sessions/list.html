@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+{{ $is_active := eq .RelPermalink "/sessions/" }}
+{{ $recordings := true }}
+    {{ if not $is_active }}
+    <table data-toggle="table" data-search="true" data-search-align="left" class="table" >
+    {{ else }}
+        <table data-toggle="table" data-sortable="true" class="table">
+    {{ end }}
+      <thead class="d-none">
+        <tr>
+          <th></th>
+        </tr>
+      </thead>
+        <tbody>
+              {{ range .Data.Pages.ByTitle }}
+            <tr>
+                <td><h5 class="mb-0">
+                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
+                    </h5>
+                    {{ if not $is_active }}
+                        <div style="font-size:16px; font-style:italic;">{{ with .Params.speakers }} With {{ if lt (. | len) 4 }}{{ delimit . ", " " & " }}{{ else }}Multiple speakers{{end}}{{ end }}</div>
+                    <div class="card-abstract mt-2" id="abs-{{.File.TranslationBaseName}}" style="font-size:14px">
+                        {{ .Summary }}
+                    </div>
+                    {{ end }}
+                  </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+</div>
+        <script src="/js/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/js/bootstrap-table.min.css">
+        <script src="/js/bootstrap-table.min.js"></script>
+
+{{ end }}

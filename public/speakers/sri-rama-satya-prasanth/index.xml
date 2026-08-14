@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sri Rama Satya Prasanth on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/sri-rama-satya-prasanth/</link>
+    <description>Recent content in sri Rama Satya Prasanth on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/sri-rama-satya-prasanth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Analytics in Action</title>
+      <link>http://localhost:1313/sessions/2025/open-analytics-in-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/open-analytics-in-action/</guid>
+      <description>This session explores how open-source analytics technologies are transforming the public sector through the lens of Electronic Income Verification (EIV) systems—platforms that process over 850,000 real-time verifications daily, integrate 40+ data sources, and maintain 99.95% uptime to support equitable, efficient public benefit delivery.&#xA;We’ll dive into the open-source stack behind these systems: event streaming with Apache Kafka, data orchestration with Airflow, analytics with Apache Superset and DuckDB, and ML-powered fraud detection using tools like scikit-learn and Hugging Face NLP.</description>
+    </item>
+  </channel>
+</rss>

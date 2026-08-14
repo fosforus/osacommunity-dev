@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georg Heiler on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/georg-heiler/</link>
+    <description>Recent content in Georg Heiler on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/speakers/georg-heiler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Data Pipelines @ Magenta Telekom</title>
+      <link>http://localhost:1313/sessions/2025/scaling-data-pipelines-magenta-telekom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/scaling-data-pipelines-magenta-telekom/</guid>
+      <description>Magenta Telekom ingests many terabytes of new data every day, and every downstream consumer wants it immediately. The real bottleneck turned out not to be hardware but humans wrestling with hidden, hard-wired dependencies in hundreds of heterogeneous pipelines and sometimes tool silos.&#xA;Our fix was to treat every data asset as a node in a data-dependency graph and every transformation as an edge. Ingestion, Transformation, AI and BI are all part of the same executable graph.</description>
+    </item>
+  </channel>
+</rss>

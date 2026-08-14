@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirshanka Das on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/shirshanka-das/</link>
+    <description>Recent content in Shirshanka Das on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/shirshanka-das/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to implement Data Contracts with DataHub</title>
+      <link>http://localhost:1313/sessions/2023/how-to-implement-data-contracts-with-datahub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/how-to-implement-data-contracts-with-datahub/</guid>
+      <description>Data contracts have been much discussed in the community of late, with a lot of curiosity around how to approach this concept in practice. We believe data contracts need a harmonizing layer to manage data quality in a uniform manner across a fragmented stack. We are calling this harmonizing layer the Control Plane for Data - powered by the common thread across these systems: metadata. This talk will cover practical ways of implementing Data Contracts with DataHub, the most popular open source metadata platform.</description>
+    </item>
+  </channel>
+</rss>

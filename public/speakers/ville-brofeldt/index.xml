@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ville Brofeldt on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/ville-brofeldt/</link>
+    <description>Recent content in Ville Brofeldt on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/ville-brofeldt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Superset Extensions - Taking Open Source BI to the Next Level</title>
+      <link>http://localhost:1313/sessions/2025/apache-superset-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2025/apache-superset-extensions/</guid>
+      <description>Apache Superset has always been leading the charge on open-source BI, but now it&amp;rsquo;s getting ready to truly take over the BI world. Learn all about Superset&amp;rsquo;s new extensions architecture that will allow users and developers to more rapidly expand and improve the product&amp;rsquo;s capabilities, while simplifying life for both developers and maintainers.</description>
+    </item>
+  </channel>
+</rss>

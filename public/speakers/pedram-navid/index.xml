@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedram Navid on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/pedram-navid/</link>
+    <description>Recent content in Pedram Navid on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/pedram-navid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maybe The Real Modern Data Stack Was the Open Source Tools We Got Along The Way</title>
+      <link>http://localhost:1313/sessions/2023/maybe-the-real-modern-data-stack-was-the-open-source-tools-we-got-along-the-way/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/maybe-the-real-modern-data-stack-was-the-open-source-tools-we-got-along-the-way/</guid>
+      <description>There are many misconceptions of the Modern Data Stack, and it&amp;rsquo;s easy to forget the real pain it solved and the value it unlocked.&#xA;While some people still view the Modern Data Stack as marketing-fluff, I&amp;rsquo;d like to demonstrate how powerful it can be by reclaiming it using Open Source tooling.&#xA;With tools like sling, dbt, duckdb, dagster, and more, we can spin up cost-effective, fast, and powerful ETL data stacks that would have taken months to implement in the past.</description>
+    </item>
+  </channel>
+</rss>

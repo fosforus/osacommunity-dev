@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arjun Sharda on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/arjun-sharda/</link>
+    <description>Recent content in Arjun Sharda on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/arjun-sharda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Open Source Marketing is Similar to Business Marketing</title>
+      <link>http://localhost:1313/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</guid>
+      <description>Open source is an amazing place for developers to contribute to exciting new projects and also sharpen their coding skills while at it. However, as an open source maintainer of about 30 projects myself, I&amp;rsquo;ve realized that open source marketing is very similar to business marketing. Both open source projects and companies aim to receive users. Just as 90% of businesses fail or become abandoned, the same can be said for open source projects.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zander Matheson on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/zander-matheson/</link>
+    <description>Recent content in Zander Matheson on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/zander-matheson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-Time Revolution: Kickstarting Your Journey in Streaming Data</title>
+      <link>http://localhost:1313/sessions/2023/real-time-revolution-kickstarting-your-journey-in-streaming-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/real-time-revolution-kickstarting-your-journey-in-streaming-data/</guid>
+      <description>Stream processing is hard! It&amp;rsquo;s expensive! It&amp;rsquo;s unnecessary! Batch is all you need! It&amp;rsquo;s hard to maintain! While some of these may sound true, the world of streaming data has come a long way and it is time we start to take advantage of data in real-time.&#xA;This talk dips your feet into the world of streaming data and demystifies some of the common misconceptions. We will cover some of the basics around streaming data and how you can get started with your first stream processing project with the Python open source stream processor Bytewax.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dunith Dhanushka on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/dunith-dhanushka/</link>
+    <description>Recent content in Dunith Dhanushka on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/dunith-dhanushka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anatomy of a real-time analytics dashboard</title>
+      <link>http://localhost:1313/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</guid>
+      <description>Typically, data visualization is the last mile in a data pipeline, as it presents insights in a way that is easily understood by users. When insights are fresh and relevant, humans can act upon them on time.&#xA;However, the process of implementing a visually appealing real-time dashboard is not as simple as it is thought. The challenges in data collection and processing at scale, and delivering the metrics to users on time make things difficult.</description>
+    </item>
+    <item>
+      <title>Many Faces of Real-time Analytics</title>
+      <link>http://localhost:1313/sessions/2023/many-faces-of-real-time-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2023/many-faces-of-real-time-analytics/</guid>
+      <description>Real-time analytics systems derive meaningful insights from continuous streams of data, enabling organizations to make swift decisions and react fast. However, not all real-time analytics systems are made equal. While they share the same goal in the end, there are differences in how they achieve it.&#xA;This talk aims to classify real-time analytics systems into four main groups based on five characteristics, discuss popular use cases for them, and identify the best technology choice for implementing them in production.</description>
+    </item>
+  </channel>
+</rss>

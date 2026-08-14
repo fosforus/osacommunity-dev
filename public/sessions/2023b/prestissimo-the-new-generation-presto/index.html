@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+<link rel="stylesheet" href="/css/style.css" media="screen">
+
+    <title>Prestissimo : The new generation Presto</title>
+
+<meta name="description" content="Prestissimo is the latest innovation in the Presto SQL query engine (https://prestodb.io/). It is an ambitious endeavor to replace Presto&amp;rsquo;s Java based runtime execution with a new state of the art C&#43;&#43; engine based on the concepts of vectorization and runtime optimizations.
+The Native engine has many benefits :
+Huge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations. Eliminates spiky and unpredictable Java GC issues.">
+  
+
+
+<link rel="canonical" href="http://localhost:1313/sessions/2023b/prestissimo-the-new-generation-presto/" />
+
+
+<link rel="alternate" hreflang="en" href="http://localhost:1313/sessions/2023b/prestissimo-the-new-generation-presto/" />
+<link rel="alternate" hreflang="x-default" href="http://localhost:1313/sessions/2023b/prestissimo-the-new-generation-presto/" />
+
+
+
+
+<meta property="og:title" content="Prestissimo : The new generation Presto" />
+<meta property="og:description" content="Prestissimo is the latest innovation in the Presto SQL query engine (https://prestodb.io/). It is an ambitious endeavor to replace Presto&rsquo;s Java based runtime execution with a new state of the art C&#43;&#43; engine based on the concepts of vectorization and runtime optimizations.
+The Native engine has many benefits :
+Huge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations. Eliminates spiky and unpredictable Java GC issues." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/sessions/2023b/prestissimo-the-new-generation-presto/" />
+    
+    <meta property="og:image" content="http://localhost:1313/images/logo-h.svg" />
+      
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png" />
+      
+  <meta property="article:section" content="sessions" />
+  
+  
+    <meta property="article:modified_time" content="2026-01-05T12:32:44-06:00" />
+  
+
+
+
+
+
+
+
+  
+  <meta name="twitter:title" content="Prestissimo : The new generation Presto"/>
+<meta name="twitter:description" content="Prestissimo is the latest innovation in the Presto SQL query engine (https://prestodb.io/). It is an ambitious endeavor to replace Presto&rsquo;s Java based runtime execution with a new state of the art C&#43;&#43; engine based on the concepts of vectorization and runtime optimizations.
+The Native engine has many benefits :
+Huge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations. Eliminates spiky and unpredictable Java GC issues."/>
+
+
+
+
+
+
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Prestissimo : The new generation Presto",
+  "datePublished": "0001-01-01T00:00:00+00:00",
+  "dateModified": "2026-01-05T12:32:44-06:00",
+  "author": {
+    "@type": "Person",
+    "name": "Aditi Pandit",
+    "url": "http:\/\/localhost:1313\//authors/aditi-pandit"
+  },
+  "mainEntityOfPage": "http://localhost:1313/",
+  "publisher": {
+    "@type": "Organization",
+    
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/images/logo-h.svg"
+    },
+    "name": "The Open Source Analytics Community"
+  },
+  "wordcount" :  204 ,
+  "description": "Prestissimo is the latest innovation in the Presto SQL query engine (https://prestodb.io/). It is an ambitious endeavor to replace Presto\u0026rsquo;s Java based runtime execution with a new state of the art C++ engine based on the concepts of vectorization and runtime optimizations.\nThe Native engine has many benefits :\nHuge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations. Eliminates spiky and unpredictable Java GC issues.",
+  "keywords":  null 
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
+<link rel="icon" type="image/png" href="http://localhost:1313/favicon.png">
+
+    
+</head>
+
+<body class="sessions single d-flex flex-column min-vh-100"><header class="main-header">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+
+      
+      <a class="navbar-brand" href="/">
+        
+        <img src="/images/logo-h.svg" alt="logo" width="150"
+          class="d-inline-block align-text-top">
+        
+      </a>
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="menu-main navbar-nav mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/manifesto">About</a>
+          </li>
+          
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Resources
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li>
+                <a class="dropdown-item" href="/posts" >
+                  News
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/sessions/2023" >
+                  Sessions OSA CON 2023
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/events" >
+                  Events
+                </a>
+              </li>
+              </ul>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="https://osacon.io">OSA CON</a>
+          </li>
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/contact">Contact</a>
+          </li>
+          
+          </ul>
+
+        
+        
+        
+        <div class="menu-social d-flex">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.youtube.com/@OpenSourceAnalyticsConference" target='_blank' title='Visit our YouTube channel' aria-label='Visit our YouTube channel'>
+                <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/images/feather/feather-sprite.svg#youtube'/></svg><small class="ms-2 d-md-none">YouTube</small>
+              </a> 
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://go.osacom.io/slack" target='_blank' title='Join us on Slack' aria-label='Join us on Slack'>
+                <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-slack'><use href='/images/feather/feather-sprite.svg#slack'/></svg><small class="ms-2 d-md-none">Slack</small>
+              </a> 
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.linkedin.com/showcase/osa-con/" target='_blank' title='Connect on LinkedIn' aria-label='Connect on LinkedIn'>
+                <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-linkedin'><use href='/images/feather/feather-sprite.svg#linkedin'/></svg><small class="ms-2 d-md-none">LinkedIn</small>
+              </a> 
+            </li>
+            </ul>
+        </div>
+        
+
+      </div>
+
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+    </div>
+  </nav>
+</header><div id="content">
+        <nav class="header-breadcrumb my-2" aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb my-0">
+            
+            
+                
+                
+                    
+                
+                    
+                
+                    
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/">Home</a> </li>
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/">Sessions</a> </li>
+                
+            
+                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/2023b/">OSA Con 2023 Sessions</a> </li>
+                
+            
+                <li class="breadcrumb-item active" aria-current="page">  Prestissimo : The new generation Presto</li>
+            
+        </ol>
+    </div>
+</nav>
+
+
+
+<section class="speaker-detail">
+  <div class="container">
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <div class="session-meta" id="date">
+              <span style="display: none;" id="adjTime"></span>
+              
+                          
+              
+                <em>Presented at OSACon 2023</em>
+              
+            </div>
+            <div class="d-lg-none d-xl-none">
+              By
+              
+            </div>
+
+            
+
+            <div class="content mt-4"><p>Prestissimo is the latest innovation in the Presto SQL query engine (<a href="https://prestodb.io/%29" target="_blank" rel="noopener">https://prestodb.io/)</a>. It is an ambitious endeavor to replace Presto&rsquo;s Java based runtime execution with a new state of the art C++ engine based on the concepts of vectorization and runtime optimizations.</p>
+<p>The Native engine has many benefits :</p>
+<ul>
+<li>Huge Performance boost and CPU efficiency on account of use of vectorization, SIMD and sophisticated adaptive runtime optimizations.</li>
+<li>Eliminates spiky and unpredictable Java GC issues. The Prestissimo memory management framework provides better accounting and features like memory arbitration. This offers the engine more explicit memory control than Java GC.</li>
+<li>Better operational guidance.</li>
+</ul>
+<p>In early results in production workloads (at Meta and Bytedance) and the TPC-H benchmark, we have seen CPU use drop down to as much as 1/3rd of Presto Java.</p>
+<p>Prestissimo leverages the Velox open source initiative <a href="https://velox-lib.io/" target="_blank" rel="noopener">https://velox-lib.io/</a>. Velox is a library of data processing primitives of vectors, functions, operators, data cache, memory management framework that powers Prestissimo. Velox is also used with Spark, streaming and other machine learning workloads at Meta.</p>
+<p>Prestissimo/Velox is a very active project with community participation from Meta, IBM, Intel, Bytedance and Uber. This talk will give more insight into this project and goals for the next few years.</p>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  </div>
+</section>
+
+
+<script>
+  function adjTime(timeStart, timeEnd) {
+    let dateStart = new Date(Date.parse(timeStart));
+    let dateEnd = new Date(Date.parse(timeEnd));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let adjString = days[dateStart.getDay()]+", May "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    document.getElementById("adjTime").innerHTML = adjString;
+  }
+    
+</script>
+
+
+    </div>
+    <footer class="py-3 mt-auto bg-light">
+  <div class="container py-1 my-1">
+    <div class="d-flex flex-wrap justify-content-between align-items-center">
+      <p class="col-md mb-0 text-muted"></p>
+      <ul class="nav col-md-auto justify-content-end">
+        <li class="nav-item"><a href="/code-of-conduct/" class="nav-link px-2 text-muted" title='Code of Conduct' aria-label='Code of Conduct'>Code of Conduct</a></li>
+        <li class="nav-item"><a href="/privacy-policy/" class="nav-link px-2 text-muted" title='Privacy Policy' aria-label='Privacy Policy'>Privacy Policy</a></li>
+        </ul>
+    </div>
+  </div>
+</footer>
+    
+
+
+<script src="/js/bootstrap/bootstrap.bundle.min.min.c90b9b454b73b06a9a0995c2e13ec9d39ba80362f34c0df2121a1082696ed4a150a348b559791bbc32d172b2246b44f6342722d553e22d78d8e908b169a12035.js" integrity="sha512-yQubRUtzsGqaCZXC4T7J05uoA2LzTA3yEhoQgmlu1KFQo0i1WXkbvDLRcrIka0T2NCci1VPiLXjY6QixaaEgNQ==" crossorigin="anonymous" defer></script>
+
+
+
+  <script src="/js/main.min.e8d88c82c0438b527f1aca4115652ba1e2877bf805b75593b23ac0e3fe2b3fe95a467d1feef275355132ba061da6404b0d24d55afabc209b294b1db043be014d.js" integrity="sha512-6NiMgsBDi1J/GspBFWUroeKHe/gFt1WTsjrA4/4rP&#43;laRn0f7vJ1NVEyugYdpkBLDSTVWvq8IJspSx2wQ74BTQ==" crossorigin="anonymous" defer></script>
+
+
+
+      
+</body>
+</html>

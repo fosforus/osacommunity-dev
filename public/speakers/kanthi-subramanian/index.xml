@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanthi Subramanian on The Open Source Analytics Community</title>
+    <link>http://localhost:1313/speakers/kanthi-subramanian/</link>
+    <description>Recent content in Kanthi Subramanian on The Open Source Analytics Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/speakers/kanthi-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replicating data between transactional databases and ClickHouse®</title>
+      <link>http://localhost:1313/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</guid>
+      <description>Transactional databases like MySQL, PostgreSQL and MongoDB are usually not a great fit for real time analytics, especially as the data volume grows.&#xA;They are also less space efficient than columnar databases and require regular purge or archival. This talk presents a solution to synchronize data in real time between MySQL and ClickHouse®. The Altinity Sink Connector open source project (https://github.com/Altinity/clickhouse-sink-connector) is designed to efficiently replicate data and schema changes with accuracy, operational simplicity and performance in mind.</description>
+    </item>
+  </channel>
+</rss>
