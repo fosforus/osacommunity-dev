@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Antoine Desroches on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/marc-antoine-desroches/</link>
+    <link>https://osacom.io/speakers/marc-antoine-desroches/</link>
     <description>Recent content in Marc Antoine Desroches on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/marc-antoine-desroches/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/marc-antoine-desroches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micromegas - unified observability for video games</title>
-      <link>http://localhost:1313/sessions/2025/micromegas-unified-observability-for-video-games/</link>
+      <link>https://osacom.io/sessions/2025/micromegas-unified-observability-for-video-games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/micromegas-unified-observability-for-video-games/</guid>
+      <guid>https://osacom.io/sessions/2025/micromegas-unified-observability-for-video-games/</guid>
       <description>How we built an open source observability stack that can track every frame of our game.&#xA;https://github.com/madesroches/micromegas/&#xA;When every frame lasting 1/60th of a second can record thousands of events, traditional time series databases just won&amp;rsquo;t do.</description>
     </item>
   </channel>

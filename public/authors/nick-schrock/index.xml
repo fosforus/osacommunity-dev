@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Schrock on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/authors/nick-schrock/</link>
+    <link>https://osacom.io/authors/nick-schrock/</link>
     <description>Recent content in Nick Schrock on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/authors/nick-schrock/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/authors/nick-schrock/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Hazard on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/chris-hazard/</link>
+    <link>https://osacom.io/speakers/chris-hazard/</link>
     <description>Recent content in Chris Hazard on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/chris-hazard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/chris-hazard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Most &#34;Open Source&#34; AI Isn&#39;t. And What We Can Do About That.</title>
-      <link>http://localhost:1313/sessions/2023/most-open-source-ai-isn-t-and-what-we-can-do-about-that/</link>
+      <link>https://osacom.io/sessions/2023/most-open-source-ai-isn-t-and-what-we-can-do-about-that/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2023/most-open-source-ai-isn-t-and-what-we-can-do-about-that/</guid>
+      <guid>https://osacom.io/sessions/2023/most-open-source-ai-isn-t-and-what-we-can-do-about-that/</guid>
       <description>What does &amp;ldquo;Open Source AI&amp;rdquo; really mean? If you publish the weights for a neural network, is that much different than only publishing an executable binary without the source? What if the model has memorized data or code that it can reproduce without attribution? What if you interrogate a model for why a decision was made, and you get a wrong explanation? How can you debug and fix it, and how can you understand what&amp;rsquo;s going on?</description>
     </item>
   </channel>

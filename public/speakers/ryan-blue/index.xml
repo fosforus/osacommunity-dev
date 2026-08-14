@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Blue on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/ryan-blue/</link>
+    <link>https://osacom.io/speakers/ryan-blue/</link>
     <description>Recent content in Ryan Blue on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/ryan-blue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/ryan-blue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Formats: The Happy Accident Disrupting the Data Industry</title>
-      <link>http://localhost:1313/sessions/2023/open-formats-the-happy-accident-disrupting-the-data-industry/</link>
+      <link>https://osacom.io/sessions/2023/open-formats-the-happy-accident-disrupting-the-data-industry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2023/open-formats-the-happy-accident-disrupting-the-data-industry/</guid>
+      <guid>https://osacom.io/sessions/2023/open-formats-the-happy-accident-disrupting-the-data-industry/</guid>
       <description>Analytic databases are quietly going through an unprecedented transformation. Open table formats, led by Apache Iceberg, enable multiple query engines to share one central copy of a table. This will fundamentally change the data industry, by freeing data that’s being held hostage by siloed data vendors.&#xA;This session will cover the origins and basics of open table formats and show how new capabilities are shaping the future of both open source compute projects and commercial data warehouses alike.</description>
     </item>
   </channel>

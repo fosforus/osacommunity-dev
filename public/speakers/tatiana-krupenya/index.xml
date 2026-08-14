@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tatiana Krupenya on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/tatiana-krupenya/</link>
+    <link>https://osacom.io/speakers/tatiana-krupenya/</link>
     <description>Recent content in Tatiana Krupenya on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/tatiana-krupenya/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/tatiana-krupenya/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Great Business on Open Source without Selling Your Soul</title>
-      <link>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</link>
+      <link>https://osacom.io/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</guid>
+      <guid>https://osacom.io/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</guid>
       <description>Open source software is fun to work on, but building a real business is tough. We&amp;rsquo;ve all read about commercial open source companies that switched to proprietary models or flat went out of business. Our panel of three CEOs have all built successful companies on open source without resorting to licensing rug-pulls or other fauxpen source tricks that disrespect users. We&amp;rsquo;ll discuss what worked for us, what didn&amp;rsquo;t, and how we balanced our belief in open source communities with making payroll every two weeks.</description>
     </item>
   </channel>

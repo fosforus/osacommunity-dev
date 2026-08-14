@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingyu Chen on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/mingyu-chen/</link>
+    <link>https://osacom.io/speakers/mingyu-chen/</link>
     <description>Recent content in Mingyu Chen on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/mingyu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/mingyu-chen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Doris: an alternative lakehouse solution for real-time analytics</title>
-      <link>http://localhost:1313/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</link>
+      <link>https://osacom.io/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</guid>
+      <guid>https://osacom.io/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</guid>
       <description>Lakehouse is a big data solution that combines the advantages of data warehouse and data lake, helping users to perform fast data analysis and efficient data management on the data lake.&#xA;Apache Doris is an OLAP database for fast data analytics. It provides self-managed table format for high-concurrency and low-latency queries, semi-structured data analytics and complex ad-hoc queries, all by using standard SQL. It can also query data from various lake formation such as Apache Hudi, Apache Iceberg, Apache Paimon, etc.</description>
     </item>
     <item>
       <title>From Custom-Facing to Agent-Facing: Empowering Real-Time Analytics by Apache Doris</title>
-      <link>http://localhost:1313/sessions/2025/from-custom-to-agent/</link>
+      <link>https://osacom.io/sessions/2025/from-custom-to-agent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/from-custom-to-agent/</guid>
+      <guid>https://osacom.io/sessions/2025/from-custom-to-agent/</guid>
       <description>In this talk, I will introduce how Apache Doris, as a real-time analytical database, extends from custom-facing business scenarios to agent-facing ones.&#xA;I will cover the technical details behind high concurrency and low-latency query analytics, as well as capabilities supporting AI scenarios such as hybrid search, agent observability, and collaboration between Doris MCP Server and large language models (LLMs).&#xA;This will help the audience understand how Doris empowers enterprises to perform real-time data exploration in the AI era.</description>
     </item>
   </channel>

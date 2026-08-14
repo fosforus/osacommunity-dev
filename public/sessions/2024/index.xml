@@ -2,296 +2,296 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSA Con 2024 Sessions on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/sessions/2024/</link>
+    <link>https://osacom.io/sessions/2024/</link>
     <description>Recent content in OSA Con 2024 Sessions on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/sessions/2024/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/sessions/2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aerodynamic Data Models: Flying Fast at Scale with DuckDB</title>
-      <link>http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</link>
+      <link>https://osacom.io/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</guid>
+      <guid>https://osacom.io/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</guid>
       <description>At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.&#xA;In this lightning talk, we&amp;rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.&#xA;Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes.</description>
     </item>
     <item>
       <title>AI Reality Checkpoint: The Good, the Bad, and the Overhyped</title>
-      <link>http://localhost:1313/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</link>
+      <link>https://osacom.io/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</guid>
+      <guid>https://osacom.io/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</guid>
       <description>In the past 18 months, artificial intelligence has not just entered our workspaces – it has taken over. As we stand at the crossroads of innovation and automation, it&amp;rsquo;s time for a candid reflection on how AI has reshaped our professional lives, and to talk about where it&amp;rsquo;s been a game changer, where it&amp;rsquo;s falling short, and what&amp;rsquo;s about to shift dramatically in the short term.&#xA;Since the release of ChatGPT in December 2022, I&amp;rsquo;ve developed a &amp;ldquo;first-reflex&amp;rdquo; to augment and accelerate nearly every task with AI.</description>
     </item>
     <item>
       <title>Airflow 3 is coming!</title>
-      <link>http://localhost:1313/sessions/2024/airflow-3-is-coming/</link>
+      <link>https://osacom.io/sessions/2024/airflow-3-is-coming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/airflow-3-is-coming/</guid>
+      <guid>https://osacom.io/sessions/2024/airflow-3-is-coming/</guid>
       <description>This session is about the new major release of Airflow that we plan to release early in 2025. This is the first major release of Airflow since 2021 when we released Airflow 2 and it is a result of 4 years of improvements we&amp;rsquo;ve implemented as minor releases, but also a lot of listening to our users, and changing industry. While Airlfow remains the most important and strongest ETL/Data orchestrator in use, with the advent of LLM/GenAI becoming mainstream part of the data orchestration and a wealth of workflow and tooling specialising in those, Airflow 3 is aiming to become the only True Open-Source, Open-Governance Enterprise-level strong Orchestration solution for all your batch processing worfklow needs.</description>
     </item>
     <item>
       <title>Anatomy of a real-time analytics dashboard</title>
-      <link>http://localhost:1313/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</link>
+      <link>https://osacom.io/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</guid>
+      <guid>https://osacom.io/sessions/2024/anatomy-of-a-real-time-analytics-dashboard/</guid>
       <description>Typically, data visualization is the last mile in a data pipeline, as it presents insights in a way that is easily understood by users. When insights are fresh and relevant, humans can act upon them on time.&#xA;However, the process of implementing a visually appealing real-time dashboard is not as simple as it is thought. The challenges in data collection and processing at scale, and delivering the metrics to users on time make things difficult.</description>
     </item>
     <item>
       <title>Apache Doris: an alternative lakehouse solution for real-time analytics</title>
-      <link>http://localhost:1313/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</link>
+      <link>https://osacom.io/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</guid>
+      <guid>https://osacom.io/sessions/2024/apache-doris-an-alternative-lakehouse-solution-for-real-time-analytics/</guid>
       <description>Lakehouse is a big data solution that combines the advantages of data warehouse and data lake, helping users to perform fast data analysis and efficient data management on the data lake.&#xA;Apache Doris is an OLAP database for fast data analytics. It provides self-managed table format for high-concurrency and low-latency queries, semi-structured data analytics and complex ad-hoc queries, all by using standard SQL. It can also query data from various lake formation such as Apache Hudi, Apache Iceberg, Apache Paimon, etc.</description>
     </item>
     <item>
       <title>Bring streaming to AI: introducing Bytewax connectors</title>
-      <link>http://localhost:1313/sessions/2024/bring-streaming-to-ia/</link>
+      <link>https://osacom.io/sessions/2024/bring-streaming-to-ia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/bring-streaming-to-ia/</guid>
+      <guid>https://osacom.io/sessions/2024/bring-streaming-to-ia/</guid>
       <description>As AI and machine learning become more integral to business operations and decision-making, the need for real-time data processing has never been more critical. Whether you&amp;rsquo;re monitoring live streams from edge devices, responding to events as they happen, or managing data in distributed databases, the ability to process and act on data in real-time can be the difference between success and irrelevance.&#xA;In this talk, we&amp;rsquo;ll showcase how connecting to real-time data sources can create more responsive and adaptive AI systems within the Python ecosystem, using Bytewax.</description>
     </item>
     <item>
       <title>Build a Great Business on Open Source without Selling Your Soul</title>
-      <link>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</link>
+      <link>https://osacom.io/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</guid>
+      <guid>https://osacom.io/sessions/2024/build-a-great-business-on-open-source-without-selling-your-soul/</guid>
       <description>Open source software is fun to work on, but building a real business is tough. We&amp;rsquo;ve all read about commercial open source companies that switched to proprietary models or flat went out of business. Our panel of three CEOs have all built successful companies on open source without resorting to licensing rug-pulls or other fauxpen source tricks that disrespect users. We&amp;rsquo;ll discuss what worked for us, what didn&amp;rsquo;t, and how we balanced our belief in open source communities with making payroll every two weeks.</description>
     </item>
     <item>
       <title>Build your AI Data Hub with Airbyte and MotherDuck</title>
-      <link>http://localhost:1313/sessions/2024/building-your-ai-data-hub-with-airbyte-and-motherduck/</link>
+      <link>https://osacom.io/sessions/2024/building-your-ai-data-hub-with-airbyte-and-motherduck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/building-your-ai-data-hub-with-airbyte-and-motherduck/</guid>
+      <guid>https://osacom.io/sessions/2024/building-your-ai-data-hub-with-airbyte-and-motherduck/</guid>
       <description>Great AI applications start with great data. While DuckDB and MotherDuck are rapidly gaining traction for open-source AI and data engineering, PyAirbyte provides seamless and reliable data movement—directly in Python. In this session, we’ll show you how to combine these powerful tools to build a scalable data hub for GenAI applications and analytics, getting started in just minutes. We’ll conclude by demonstrating how you can build your next GenAI app directly in the database, all on a foundation of great data.</description>
     </item>
     <item>
       <title>Building a Thriving DevRel Program for OSS Projects</title>
-      <link>http://localhost:1313/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</link>
+      <link>https://osacom.io/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</guid>
+      <guid>https://osacom.io/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</guid>
       <description>Over the years, we have seen a good number of OSS projects with great features and services go unnoticed and often get overshadowed by their proprietary counterparts. This highlights a key point: having a brilliant open-source project alone isn&amp;rsquo;t enough. To truly grow an open source project, you need a vibrant developer community that uses, contributes to, and champions your project.&#xA;In this session, we&amp;rsquo;ll look at how to build a successful open source project through strategic DevRel practices.</description>
     </item>
     <item>
       <title>Composable Data Platforms and The Rise of Data Platform Engineering</title>
-      <link>http://localhost:1313/sessions/composable-data-platforms/</link>
+      <link>https://osacom.io/sessions/composable-data-platforms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/composable-data-platforms/</guid>
+      <guid>https://osacom.io/sessions/composable-data-platforms/</guid>
       <description>Every company has a data platform, the systems and tools that produce data, They are critical to every modern business, and can incur massive cost and complexity. In this talk we argue that data platforms must be composable and flexible, and that necessitates a new skill: data platform engineering. We will then discuss how an advanced orchestrator and control plane is the essential technology to engineering a composable data platform, how in turn manage complexity, avoid vendor lock-in, enable end-to-end ownership for practitioner teams, and contain the costs of your data platform.</description>
     </item>
     <item>
       <title>Creating an open-source data platform for Swiss Government</title>
-      <link>http://localhost:1313/sessions/2024/creating-an-open-source-data-platform-for-swiss-government/</link>
+      <link>https://osacom.io/sessions/2024/creating-an-open-source-data-platform-for-swiss-government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/creating-an-open-source-data-platform-for-swiss-government/</guid>
+      <guid>https://osacom.io/sessions/2024/creating-an-open-source-data-platform-for-swiss-government/</guid>
       <description>Together with the local government of one of the biggest cantons in Switzerland, Bern, we created the fully open-source data plattform HelloDATA https://github.com/kanton-bern/hellodata-be&#xA;We leveraged established open-source data tools such as Superset, DBT, Airflow and JupyterHub to create an integrated, &amp;ldquo;one-stop-shop&amp;rdquo; data platform. Using HelloDATA we are driving government agencies of all types to better understand and utilize their data and generate value for themselves and their citizens.&#xA;In this session we would like to give insights into:</description>
     </item>
     <item>
       <title>Designing a Lakehouse for product engineers</title>
-      <link>http://localhost:1313/sessions/2024/designing-a-lakehouse-for-product-engineers/</link>
+      <link>https://osacom.io/sessions/2024/designing-a-lakehouse-for-product-engineers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/designing-a-lakehouse-for-product-engineers/</guid>
+      <guid>https://osacom.io/sessions/2024/designing-a-lakehouse-for-product-engineers/</guid>
       <description>Open Lakehouses are among the most transformative innovations in big data, celebrated widely within data communities. Yet, for most product engineers, the lakehouse is off the radar. In this talk, we introduce Mooncake Labs and our mission to bridge this gap—connecting applications seamlessly with lakehouse capabilities. We’ll also dive into our open-source project, pg_mooncake, which empowers developers to build and manage lakehouse tables directly from within PostgreSQL.</description>
     </item>
     <item>
       <title>Exploring Data Analysis in Time Series Databases</title>
-      <link>http://localhost:1313/sessions/2024/exploring-data-analysis-in-time-series-databases/</link>
+      <link>https://osacom.io/sessions/2024/exploring-data-analysis-in-time-series-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/exploring-data-analysis-in-time-series-databases/</guid>
+      <guid>https://osacom.io/sessions/2024/exploring-data-analysis-in-time-series-databases/</guid>
       <description>Kubernetes has changed everything. Not only the way we deploy our applications. But also how we monitor them, how we collect, store, visualize, and alert on time series data generated by monitoring systems.&#xA;What are the challenges in modern monitoring? Why have new-generation time series databases like VictoriaMetrics and Prometheus emerged? Why is there no SQL support in these databases? Why are Grafana dashboards so fancy? Join us as we explore these questions and many other questions related to the specifics of time series data analysis.</description>
     </item>
     <item>
       <title>Flink for a non-JVM user, an introduction to pyflink</title>
-      <link>http://localhost:1313/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</link>
+      <link>https://osacom.io/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</guid>
+      <guid>https://osacom.io/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</guid>
       <description>Apache Flink has steadily established itself as the leader in stream processing technologies. With thousands of users implementing simple to advanced streaming use cases, the future of the flink community looks bright.&#xA;While Apache Flink runs on JVM, for non-JVM users Flink has a well defined pyflink port which helps python developers build sophisticated stream processing jobs. Today, most of the data engineers, data scientists and data analysts prefer using python as their main programming language of choice to build complex use cases.</description>
     </item>
     <item>
       <title>From Raw Data to Insights: Introduction to Data Preprocessing</title>
-      <link>http://localhost:1313/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</link>
+      <link>https://osacom.io/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</guid>
+      <guid>https://osacom.io/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</guid>
       <description>Data preprocessing is a crucial step in the machine learning pipeline. It involves cleaning, transforming, and preparing raw data to make it suitable for building and training machine learning models. In this hands-on workshop, attendees will gain a deep understanding of the importance of data preprocessing and learn essential techniques for working with real-world data.</description>
     </item>
     <item>
       <title>Getting data materialization right</title>
-      <link>http://localhost:1313/sessions/2024/getting-data-materialization-right/</link>
+      <link>https://osacom.io/sessions/2024/getting-data-materialization-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/getting-data-materialization-right/</guid>
+      <guid>https://osacom.io/sessions/2024/getting-data-materialization-right/</guid>
       <description>Materialization moves computation from query time to ingest time by creating specialized derived tables, or materialized views, that are simpler than the source tables and are geared towards supporting specific workloads. This is one of the most powerful and common techniques for speeding up OLAP workloads. You can implement materialization in various ways, including built-in &amp;ldquo;materialized view&amp;rdquo; or &amp;ldquo;projection&amp;rdquo; features in many databases, as well as with third-party stream processors and workflow orchestrators that sit outside the database.</description>
     </item>
     <item>
       <title>How Open Source Marketing is Similar to Business Marketing</title>
-      <link>http://localhost:1313/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</link>
+      <link>https://osacom.io/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</guid>
+      <guid>https://osacom.io/sessions/2024/how-open-source-marketing-is-similar-to-business-marketing/</guid>
       <description>Open source is an amazing place for developers to contribute to exciting new projects and also sharpen their coding skills while at it. However, as an open source maintainer of about 30 projects myself, I&amp;rsquo;ve realized that open source marketing is very similar to business marketing. Both open source projects and companies aim to receive users. Just as 90% of businesses fail or become abandoned, the same can be said for open source projects.</description>
     </item>
     <item>
       <title>Hydra Architecture: Orchestrating ML across clusters, regions, and clouds</title>
-      <link>http://localhost:1313/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</link>
+      <link>https://osacom.io/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</guid>
+      <guid>https://osacom.io/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</guid>
       <description>Increasingly, ML teams must satisfy requirements for executing workflows across multiple Kubernetes clusters, regions, or clouds. Challenges include constrained GPU availability within a single cloud, cloud credits or commitments across multiple providers, or strict data residency requirements. Traditional methods for replicating workflows across environments are both resource-intensive and operationally cumbersome.&#xA;In this talk, we propose a Hydra architecture, a novel approach where applications are deployed to a single cluster but can selectively take advantage of others.</description>
     </item>
     <item>
       <title>Ingesting and analyzing millions of events per second in real-time using open source tools</title>
-      <link>http://localhost:1313/sessions/2024/ingesting-and-analyzing-millions-of-events-per-second-in-real-time-using-open-source-tools/</link>
+      <link>https://osacom.io/sessions/2024/ingesting-and-analyzing-millions-of-events-per-second-in-real-time-using-open-source-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/ingesting-and-analyzing-millions-of-events-per-second-in-real-time-using-open-source-tools/</guid>
+      <guid>https://osacom.io/sessions/2024/ingesting-and-analyzing-millions-of-events-per-second-in-real-time-using-open-source-tools/</guid>
       <description>Teams of all shapes and sizes benefit from near real-time analytics. In this session, I will present a project template that can serve as the foundation to build one such high performing system, powered by Apache Kafka, QuestDB, Grafana OSS, and Jupyter Notebook.&#xA;The first step of a data pipeline is ingestion, and even though we could directly ingest into a fast database, I will use Apache Kafka to ingest data.</description>
     </item>
     <item>
       <title>Leveraging Argo Events and Argo Workflows for Scalable Data Ingestion</title>
-      <link>http://localhost:1313/sessions/2024/leveraging-argo-events-and-argo-workflows-for-scalable-data-ingestion/</link>
+      <link>https://osacom.io/sessions/2024/leveraging-argo-events-and-argo-workflows-for-scalable-data-ingestion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/leveraging-argo-events-and-argo-workflows-for-scalable-data-ingestion/</guid>
+      <guid>https://osacom.io/sessions/2024/leveraging-argo-events-and-argo-workflows-for-scalable-data-ingestion/</guid>
       <description>As Argo Workflows and Argo Events continue to gain popularity for their powerful capabilities in event-driven automation and complex job orchestration, this presentation will delve into how we used this architecture to process millions of records daily.&#xA;You will gain insights into the specific architecture that integrates Argo Events and Argo Workflows to achieve efficient data aggregation and ingestion. We will discuss the challenges encountered during this process and share the strategies we employed to overcome these issues.</description>
     </item>
     <item>
       <title>Leveraging Data Streaming Platform for Analytics and GenAI</title>
-      <link>http://localhost:1313/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</link>
+      <link>https://osacom.io/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</guid>
+      <guid>https://osacom.io/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</guid>
       <description>Apache Kafka is becoming the standard for integrating all information within an enterprise. This provides an opportunity for each enterprise to take actions on what&amp;rsquo;s happening in its business in real time. One common use case is to take this data and ingest it to a data lake for analytics. I will show that by integrating Kafka with Apache Iceberg can make analytics much easier. Another rising use case is GenAI.</description>
     </item>
     <item>
       <title>Low latency Change Data Capture (CDC) to your data lake, using Apache Flink and Apache Paimon</title>
-      <link>http://localhost:1313/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</link>
+      <link>https://osacom.io/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</guid>
+      <guid>https://osacom.io/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</guid>
       <description>Change Data Capture (CDC) from various source databases to a data lake is critical for analytics workload. However different CDC mechanism exists and there are trade-offs with the approach. While using open table formats, you could get around the issue of record-level upserts and deletes but compaction of the data, schema evolution along with latency with Merge-on-Read is still a big challenge. In this session, we will share how you could use Apache Paimon and Apache Flink to build your CDC pipeline that overcomes these challenges and do a low latency sync of CDC data.</description>
     </item>
     <item>
       <title>Managing your repo with AI — What works, and why open-source will win</title>
-      <link>http://localhost:1313/sessions/2024/managing-your-repo-with-ai-what-works-and-why-open-source-will-win/</link>
+      <link>https://osacom.io/sessions/2024/managing-your-repo-with-ai-what-works-and-why-open-source-will-win/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/managing-your-repo-with-ai-what-works-and-why-open-source-will-win/</guid>
+      <guid>https://osacom.io/sessions/2024/managing-your-repo-with-ai-what-works-and-why-open-source-will-win/</guid>
       <description>Maintaining an OSS repository is hard. Scaling contributors is nigh impossible. As AI platforms proliferate, let&amp;rsquo;s take a look at tools you should and shouldn&amp;rsquo;t leverage in automating your GitHub repo, Slack workspace, and more! We&amp;rsquo;ll also talk about why Open Source Software stands to benefit more from this revolution than private/proprietary codebases.</description>
     </item>
     <item>
       <title>Modern LLMs with Graph DB - Exploring boundaries with text-2-cypher</title>
-      <link>http://localhost:1313/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</link>
+      <link>https://osacom.io/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</guid>
+      <guid>https://osacom.io/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</guid>
       <description>In this lightning talk, Diptiman would present the techniques used to execute text-2-cypher analytical query generations with the help of modern large language models like GPT-4o, Claude 3 etc . This session will dive deep into Graph database querying and how LLMs assist developers get analytical queries executed on popular Graph databases like Neo4j and Amazon Neptune.</description>
     </item>
     <item>
       <title>Move Data Not Drama: Simplifying your Workflow with Meltano</title>
-      <link>http://localhost:1313/sessions/meltano/</link>
+      <link>https://osacom.io/sessions/meltano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/meltano/</guid>
+      <guid>https://osacom.io/sessions/meltano/</guid>
       <description>Meltano is a powerful open-source data movement tool that has revolutionized the way organizations handle their data pipelines at scale. Before the Analytics Development Lifecycle was even a thing, Meltano was working to bring software engineering best practices to data teams. This session will explore how Meltano addresses common data management challenges with a single, unified, and customizable platform.</description>
     </item>
     <item>
       <title>Observability for Large Language Models with OpenTelemetry</title>
-      <link>http://localhost:1313/sessions/2024/observability-for-large-language-models-with-opentelemetry/</link>
+      <link>https://osacom.io/sessions/2024/observability-for-large-language-models-with-opentelemetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/observability-for-large-language-models-with-opentelemetry/</guid>
+      <guid>https://osacom.io/sessions/2024/observability-for-large-language-models-with-opentelemetry/</guid>
       <description>Large Language Models (LLMs) mark a transformative advancement in artificial intelligence. These models are trained on vast datasets comprising text and code, enabling them to handle complex tasks such as text generation, language translation, and interactive querying.&#xA;As LLMs continue to integrate into various applications ranging from chatbots and search engines to creative writing aids, the need to monitor and comprehend their behaviors intensifies.&#xA;Observability plays a crucial role in this context.</description>
     </item>
     <item>
       <title>Observable Framework: a new open-source static site generator to get data past the last mile</title>
-      <link>http://localhost:1313/sessions/2024/observable-framework-a-new-open-source-static-site-generator-to-get-data-past-the-last-mile/</link>
+      <link>https://osacom.io/sessions/2024/observable-framework-a-new-open-source-static-site-generator-to-get-data-past-the-last-mile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/observable-framework-a-new-open-source-static-site-generator-to-get-data-past-the-last-mile/</guid>
+      <guid>https://osacom.io/sessions/2024/observable-framework-a-new-open-source-static-site-generator-to-get-data-past-the-last-mile/</guid>
       <description>Data teams often have established workflows to access data from different sources, process, and analyze data, but can be stymied by the “last mile problem” in data: creating rich, fast, and fully customized apps and dashboards. Closed-source, GUI-based BI options pose challenges for data visualization developers, restricting them to pre-built data integrations, out-of-the-box chart components and layouts, and restricted publishing options.&#xA;Observable Framework is a new open-source static site generator, command line tool, and local preview server.</description>
     </item>
     <item>
       <title>Open Source and the Data Lakehouse</title>
-      <link>http://localhost:1313/sessions/2024/open-source-and-the-data-lakehouse/</link>
+      <link>https://osacom.io/sessions/2024/open-source-and-the-data-lakehouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/open-source-and-the-data-lakehouse/</guid>
+      <guid>https://osacom.io/sessions/2024/open-source-and-the-data-lakehouse/</guid>
       <description>The open data lakehouse offers those frustrated with the costs and complex pipelines of using traditional warehouses an alternative that offers performance with affordability and simpler pipelines. In this talk, we&amp;rsquo;ll be talking about technologies that are making the open data lakehouse possible.&#xA;In this talk we will learn:&#xA;What is a data lakehouse What are the components of a data lakehouse What is Apache Arrow What is Apache Iceberg What is Project Nessie </description>
     </item>
     <item>
       <title>Open Source State of the Union</title>
-      <link>http://localhost:1313/sessions/open-source-state-union/</link>
+      <link>https://osacom.io/sessions/open-source-state-union/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/open-source-state-union/</guid>
+      <guid>https://osacom.io/sessions/open-source-state-union/</guid>
       <description>Making big investments in open source software? We thought so. 2024 has been a tumultuous year for open source projects with relicensing, un-relicensing, and other adventures. Our panel of in-the-trenches experts will opine on what&amp;rsquo;s going well for users, what are the current trainwrecks, and what&amp;rsquo;s plain fun to watch. Get tips to protect your existing apps and see new opportunities. Best of all, we&amp;rsquo;ll talk about how you can make open source work better for everyone.</description>
     </item>
     <item>
       <title>Open Source Success: Learnings from 1 Billion Downloads</title>
-      <link>http://localhost:1313/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</link>
+      <link>https://osacom.io/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</guid>
+      <guid>https://osacom.io/sessions/2024/open-source-success-learnings-from-1-billion-downloads/</guid>
       <description>In this talk, we share the results of an in-depth analysis of data gathered from over 1 billion open source package downloads across more than 2000 diverse projects on Scarf. Our findings offer valuable insights into user behaviors and interactions with open source software, making it essential for maintainers, founders, and executives in open source companies.&#xA;During the presentation, we delve deep into our data, uncovering the best practices employed by successful open source projects.</description>
     </item>
     <item>
       <title>pg_duckdb: Adding analytics to your application database</title>
-      <link>http://localhost:1313/sessions/2024/pg-duckdb-adding-analytics-to-your-application-database/</link>
+      <link>https://osacom.io/sessions/2024/pg-duckdb-adding-analytics-to-your-application-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/pg-duckdb-adding-analytics-to-your-application-database/</guid>
+      <guid>https://osacom.io/sessions/2024/pg-duckdb-adding-analytics-to-your-application-database/</guid>
       <description>PostgreSQL is the fastest growing open source transactional database. DuckDB is the fastest growing open source analytical one. pg_duckdb is a new Postgres extension that brings the two together, and lets you run analytical queries on your postgres instance, with the full performance of DuckDB.&#xA;This talk will show how to use pg_duckdb to do analytics over your application data, lakehouse data, and to scale it to the cloud via MotherDuck.</description>
     </item>
     <item>
       <title>Presto Native Engine at Meta and IBM</title>
-      <link>http://localhost:1313/sessions/presto-native-engine/</link>
+      <link>https://osacom.io/sessions/presto-native-engine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/presto-native-engine/</guid>
+      <guid>https://osacom.io/sessions/presto-native-engine/</guid>
       <description>Presto 2.0 is a full rewrite of the Presto query execution engine (https://prestodb.io/). The goal is to bring a 3-4x improvement in Presto performance and scalability by moving from the old Java implementation to a modern C++ one. This move towards native execution aligns with industry initiatives like Databricks Photon and Apache DataFusion, among others. We are very excited to bring this technology to Presto to make it the best Open Data Lakehouse engine in the market.</description>
     </item>
     <item>
       <title>Real-Time Games Analytics and Leaderboard with RisingWave, Kafka, and Superset (Preset)</title>
-      <link>http://localhost:1313/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</link>
+      <link>https://osacom.io/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</guid>
+      <guid>https://osacom.io/sessions/2024/real-time-games-analytics-and-leaderboard-with-risingwave-kafka-and-superset-preset/</guid>
       <description>In this session, we will set up a real-time pipeline using Kafka, RisingWave, and Superset in Preset. We will ingest player-related data into a Kafka topic and configure RisingWave to consume this data, creating materialized views for real-time analysis. With RisingWave and Superset, we can generate real-time visual dashboards, set up alerts, and create reports, enabling us to monitor player performance, create real-time leaderboards, and analyze game trends in real-time.</description>
     </item>
     <item>
       <title>Replicating data between transactional databases and ClickHouse®</title>
-      <link>http://localhost:1313/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</link>
+      <link>https://osacom.io/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</guid>
+      <guid>https://osacom.io/sessions/2024/replicating-data-between-transactional-databases-and-clickhouse/</guid>
       <description>Transactional databases like MySQL, PostgreSQL and MongoDB are usually not a great fit for real time analytics, especially as the data volume grows.&#xA;They are also less space efficient than columnar databases and require regular purge or archival. This talk presents a solution to synchronize data in real time between MySQL and ClickHouse®. The Altinity Sink Connector open source project (https://github.com/Altinity/clickhouse-sink-connector) is designed to efficiently replicate data and schema changes with accuracy, operational simplicity and performance in mind.</description>
     </item>
     <item>
       <title>Restaurants or Food Trucks? Mobile Analytic Databases and the Real-Time Data Lake</title>
-      <link>http://localhost:1313/sessions/2024/restaurants-or-food-trucks/</link>
+      <link>https://osacom.io/sessions/2024/restaurants-or-food-trucks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/restaurants-or-food-trucks/</guid>
+      <guid>https://osacom.io/sessions/2024/restaurants-or-food-trucks/</guid>
       <description>Cloud data warehouses are the dominant life form for modern analytic systems. They work like restaurants where users visit to feed on data. Larger data sets, AI, and user decisions to keep information in their own data lakes are undermining the restaurant model. What we need now is food trucks that move anywhere users need them. The food truck metaphor helps us envision a powerful new analytic system: the real-time data lake.</description>
     </item>
     <item>
       <title>Running ClickHouse® in Production – Lessons Learned</title>
-      <link>http://localhost:1313/sessions/2024/running-clickhouse-in-production-lessons-learned/</link>
+      <link>https://osacom.io/sessions/2024/running-clickhouse-in-production-lessons-learned/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/running-clickhouse-in-production-lessons-learned/</guid>
+      <guid>https://osacom.io/sessions/2024/running-clickhouse-in-production-lessons-learned/</guid>
       <description>When we chose ClickHouse® as our main data lake for analytics at Cato Networks, we envisioned it as a silver bullet solution for our data needs, promising effortless data ingestion and ready-to-query dashboards.&#xA;However, the journey from that initial setup to our current, sophisticated data platform has been filled with trials and tribulations, alongside valuable lessons.&#xA;We first used ClickHouse® as a black box magical persistence layer, simply feeding data points and querying ready-made GraphQL datasets.</description>
     </item>
     <item>
       <title>SQL Window Functions - An Introduction</title>
-      <link>http://localhost:1313/sessions/2024/sql-window-functions-an-introduction/</link>
+      <link>https://osacom.io/sessions/2024/sql-window-functions-an-introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/sql-window-functions-an-introduction/</guid>
+      <guid>https://osacom.io/sessions/2024/sql-window-functions-an-introduction/</guid>
       <description>Widow Functions allows you to group rows in a table for in-depth investigation if you are analyzing data in a relational database. Structured Query Language is fantastic for retrieving data, but once you get that data, you need a way to classify it. Window Functions provide a way to obtain sales totals to the current date, group time spent by department, or calculate running totals over data point clusters. We will start with the basics by defining what a window can be and proceed into rankings, calculating quartiles, and how to include aggregate functions.</description>
     </item>
     <item>
       <title>Uncover insights in your complex data with graph visualization</title>
-      <link>http://localhost:1313/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</link>
+      <link>https://osacom.io/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</guid>
+      <guid>https://osacom.io/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</guid>
       <description>Finding hidden relationships is the key to unlocking insights. Traditional charts and graphs fall short when visualizing complex, interconnected data. This presentation will describe into the world of graph visualization, a powerful technique for unveiling hidden patterns, dependencies, and anomalies in your data.&#xA;We will explore:&#xA;Graph Fundamentals: An introduction to graph theory concepts, including nodes, edges, and different types of graphs, providing a foundation for understanding graph visualization. Open-Source Graph Visualization Tools: A showcase of popular open-source libraries and tools like NetworkX, PyVis, and Gephi, demonstrating their capabilities for creating interactive and informative graph visualizations.</description>
     </item>
     <item>
       <title>Unified Data Management with ClickHouse® and Postgres</title>
-      <link>http://localhost:1313/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</link>
+      <link>https://osacom.io/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</guid>
+      <guid>https://osacom.io/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</guid>
       <description>Given the AI hype, organisations want to capture every data point which very quickly results into capturing extensive data from analytics, user interactions, transactions, metrics, logs, and time series. Given different shapes, volumes, scale, consistency and availability requirements, this evolves to many data stores to explore, manage and nurture. However, relying on multiple specialized databases increases operational costs, makes developers loaded with cognitive overload, necessitates various dashboards, and eventually demands significant expertise spread across teams.</description>
     </item>
     <item>
       <title>Vector Search in Modern Databases</title>
-      <link>http://localhost:1313/sessions/2024/vector-search-in-modern-databases/</link>
+      <link>https://osacom.io/sessions/2024/vector-search-in-modern-databases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/vector-search-in-modern-databases/</guid>
+      <guid>https://osacom.io/sessions/2024/vector-search-in-modern-databases/</guid>
       <description>In this talk, we&amp;rsquo;ll explore the emergent landscape of vector search in databases, a paradigm shift in information retrieval. Vector search, traditionally the domain of specialized systems, is now being integrated into mainstream databases and search engines like Lucene, Elasticsearch, Solr, PostgreSQL, MySQL, MongoDB, and Manticore. This integration marks a significant evolution in handling complex data structures and search queries.&#xA;Introduction to Vectors and Embeddings in Databases Definition and significance of vectors and embeddings.</description>
     </item>
     <item>
       <title>Zero-instrumentation observability based on eBPF</title>
-      <link>http://localhost:1313/sessions/2024/zero-instrumentation-observability-based-on-ebpf/</link>
+      <link>https://osacom.io/sessions/2024/zero-instrumentation-observability-based-on-ebpf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/zero-instrumentation-observability-based-on-ebpf/</guid>
+      <guid>https://osacom.io/sessions/2024/zero-instrumentation-observability-based-on-ebpf/</guid>
       <description>Observability is a critical aspect of any infrastructure as it enables teams to promptly identify and address issues. Nevertheless, achieving system observability comes with its own set of challenges. It is a time- and resource-intensive process as it necessitates the incorporation of instrumentation into every application.&#xA;In this talk, we will delve into the gathering of telemetry data, including metrics, logs, and traces, using eBPF. We will explore tracking various container activities, such as network calls and filesystem operations.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Stokes on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/david-stokes/</link>
+    <link>https://osacom.io/speakers/david-stokes/</link>
     <description>Recent content in David Stokes on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/david-stokes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/david-stokes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SQL Window Functions - An Introduction</title>
-      <link>http://localhost:1313/sessions/2024/sql-window-functions-an-introduction/</link>
+      <link>https://osacom.io/sessions/2024/sql-window-functions-an-introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/sql-window-functions-an-introduction/</guid>
+      <guid>https://osacom.io/sessions/2024/sql-window-functions-an-introduction/</guid>
       <description>Widow Functions allows you to group rows in a table for in-depth investigation if you are analyzing data in a relational database. Structured Query Language is fantastic for retrieving data, but once you get that data, you need a way to classify it. Window Functions provide a way to obtain sales totals to the current date, group time spent by department, or calculate running totals over data point clusters. We will start with the basics by defining what a window can be and proceed into rankings, calculating quartiles, and how to include aggregate functions.</description>
     </item>
     <item>
       <title>SQL Window Functions In Five Easy Steps</title>
-      <link>http://localhost:1313/sessions/2025/sql-window-functions-in-five-easy-steps/</link>
+      <link>https://osacom.io/sessions/2025/sql-window-functions-in-five-easy-steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/sql-window-functions-in-five-easy-steps/</guid>
+      <guid>https://osacom.io/sessions/2025/sql-window-functions-in-five-easy-steps/</guid>
       <description>Structured Query Language&amp;rsquo;s Window Functions are a powerful tool for analytics. They let you get more granular insight than a GROUP BY clause. But the syntax is obtuse, the terms used are nebulous (unbounded previous anyone?), and the results can be much less insightful than expected. This session is a quick introduction to and explanation of how to use Window Functions efficiently to better investigate your data.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mike Driscoll on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/mike-driscoll/</link>
+    <link>https://osacom.io/speakers/mike-driscoll/</link>
     <description>Recent content in Mike Driscoll on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/mike-driscoll/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/mike-driscoll/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aerodynamic Data Models: Flying Fast at Scale with DuckDB</title>
-      <link>http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</link>
+      <link>https://osacom.io/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</guid>
+      <guid>https://osacom.io/sessions/2024/aerodynamic-data-models-flying-fast-at-scale-with-duckdb/</guid>
       <description>At Rill, we rely on DuckDB to power uniquely fast dashboards for exploring time-series metrics. To achieve this interactivity, Rill’s dashboards generate up to 100 parallel queries in response to each user interaction.&#xA;In this lightning talk, we&amp;rsquo;ll share a series of optimization and data modeling techniques that have been pivotal in achieving remarkably fast, sub-second response times using DuckDB.&#xA;Our primary tactics include employing parallel connections to facilitate simultaneous query processing and organizing data in a chronological order to enhance the effectiveness of min-max indexes.</description>
     </item>
   </channel>

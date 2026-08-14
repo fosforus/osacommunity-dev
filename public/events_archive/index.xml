@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/events_archive/</link>
+    <link>https://osacom.io/events_archive/</link>
     <description>Recent content in Events on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/events_archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/events_archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dashtool - A data build tool designed for using Iceberg Materialized Views for data transformations</title>
-      <link>http://localhost:1313/events_archive/2024/dashtool-dec3-2024/</link>
+      <link>https://osacom.io/events_archive/2024/dashtool-dec3-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2024/dashtool-dec3-2024/</guid>
+      <guid>https://osacom.io/events_archive/2024/dashtool-dec3-2024/</guid>
       <description>Dashtool - A data build tool designed for using Iceberg Materialized Views for data December 3rd, 2024 15:00 UTC Register Here As Iceberg Materialized Views are being standardized, they have the potential to revolutionize the way we approach analytical data transformation by combining the simplicity of views with the performance of tables. In this session, we introduce Dashtool, an open-source data build tool specifically designed for Iceberg Materialized Views.</description>
     </item>
     <item>
       <title>FOSDEM 2025</title>
-      <link>http://localhost:1313/events_archive/2025/fosdem-2025/</link>
+      <link>https://osacom.io/events_archive/2025/fosdem-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/fosdem-2025/</guid>
+      <guid>https://osacom.io/events_archive/2025/fosdem-2025/</guid>
       <description>Join us Feb 1-2, 2025 at FOSDEM. FOSDEM is a free event for software developers to meet, share ideas and collaborate. Every year, thousands of developers of free and open source software from all over the world gather at the event in Brussels. OSA COM will have a table there. Come say hi!&#xA;Register Here</description>
     </item>
     <item>
       <title>How modern engines unlock the full potential of Apache Superset</title>
-      <link>http://localhost:1313/events_archive/2024/superset-dec11-2024/</link>
+      <link>https://osacom.io/events_archive/2024/superset-dec11-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2024/superset-dec11-2024/</guid>
+      <guid>https://osacom.io/events_archive/2024/superset-dec11-2024/</guid>
       <description>How modern engines unlock the full potential of Apache Superset December 11th, 2024 at 10am PT Register Here Modern BI tools like Apache Superset promise quick insights through interactive, no-code dashboards. However, they often fail to deliver due to the unsatisfactory performance and limited capabilities of the query engines that power them. This session will explore the essential capabilities query engines must possess to achieve the BI performance everyone hopes for, but few often get, including:</description>
     </item>
     <item>
       <title>Open Lakehouse and AI Meetup (Amsterdam)</title>
-      <link>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-amsterdam/</link>
+      <link>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-amsterdam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-amsterdam/</guid>
+      <guid>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-amsterdam/</guid>
       <description>Open Lakehouse and AI Meetup (Amsterdam) Join the Open Source Analytics Community and speakers from Altinity, Grafana, Fivetran, and Dremio. Register Here /svg&amp;gt;</description>
     </item>
     <item>
       <title>Open Lakehouse and AI Meetup (Berlin)</title>
-      <link>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-berlin/</link>
+      <link>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-berlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-berlin/</guid>
+      <guid>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-berlin/</guid>
       <description>Open Lakehouse and AI Meetup (Berlin) Join the Open Source Analytics Community and speakers from Altinity, Dremio, Fivetran, and EDB. Register Here /svg&amp;gt;</description>
     </item>
     <item>
       <title>Open Lakehouse and AI Meetup (Brussels)</title>
-      <link>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-feb2026-brussels/</link>
+      <link>https://osacom.io/events_archive/2026/open-lakehouse-meetup-feb2026-brussels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-feb2026-brussels/</guid>
+      <guid>https://osacom.io/events_archive/2026/open-lakehouse-meetup-feb2026-brussels/</guid>
       <description>Open Lakehouse and AI Meetup (Brussels) Join the Open Source Analytics Community and speakers from Altinity, Grafana, Fivetran, and Dremio. Register Here /svg&amp;gt;</description>
     </item>
     <item>
       <title>Open Lakehouse and AI Meetup (Chicago)</title>
-      <link>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-chicago/</link>
+      <link>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-chicago/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-chicago/</guid>
+      <guid>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-chicago/</guid>
       <description>Open Lakehouse and AI Meetup (Chicago) Join the Open Source Analytics Community and speakers from Altinity, Grafana, and Fivetran. Register Here /svg&amp;gt;</description>
     </item>
     <item>
       <title>Open Lakehouse and AI Meetup (New York)</title>
-      <link>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-nyc/</link>
+      <link>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-nyc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2026/open-lakehouse-meetup-jan2026-nyc/</guid>
+      <guid>https://osacom.io/events_archive/2026/open-lakehouse-meetup-jan2026-nyc/</guid>
       <description>Open Lakehouse and AI Meetup (New York) Join the Open Source Analytics Community and speakers from Altinity, CelerData, Dremio, and Grafana. Register Here /svg&amp;gt;</description>
     </item>
     <item>
       <title>Open Source Analytics Conference</title>
-      <link>http://localhost:1313/events_archive/2025/osacon-2025/</link>
+      <link>https://osacom.io/events_archive/2025/osacon-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/osacon-2025/</guid>
+      <guid>https://osacom.io/events_archive/2025/osacon-2025/</guid>
       <description>Join us for the virtual OSA CON Nov 4-5 ​The Open Source Analytics Conference (OSA CON) is the go-to conference for all things open-source analytics. Learn, share, connect, and explore the latest in data ingestion, orchestration, databases, infrastructure, governance, visualization, and AI. Join the doers of the modern data stack.&#xA;Register Here</description>
     </item>
     <item>
       <title>Open Source Analytics Festival</title>
-      <link>http://localhost:1313/events_archive/2025/osaf-2025/</link>
+      <link>https://osacom.io/events_archive/2025/osaf-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/osaf-2025/</guid>
+      <guid>https://osacom.io/events_archive/2025/osaf-2025/</guid>
       <description>Join us July 31st in IBM Silicon Valley Lab, San Jose. ​OSA Con is proud to announce an evening devoted to four of the most popular analytic open source technologies on the planet: ClickHouse®, Presto, Gluten, and StarRocks. We&amp;rsquo;ll have presentations from community experts followed by a panel featuring audience questions to the presenters. There will be refreshments, drinks, and lots of time for networking with other database developers. Join us!</description>
     </item>
     <item>
       <title>OSA CON 2024</title>
-      <link>http://localhost:1313/events_archive/2024/osa-con-2024/</link>
+      <link>https://osacom.io/events_archive/2024/osa-con-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2024/osa-con-2024/</guid>
+      <guid>https://osacom.io/events_archive/2024/osa-con-2024/</guid>
       <description>Join us November 19-21, 2024 at OSA CON. The Open Source Analytics Conference (OSA CON) is the go-to conference for all things open-source analytics. Learn, share, connect, and explore the latest in data ingestion, orchestration, databases, infrastructure, governance, visualization, and AI. Join the doers of the modern data stack. Learn More and Register here.</description>
     </item>
     <item>
       <title>Real Time Data Lakes and AI in Atlanta</title>
-      <link>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-atlanta/</link>
+      <link>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-atlanta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-atlanta/</guid>
+      <guid>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-atlanta/</guid>
       <description>Join us for the OSA Community roadshow on Real Time Data Lakes and AI in Atlanta. Come join us in Atlanta, GA on November 9, 2025 . There will be refreshments, drinks, and lots of time for networking with other database developers. Join us!&#xA;Register Here</description>
     </item>
     <item>
       <title>Real Time Data Lakes and AI in San Francisco</title>
-      <link>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-sf/</link>
+      <link>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-sf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-sf/</guid>
+      <guid>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-sf/</guid>
       <description>Join us for the OSA Community roadshow on Real Time Data Lakes and AI in San Francisco. ​Join us in San Francisco for an evening with experts from Altinity, Dremio, Rising Wave, LanceDB, and AWS. Learn how to build high-performance real-time data lake systems. Networking to follow presentations. Food and drink provided!&#xA;Register Here</description>
     </item>
     <item>
       <title>Real Time Data Lakes and AI in Seattle</title>
-      <link>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-seattle/</link>
+      <link>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-seattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/realtime-datalakes-nov-2025-seattle/</guid>
+      <guid>https://osacom.io/events_archive/2025/realtime-datalakes-nov-2025-seattle/</guid>
       <description>Join us for the OSA Community roadshow on Real Time Data Lakes and AI in Seattle. ​Join us in Seattle to learn how to build high-performance real-time data lake systems. Talks will be followed by networking, with food and drinks provided.&#xA;Register Here</description>
     </item>
     <item>
       <title>Real Time Data Lakes ft ClickHouse®, DuckDB, StarRocks, and S3</title>
-      <link>http://localhost:1313/events_archive/2025/realtime-datalakes-oct-2025/</link>
+      <link>https://osacom.io/events_archive/2025/realtime-datalakes-oct-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/realtime-datalakes-oct-2025/</guid>
+      <guid>https://osacom.io/events_archive/2025/realtime-datalakes-oct-2025/</guid>
       <description>OSA Community is doing a roadshow on Real Time Data Lakes. Come join us in New York City on Oct 2, 2025. There will be refreshments, drinks, and lots of time for networking with other database developers. Join us!&#xA;Register Here</description>
     </item>
     <item>
       <title>Real Time Data Lakes in London</title>
-      <link>http://localhost:1313/events_archive/2025/realtime-datalakes-oct-2025-london/</link>
+      <link>https://osacom.io/events_archive/2025/realtime-datalakes-oct-2025-london/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events_archive/2025/realtime-datalakes-oct-2025-london/</guid>
+      <guid>https://osacom.io/events_archive/2025/realtime-datalakes-oct-2025-london/</guid>
       <description>Join us for the OSA Community roadshow on Real Time Data Lakes in London. Come join us in London on Oct 23, 2025 . There will be refreshments, drinks, and lots of time for networking with other database developers. Join us!&#xA;Register Here</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor Murphy on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/taylor-murphy/</link>
+    <link>https://osacom.io/speakers/taylor-murphy/</link>
     <description>Recent content in Taylor Murphy on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Oct 2025 12:04:39 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/taylor-murphy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/taylor-murphy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Move Data Not Drama: Simplifying your Workflow with Meltano</title>
-      <link>http://localhost:1313/sessions/meltano/</link>
+      <link>https://osacom.io/sessions/meltano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/meltano/</guid>
+      <guid>https://osacom.io/sessions/meltano/</guid>
       <description>Meltano is a powerful open-source data movement tool that has revolutionized the way organizations handle their data pipelines at scale. Before the Analytics Development Lifecycle was even a thing, Meltano was working to bring software engineering best practices to data teams. This session will explore how Meltano addresses common data management challenges with a single, unified, and customizable platform.</description>
     </item>
   </channel>

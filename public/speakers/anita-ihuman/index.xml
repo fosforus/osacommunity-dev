@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anita Ihuman on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/anita-ihuman/</link>
+    <link>https://osacom.io/speakers/anita-ihuman/</link>
     <description>Recent content in Anita Ihuman on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/anita-ihuman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/anita-ihuman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Thriving DevRel Program for OSS Projects</title>
-      <link>http://localhost:1313/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</link>
+      <link>https://osacom.io/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</guid>
+      <guid>https://osacom.io/sessions/2024/building-a-thriving-devrel-program-for-oss-projects/</guid>
       <description>Over the years, we have seen a good number of OSS projects with great features and services go unnoticed and often get overshadowed by their proprietary counterparts. This highlights a key point: having a brilliant open-source project alone isn&amp;rsquo;t enough. To truly grow an open source project, you need a vibrant developer community that uses, contributes to, and champions your project.&#xA;In this session, we&amp;rsquo;ll look at how to build a successful open source project through strategic DevRel practices.</description>
     </item>
   </channel>

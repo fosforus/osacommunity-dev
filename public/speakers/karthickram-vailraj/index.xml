@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karthickram Vailraj on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/karthickram-vailraj/</link>
+    <link>https://osacom.io/speakers/karthickram-vailraj/</link>
     <description>Recent content in Karthickram Vailraj on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/karthickram-vailraj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/karthickram-vailraj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Database Architectures for High Volume Financial Analytics</title>
-      <link>http://localhost:1313/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</link>
+      <link>https://osacom.io/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</guid>
+      <guid>https://osacom.io/sessions/2025/open-source-database-architectures-for-high-volume-financial-analytics/</guid>
       <description>Financial analytics platforms face unprecedented data challenges, processing millions of transactions while delivering real-time insights to traders, risk managers, and compliance teams. Open source distributed databases have emerged as the backbone of modern FinTech analytics, enabling organizations to scale cost-effectively while maintaining full control over their data architecture.&#xA;This presentation explores how open source technologies like Apache Cassandra, PostgreSQL with Citus, and ClickHouse® power financial analytics through strategic sharding, replication, and consistency models.</description>
     </item>
   </channel>

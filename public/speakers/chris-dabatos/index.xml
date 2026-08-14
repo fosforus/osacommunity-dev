@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Dabatos on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/chris-dabatos/</link>
+    <link>https://osacom.io/speakers/chris-dabatos/</link>
     <description>Recent content in Chris Dabatos on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/chris-dabatos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/chris-dabatos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Your FAQ Search Sucks and How I Fixed It</title>
-      <link>http://localhost:1313/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</link>
+      <link>https://osacom.io/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</guid>
+      <guid>https://osacom.io/sessions/2025/why-your-faq-search-sucks-and-how-i-fixed-it/</guid>
       <description>I was fed up with FAQ search that spits back junk or nothing at all. TSIA says over sixty percent of support tickets could be solved by our own docs, so why isn’t that happening? In this talk I’ll show how I built a simple semantic search app with just three hundred lines of Python. I’ll demo it live answering three differently worded questions, and all in under a hundred milliseconds using TiDB Open-Source and Amazon Bedrock embeddings.</description>
     </item>
   </channel>

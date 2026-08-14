@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diptiman Raichaudhuri on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/diptiman-raichaudhuri/</link>
+    <link>https://osacom.io/speakers/diptiman-raichaudhuri/</link>
     <description>Recent content in Diptiman Raichaudhuri on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/diptiman-raichaudhuri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/diptiman-raichaudhuri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flink for a non-JVM user, an introduction to pyflink</title>
-      <link>http://localhost:1313/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</link>
+      <link>https://osacom.io/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</guid>
+      <guid>https://osacom.io/sessions/2024/flink-for-a-non-jvm-user-an-introduction-to-pyflink/</guid>
       <description>Apache Flink has steadily established itself as the leader in stream processing technologies. With thousands of users implementing simple to advanced streaming use cases, the future of the flink community looks bright.&#xA;While Apache Flink runs on JVM, for non-JVM users Flink has a well defined pyflink port which helps python developers build sophisticated stream processing jobs. Today, most of the data engineers, data scientists and data analysts prefer using python as their main programming language of choice to build complex use cases.</description>
     </item>
     <item>
       <title>Modern LLMs with Graph DB - Exploring boundaries with text-2-cypher</title>
-      <link>http://localhost:1313/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</link>
+      <link>https://osacom.io/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</guid>
+      <guid>https://osacom.io/sessions/2024/modern-llms-with-graph-db-exploring-boundaries-with-text-2-cypher/</guid>
       <description>In this lightning talk, Diptiman would present the techniques used to execute text-2-cypher analytical query generations with the help of modern large language models like GPT-4o, Claude 3 etc . This session will dive deep into Graph database querying and how LLMs assist developers get analytical queries executed on popular Graph databases like Neo4j and Amazon Neptune.</description>
     </item>
   </channel>

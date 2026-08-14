@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viktor Kessler on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/viktor-kessler/</link>
+    <link>https://osacom.io/speakers/viktor-kessler/</link>
     <description>Recent content in Viktor Kessler on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/viktor-kessler/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/viktor-kessler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agnostic is the Only Constant: Embracing the Lakehouse Paradigm Without Lock-In</title>
-      <link>http://localhost:1313/sessions/2025/agnostic-is-the-only-constant/</link>
+      <link>https://osacom.io/sessions/2025/agnostic-is-the-only-constant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/agnostic-is-the-only-constant/</guid>
+      <guid>https://osacom.io/sessions/2025/agnostic-is-the-only-constant/</guid>
       <description>As the Lakehouse paradigm rises in popularity, so does the risk of being locked into a single vendor&amp;rsquo;s ecosystem. But what if you could have all the benefits of a unified architecture—without giving up control?&#xA;In this session, we introduce Lakekeeper, an open-source Apache Iceberg catalog that makes it possible to build Lakehouse architectures that are truly portable: across clouds, compute engines, and storage layers.&#xA;This talk speaks directly to data professionals looking to stay ahead of the curve by exploring:</description>
     </item>
   </channel>

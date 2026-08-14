@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     
 
 
@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
 
-<link rel="stylesheet" href="/css/style.css" media="screen">
+<link rel="stylesheet" href="https://osacom.io/css/style.d1ba6278ffcad942cd1918bb811ea3b59c1b621b244645394de19a6aea3f50eab2fac556f9291bb1aaabd8388914e1a2bb015ecacf6d98c504c939d54b542d60.css" media="screen" integrity="sha512-0bpieP/K2ULNGRi7gR6jtZwbYhskRkU5TeGaauo/UOqy&#43;sVW&#43;Skbsaqr2DiJFOGiuwFeys9tmMUEyTnVS1QtYA==" crossorigin="anonymous">
 
     <title>Proton : A single binary to tackle streaming and historical analytics</title>
 
@@ -16,9 +16,9 @@
 In this talk, I will cover its technical internals like watermarking, streaming query state management, its internal streaming store, and how it connects historical data with live streaming etc. In the meaning while, some core features like tumble / hop / session window processing, streaming join, aggregation, new designed materialized view etc will be presented as well.">
   
 
-<link rel="canonical" href="http://localhost:1313/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
-<link rel="alternate" hreflang="en" href="http://localhost:1313/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
-<link rel="alternate" hreflang="x-default" href="http://localhost:1313/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
+<link rel="canonical" href="https://osacom.io/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
+<link rel="alternate" hreflang="en" href="https://osacom.io/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
+<link rel="alternate" hreflang="x-default" href="https://osacom.io/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
 
 
 
@@ -27,10 +27,10 @@ In this talk, I will cover its technical internals like watermarking, streaming 
 <meta property="og:description" content="Proton is a unified streaming and historical analytic engine which is built on top of ClickHouse® code base and is in one single binary. It is the core engine which empowers Timeplus core product and open sourced under apache v2 https://github.com/timeplus-io/proton.
 In this talk, I will cover its technical internals like watermarking, streaming query state management, its internal streaming store, and how it connects historical data with live streaming etc. In the meaning while, some core features like tumble / hop / session window processing, streaming join, aggregation, new designed materialized view etc will be presented as well." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
-    <meta property="og:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg" />
+<meta property="og:url" content="https://osacom.io/sessions/2023/proton-a-single-binary-to-tackle-streaming-and-historical-analytics/" />
+    <meta property="og:image" content="https://osacom.io/images/logo-osacom-text-light-2026.svg" />
       
-    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png" />
+    <meta property="og:image" content="https://osacom.io/images/site-feature-image.png" />
       
   <meta property="article:section" content="sessions" />
   
@@ -46,7 +46,7 @@ In this talk, I will cover its technical internals like watermarking, streaming 
 
     
     <meta name="twitter:card" content="summary_large_image"/>
-      <meta name="twitter:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg"/>
+      <meta name="twitter:image" content="https://osacom.io/images/logo-osacom-text-light-2026.svg"/>
     <meta name="twitter:title" content="Proton : A single binary to tackle streaming and historical analytics"/>
 <meta name="twitter:description" content="Proton is a unified streaming and historical analytic engine which is built on top of ClickHouse® code base and is in one single binary. It is the core engine which empowers Timeplus core product and open sourced under apache v2 https://github.com/timeplus-io/proton.
 In this talk, I will cover its technical internals like watermarking, streaming query state management, its internal streaming store, and how it connects historical data with live streaming etc. In the meaning while, some core features like tumble / hop / session window processing, streaming join, aggregation, new designed materialized view etc will be presented as well."/>
@@ -69,13 +69,13 @@ In this talk, I will cover its technical internals like watermarking, streaming 
   "headline": "Proton : A single binary to tackle streaming and historical analytics",
   "datePublished": "0001-01-01T00:00:00+00:00",
   "dateModified": "2025-10-20T12:04:39-05:00",
-  "mainEntityOfPage": "http://localhost:1313/",
+  "mainEntityOfPage": "https://osacom.io/",
   "publisher": {
     "@type": "Organization",
     
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/images/logo-osacom-text-light-2026.svg"
+      "url": "https://osacom.io/images/logo-osacom-text-light-2026.svg"
     },
     "name": "The Open Source Analytics Community"
   },
@@ -97,8 +97,8 @@ In this talk, I will cover its technical internals like watermarking, streaming 
 
 
     
-<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
-<link rel="icon" type="image/png" href="http://localhost:1313/favicon.png">
+<link rel="icon" type="image/svg+xml" href="https://osacom.io/favicon.svg">
+<link rel="icon" type="image/png" href="https://osacom.io/favicon.png">
 
     
 </head>
@@ -194,13 +194,13 @@ In this talk, I will cover its technical internals like watermarking, streaming 
                     
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/">Home</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/">Home</a> </li>
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/">Sessions</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/sessions/">Sessions</a> </li>
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/2023/">OSA Con 2023 Sessions</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/sessions/2023/">OSA Con 2023 Sessions</a> </li>
                 
             
                 <li class="breadcrumb-item active" aria-current="page">  Proton : A single binary to tackle streaming and historical analytics</li>
@@ -221,7 +221,7 @@ In this talk, I will cover its technical internals like watermarking, streaming 
             <div class="speaker-info" style="margin-bottom: 20px;">
               
               <figure class="thumb my-3">
-                <a href="http://localhost:1313/speakers/ken-chen/">
+                <a href="https://osacom.io/speakers/ken-chen/">
                   <div class="img-container">
                     <img src="/images/speakers/ken-chen.jpg" alt="Ken Chen" class="rounded-circle">
                   </div>
@@ -248,7 +248,7 @@ In this talk, I will cover its technical internals like watermarking, streaming 
             <div class="d-lg-none d-xl-none">
               By
               
-              <a class="speaker-inline-item" href="http://localhost:1313/speakers/ken-chen/">Ken Chen</a>
+              <a class="speaker-inline-item" href="https://osacom.io/speakers/ken-chen/">Ken Chen</a>
               
             </div>
 

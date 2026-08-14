@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrey Gusarov on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/andrey-gusarov/</link>
+    <link>https://osacom.io/speakers/andrey-gusarov/</link>
     <description>Recent content in Andrey Gusarov on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/andrey-gusarov/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/andrey-gusarov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Click to Insight: Transforming Streams with Apache Flink</title>
-      <link>http://localhost:1313/sessions/2023/from-click-to-insight-transforming-streams-with-apache-flink/</link>
+      <link>https://osacom.io/sessions/2023/from-click-to-insight-transforming-streams-with-apache-flink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2023/from-click-to-insight-transforming-streams-with-apache-flink/</guid>
+      <guid>https://osacom.io/sessions/2023/from-click-to-insight-transforming-streams-with-apache-flink/</guid>
       <description>In this topic, I&amp;rsquo;ll delve into using Apache Flink for real-time distributed data processing in diverse product initiatives. From implementing counters and windowed analytics to online data enrichment, I&amp;rsquo;ll highlight the challenges faced and share insights on harnessing Flink&amp;rsquo;s capabilities to address these scenarios in high-demand environments</description>
     </item>
   </channel>

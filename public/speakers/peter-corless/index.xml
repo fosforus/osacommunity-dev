@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Corless on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/peter-corless/</link>
+    <link>https://osacom.io/speakers/peter-corless/</link>
     <description>Recent content in Peter Corless on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/peter-corless/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/peter-corless/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emerging Architectures for Real-Time Observability at Scale</title>
-      <link>http://localhost:1313/sessions/2025/emerging-architectures/</link>
+      <link>https://osacom.io/sessions/2025/emerging-architectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/emerging-architectures/</guid>
+      <guid>https://osacom.io/sessions/2025/emerging-architectures/</guid>
       <description>Observability (O11y) is the practice of collecting, analyzing and acting upon system telemetry to ensure optimum performance and reliability. It is a real-time use case that every tech-driven organization faces. However, the landscape of observability is rapidly changing driven by a number of factors:&#xA;• The adoption of OpenTelemetry (OTel) at the agent and collection layers • The rise of disaggregated observability stacks, combining best-of-breed solutions for each layer, built on open source technologies • The evolution of &amp;ldquo;Observability 2.</description>
     </item>
   </channel>

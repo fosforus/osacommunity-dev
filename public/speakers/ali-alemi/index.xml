@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ali Alemi on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/ali-alemi/</link>
+    <link>https://osacom.io/speakers/ali-alemi/</link>
     <description>Recent content in Ali Alemi on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/ali-alemi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/ali-alemi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low latency Change Data Capture (CDC) to your data lake, using Apache Flink and Apache Paimon</title>
-      <link>http://localhost:1313/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</link>
+      <link>https://osacom.io/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</guid>
+      <guid>https://osacom.io/sessions/2024/low-latency-change-data-capture-cdc-to-your-data-lake-using-apache-flink-and-apache-paimon/</guid>
       <description>Change Data Capture (CDC) from various source databases to a data lake is critical for analytics workload. However different CDC mechanism exists and there are trade-offs with the approach. While using open table formats, you could get around the issue of record-level upserts and deletes but compaction of the data, schema evolution along with latency with Merge-on-Read is still a big challenge. In this session, we will share how you could use Apache Paimon and Apache Flink to build your CDC pipeline that overcomes these challenges and do a low latency sync of CDC data.</description>
     </item>
   </channel>

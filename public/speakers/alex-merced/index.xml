@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Merced on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/alex-merced/</link>
+    <link>https://osacom.io/speakers/alex-merced/</link>
     <description>Recent content in Alex Merced on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/alex-merced/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/alex-merced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data as Code: Project Nessie brings a Git-like experience for Apache Iceberg Tables</title>
-      <link>http://localhost:1313/sessions/2023/data-as-code-project-nessie-brings-a-git-like-experience-for-apache-iceberg-tables/</link>
+      <link>https://osacom.io/sessions/2023/data-as-code-project-nessie-brings-a-git-like-experience-for-apache-iceberg-tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2023/data-as-code-project-nessie-brings-a-git-like-experience-for-apache-iceberg-tables/</guid>
+      <guid>https://osacom.io/sessions/2023/data-as-code-project-nessie-brings-a-git-like-experience-for-apache-iceberg-tables/</guid>
       <description>Multi-table transactions have existed in data warehouses for some time, but with the open source Project Nessie, multi-table transactions and an innovative git-like experience become available to data lakehouses. In this session, learn how Project Nessie enables the new “Data as Code” paradigm allowing for workload isolation, multi-table transactions and experimentation when working with Apache Iceberg tables.&#xA;In this session you&amp;rsquo;ll learn about the Data-as-code paradigm, what is the open source Project Nessie and the new patterns in data engineering it enables.</description>
     </item>
     <item>
       <title>Open Source and the Data Lakehouse</title>
-      <link>http://localhost:1313/sessions/2024/open-source-and-the-data-lakehouse/</link>
+      <link>https://osacom.io/sessions/2024/open-source-and-the-data-lakehouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/open-source-and-the-data-lakehouse/</guid>
+      <guid>https://osacom.io/sessions/2024/open-source-and-the-data-lakehouse/</guid>
       <description>The open data lakehouse offers those frustrated with the costs and complex pipelines of using traditional warehouses an alternative that offers performance with affordability and simpler pipelines. In this talk, we&amp;rsquo;ll be talking about technologies that are making the open data lakehouse possible.&#xA;In this talk we will learn:&#xA;What is a data lakehouse What are the components of a data lakehouse What is Apache Arrow What is Apache Iceberg What is Project Nessie </description>
     </item>
   </channel>

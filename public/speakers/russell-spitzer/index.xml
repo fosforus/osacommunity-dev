@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russell Spitzer on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/russell-spitzer/</link>
+    <link>https://osacom.io/speakers/russell-spitzer/</link>
     <description>Recent content in Russell Spitzer on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/russell-spitzer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/russell-spitzer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What the Spec?!: New Features in Apache Iceberg™ Table Format V3</title>
-      <link>http://localhost:1313/sessions/2025/what-the-spec/</link>
+      <link>https://osacom.io/sessions/2025/what-the-spec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/what-the-spec/</guid>
+      <guid>https://osacom.io/sessions/2025/what-the-spec/</guid>
       <description>Apache Iceberg™ made great advancements going from Table Format V1 to Table Format V2, introducing features like position deletes, advanced metrics, and cleaner metadata abstractions. But with Table Format V3 on the horizon, Iceberg users have even more to look forward to.&#xA;In this session, we’ll explore some of the exciting new user-facing features that V3 Iceberg is about to introduce and see how they’ll make working with Open Data Formats easier than ever!</description>
     </item>
   </channel>

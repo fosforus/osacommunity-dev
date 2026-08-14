@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donny Greenberg on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/donny-greenberg/</link>
+    <link>https://osacom.io/speakers/donny-greenberg/</link>
     <description>Recent content in Donny Greenberg on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/donny-greenberg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/donny-greenberg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hydra Architecture: Orchestrating ML across clusters, regions, and clouds</title>
-      <link>http://localhost:1313/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</link>
+      <link>https://osacom.io/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</guid>
+      <guid>https://osacom.io/sessions/2024/hydra-architecture-orchestrating-ml-across-clusters-regions-and-clouds/</guid>
       <description>Increasingly, ML teams must satisfy requirements for executing workflows across multiple Kubernetes clusters, regions, or clouds. Challenges include constrained GPU availability within a single cloud, cloud credits or commitments across multiple providers, or strict data residency requirements. Traditional methods for replicating workflows across environments are both resource-intensive and operationally cumbersome.&#xA;In this talk, we propose a Hydra architecture, a novel approach where applications are deployed to a single cluster but can selectively take advantage of others.</description>
     </item>
   </channel>

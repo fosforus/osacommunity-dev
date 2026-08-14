@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josh Lee on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/josh-lee/</link>
+    <link>https://osacom.io/speakers/josh-lee/</link>
     <description>Recent content in Josh Lee on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/speakers/josh-lee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/josh-lee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Roundup of Observability Datastores</title>
-      <link>http://localhost:1313/sessions/2025/a-roundup-of-observability-datastores/</link>
+      <link>https://osacom.io/sessions/2025/a-roundup-of-observability-datastores/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/a-roundup-of-observability-datastores/</guid>
+      <guid>https://osacom.io/sessions/2025/a-roundup-of-observability-datastores/</guid>
       <description>From plain-old Postgres to the LGTM stack, ELK, Cassandra, and ClickHouse®, the landscape of telemetry storage options is as vast as it is overwhelming. With so many choices, how do we decide which datastore is right for the job? In this talk, Joshua will guide attendees through the foundational principles of telemetry—covering metrics, traces, logs, profiles, and wide events—and break down the strengths and limitations of different database technologies for each use case.</description>
     </item>
     <item>
       <title>The Open Source Hero&#39;s Journey</title>
-      <link>http://localhost:1313/sessions/2025/os-hero/</link>
+      <link>https://osacom.io/sessions/2025/os-hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2025/os-hero/</guid>
+      <guid>https://osacom.io/sessions/2025/os-hero/</guid>
       <description>Joseph Cambell&amp;rsquo;s story-circle describes the journeys of epic heroes from the known into the unknown in search of rewards. Maybe it&amp;rsquo;s not so different from the Gartner Hype Cycle that describes the journeys of innovations; And as individual developers we also go through a journey of discovery when adopting new tools and technologies.</description>
     </item>
   </channel>

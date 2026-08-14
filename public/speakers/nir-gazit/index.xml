@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nir Gazit on The Open Source Analytics Community</title>
-    <link>http://localhost:1313/speakers/nir-gazit/</link>
+    <link>https://osacom.io/speakers/nir-gazit/</link>
     <description>Recent content in Nir Gazit on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/speakers/nir-gazit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osacom.io/speakers/nir-gazit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Observability for Large Language Models with OpenTelemetry</title>
-      <link>http://localhost:1313/sessions/2024/observability-for-large-language-models-with-opentelemetry/</link>
+      <link>https://osacom.io/sessions/2024/observability-for-large-language-models-with-opentelemetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sessions/2024/observability-for-large-language-models-with-opentelemetry/</guid>
+      <guid>https://osacom.io/sessions/2024/observability-for-large-language-models-with-opentelemetry/</guid>
       <description>Large Language Models (LLMs) mark a transformative advancement in artificial intelligence. These models are trained on vast datasets comprising text and code, enabling them to handle complex tasks such as text generation, language translation, and interactive querying.&#xA;As LLMs continue to integrate into various applications ranging from chatbots and search engines to creative writing aids, the need to monitor and comprehend their behaviors intensifies.&#xA;Observability plays a crucial role in this context.</description>
     </item>
   </channel>

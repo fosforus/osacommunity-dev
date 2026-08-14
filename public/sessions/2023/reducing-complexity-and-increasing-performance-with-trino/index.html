@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     
 
 
@@ -8,16 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
 
-<link rel="stylesheet" href="/css/style.css" media="screen">
+<link rel="stylesheet" href="https://osacom.io/css/style.d1ba6278ffcad942cd1918bb811ea3b59c1b621b244645394de19a6aea3f50eab2fac556f9291bb1aaabd8388914e1a2bb015ecacf6d98c504c939d54b542d60.css" media="screen" integrity="sha512-0bpieP/K2ULNGRi7gR6jtZwbYhskRkU5TeGaauo/UOqy&#43;sVW&#43;Skbsaqr2DiJFOGiuwFeys9tmMUEyTnVS1QtYA==" crossorigin="anonymous">
 
     <title>Reducing complexity and increasing performance with Trino</title>
 
 <meta name="description" content="In this talk, we&amp;rsquo;ll be providing a quick overview of and then a longer update on Trino, the lightning-fast distributed SQL query and federation engine. Trino has been a prominent force in the open source data stack for over a decade, and development on it is as active as ever. It serves a multitude of data sources and has more clients supporting it than ever before. With exciting features such as table procedures (including a tool to automatically migrate from Hive to Iceberg), polymorphic table functions, and modern SQL features like MERGE, there&amp;rsquo;s a lot going on in Trino that you may not know about if you haven&amp;rsquo;t been paying close attention recently.">
   
 
-<link rel="canonical" href="http://localhost:1313/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
-<link rel="alternate" hreflang="en" href="http://localhost:1313/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
-<link rel="alternate" hreflang="x-default" href="http://localhost:1313/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
+<link rel="canonical" href="https://osacom.io/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
+<link rel="alternate" hreflang="en" href="https://osacom.io/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
+<link rel="alternate" hreflang="x-default" href="https://osacom.io/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
 
 
 
@@ -25,11 +25,11 @@
 <meta property="og:title" content="Reducing complexity and increasing performance with Trino" />
 <meta property="og:description" content="In this talk, we&rsquo;ll be providing a quick overview of and then a longer update on Trino, the lightning-fast distributed SQL query and federation engine. Trino has been a prominent force in the open source data stack for over a decade, and development on it is as active as ever. It serves a multitude of data sources and has more clients supporting it than ever before. With exciting features such as table procedures (including a tool to automatically migrate from Hive to Iceberg), polymorphic table functions, and modern SQL features like MERGE, there&rsquo;s a lot going on in Trino that you may not know about if you haven&rsquo;t been paying close attention recently." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
+<meta property="og:url" content="https://osacom.io/sessions/2023/reducing-complexity-and-increasing-performance-with-trino/" />
     
-    <meta property="og:image" content="http://localhost:1313/images/logo-osacom-text-light-2026.svg" />
+    <meta property="og:image" content="https://osacom.io/images/logo-osacom-text-light-2026.svg" />
       
-    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png" />
+    <meta property="og:image" content="https://osacom.io/images/site-feature-image.png" />
       
   <meta property="article:section" content="sessions" />
   
@@ -65,13 +65,13 @@
   "headline": "Reducing complexity and increasing performance with Trino",
   "datePublished": "0001-01-01T00:00:00+00:00",
   "dateModified": "2025-10-20T12:04:39-05:00",
-  "mainEntityOfPage": "http://localhost:1313/",
+  "mainEntityOfPage": "https://osacom.io/",
   "publisher": {
     "@type": "Organization",
     
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/images/logo-osacom-text-light-2026.svg"
+      "url": "https://osacom.io/images/logo-osacom-text-light-2026.svg"
     },
     "name": "The Open Source Analytics Community"
   },
@@ -93,8 +93,8 @@
 
 
     
-<link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon.svg">
-<link rel="icon" type="image/png" href="http://localhost:1313/favicon.png">
+<link rel="icon" type="image/svg+xml" href="https://osacom.io/favicon.svg">
+<link rel="icon" type="image/png" href="https://osacom.io/favicon.png">
 
     
 </head>
@@ -190,13 +190,13 @@
                     
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/">Home</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/">Home</a> </li>
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/">Sessions</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/sessions/">Sessions</a> </li>
                 
             
-                    <li class="breadcrumb-item"> <a href="http://localhost:1313/sessions/2023/">OSA Con 2023 Sessions</a> </li>
+                    <li class="breadcrumb-item"> <a href="https://osacom.io/sessions/2023/">OSA Con 2023 Sessions</a> </li>
                 
             
                 <li class="breadcrumb-item active" aria-current="page">  Reducing complexity and increasing performance with Trino</li>
@@ -217,7 +217,7 @@
             <div class="speaker-info" style="margin-bottom: 20px;">
               
               <figure class="thumb my-3">
-                <a href="http://localhost:1313/speakers/cole-bowden/">
+                <a href="https://osacom.io/speakers/cole-bowden/">
                   <div class="img-container">
                     <img src="/images/speakers/cole-bowden.jpg" alt="Cole Bowden" class="rounded-circle">
                   </div>
@@ -244,7 +244,7 @@
             <div class="d-lg-none d-xl-none">
               By
               
-              <a class="speaker-inline-item" href="http://localhost:1313/speakers/cole-bowden/">Cole Bowden</a>
+              <a class="speaker-inline-item" href="https://osacom.io/speakers/cole-bowden/">Cole Bowden</a>
               
             </div>
 
