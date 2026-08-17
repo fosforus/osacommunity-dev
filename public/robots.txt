@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://osacom.io/sitemap.xml
+Disallow: /
