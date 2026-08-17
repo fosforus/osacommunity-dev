@@ -10714,6 +10714,26 @@ header .btn.btn-primary {
   flex-grow: initial;
 }
 
+footer .nav {
+  display: block;
+}
+
+footer .nav .nav-link {
+  display: block;
+}
+
+footer .nav .nav-item {
+  display: block;
+  font-size: 14px;
+  opacity: 0.7;
+  transition: all 0.25s linear;
+}
+
+footer .nav .nav-item:hover {
+  opacity: 1;
+  transition: all 0.25s linear;
+}
+
 /*-------------------------------
 Speakers
 -------------------------------*/
