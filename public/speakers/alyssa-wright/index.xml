@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alyssa Wright on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/alyssa-wright/</link>
+    <link>http://localhost:1313/speakers/alyssa-wright/</link>
     <description>Recent content in Alyssa Wright on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/alyssa-wright/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/alyssa-wright/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source State of the Union</title>
-      <link>https://osacom.io/sessions/open-source-state-union/</link>
+      <link>http://localhost:1313/sessions/open-source-state-union/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/open-source-state-union/</guid>
+      <guid>http://localhost:1313/sessions/open-source-state-union/</guid>
       <description>Making big investments in open source software? We thought so. 2024 has been a tumultuous year for open source projects with relicensing, un-relicensing, and other adventures. Our panel of in-the-trenches experts will opine on what&amp;rsquo;s going well for users, what are the current trainwrecks, and what&amp;rsquo;s plain fun to watch. Get tips to protect your existing apps and see new opportunities. Best of all, we&amp;rsquo;ll talk about how you can make open source work better for everyone.</description>
     </item>
   </channel>

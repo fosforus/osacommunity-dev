@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Molina on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/michael-molina/</link>
+    <link>http://localhost:1313/speakers/michael-molina/</link>
     <description>Recent content in Michael Molina on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/michael-molina/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/michael-molina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Superset Extensions - Taking Open Source BI to the Next Level</title>
-      <link>https://osacom.io/sessions/2025/apache-superset-extensions/</link>
+      <link>http://localhost:1313/sessions/2025/apache-superset-extensions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/apache-superset-extensions/</guid>
+      <guid>http://localhost:1313/sessions/2025/apache-superset-extensions/</guid>
       <description>Apache Superset has always been leading the charge on open-source BI, but now it&amp;rsquo;s getting ready to truly take over the BI world. Learn all about Superset&amp;rsquo;s new extensions architecture that will allow users and developers to more rapidly expand and improve the product&amp;rsquo;s capabilities, while simplifying life for both developers and maintainers.</description>
     </item>
   </channel>

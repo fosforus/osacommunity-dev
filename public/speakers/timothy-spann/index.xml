@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timothy Spann on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/timothy-spann/</link>
+    <link>http://localhost:1313/speakers/timothy-spann/</link>
     <description>Recent content in Timothy Spann on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/timothy-spann/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/timothy-spann/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlocking Financial Data with Real-Time Pipelines</title>
-      <link>https://osacom.io/sessions/2023/unlocking-financial-data-with-real-time-pipelines/</link>
+      <link>http://localhost:1313/sessions/2023/unlocking-financial-data-with-real-time-pipelines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2023/unlocking-financial-data-with-real-time-pipelines/</guid>
+      <guid>http://localhost:1313/sessions/2023/unlocking-financial-data-with-real-time-pipelines/</guid>
       <description>Financial institutions thrive on accurate and timely data to drive critical decision-making processes, risk assessments, and regulatory compliance. However, managing and processing vast amounts of financial data in real-time can be a daunting task. To overcome this challenge, modern data engineering solutions have emerged, combining powerful technologies like Apache Flink, Apache NiFi, Apache Kafka, and Iceberg to create efficient and reliable real-time data pipelines. In this talk, we will explore how this technology stack can unlock the full potential of financial data, enabling organizations to make data-driven decisions swiftly and with confidence.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Odeajo Israel on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/odeajo-israel/</link>
+    <link>http://localhost:1313/speakers/odeajo-israel/</link>
     <description>Recent content in Odeajo Israel on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/odeajo-israel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/odeajo-israel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Raw Data to Insights: Introduction to Data Preprocessing</title>
-      <link>https://osacom.io/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</link>
+      <link>http://localhost:1313/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</guid>
+      <guid>http://localhost:1313/sessions/2024/from-raw-data-to-insights-introduction-to-data-preprocessing/</guid>
       <description>Data preprocessing is a crucial step in the machine learning pipeline. It involves cleaning, transforming, and preparing raw data to make it suitable for building and training machine learning models. In this hands-on workshop, attendees will gain a deep understanding of the importance of data preprocessing and learn essential techniques for working with real-world data.</description>
     </item>
   </channel>

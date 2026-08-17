@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Madson on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/andrew-madson/</link>
+    <link>http://localhost:1313/speakers/andrew-madson/</link>
     <description>Recent content in Andrew Madson on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/andrew-madson/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/andrew-madson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncover insights in your complex data with graph visualization</title>
-      <link>https://osacom.io/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</link>
+      <link>http://localhost:1313/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</guid>
+      <guid>http://localhost:1313/sessions/2024/uncover-insights-in-your-complex-data-with-graph-visualization/</guid>
       <description>Finding hidden relationships is the key to unlocking insights. Traditional charts and graphs fall short when visualizing complex, interconnected data. This presentation will describe into the world of graph visualization, a powerful technique for unveiling hidden patterns, dependencies, and anomalies in your data.&#xA;We will explore:&#xA;Graph Fundamentals: An introduction to graph theory concepts, including nodes, edges, and different types of graphs, providing a foundation for understanding graph visualization. Open-Source Graph Visualization Tools: A showcase of popular open-source libraries and tools like NetworkX, PyVis, and Gephi, demonstrating their capabilities for creating interactive and informative graph visualizations.</description>
     </item>
   </channel>

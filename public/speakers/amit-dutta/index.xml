@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amit Dutta on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/amit-dutta/</link>
+    <link>http://localhost:1313/speakers/amit-dutta/</link>
     <description>Recent content in Amit Dutta on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/amit-dutta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/amit-dutta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presto Native Engine at Meta and IBM</title>
-      <link>https://osacom.io/sessions/presto-native-engine/</link>
+      <link>http://localhost:1313/sessions/presto-native-engine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/presto-native-engine/</guid>
+      <guid>http://localhost:1313/sessions/presto-native-engine/</guid>
       <description>Presto 2.0 is a full rewrite of the Presto query execution engine (https://prestodb.io/). The goal is to bring a 3-4x improvement in Presto performance and scalability by moving from the old Java implementation to a modern C++ one. This move towards native execution aligns with industry initiatives like Databricks Photon and Apache DataFusion, among others. We are very excited to bring this technology to Presto to make it the best Open Data Lakehouse engine in the market.</description>
     </item>
   </channel>

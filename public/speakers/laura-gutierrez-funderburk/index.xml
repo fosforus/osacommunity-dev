@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Gutierrez Funderburk on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/laura-gutierrez-funderburk/</link>
+    <link>http://localhost:1313/speakers/laura-gutierrez-funderburk/</link>
     <description>Recent content in Laura Gutierrez Funderburk on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Oct 2025 12:04:39 -0500</lastBuildDate>
-    <atom:link href="https://osacom.io/speakers/laura-gutierrez-funderburk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/laura-gutierrez-funderburk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bring streaming to AI: introducing Bytewax connectors</title>
-      <link>https://osacom.io/sessions/2024/bring-streaming-to-ia/</link>
+      <link>http://localhost:1313/sessions/2024/bring-streaming-to-ia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/bring-streaming-to-ia/</guid>
+      <guid>http://localhost:1313/sessions/2024/bring-streaming-to-ia/</guid>
       <description>As AI and machine learning become more integral to business operations and decision-making, the need for real-time data processing has never been more critical. Whether you&amp;rsquo;re monitoring live streams from edge devices, responding to events as they happen, or managing data in distributed databases, the ability to process and act on data in real-time can be the difference between success and irrelevance.&#xA;In this talk, we&amp;rsquo;ll showcase how connecting to real-time data sources can create more responsive and adaptive AI systems within the Python ecosystem, using Bytewax.</description>
     </item>
   </channel>

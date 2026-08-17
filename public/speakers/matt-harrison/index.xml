@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt Harrison on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/matt-harrison/</link>
+    <link>http://localhost:1313/speakers/matt-harrison/</link>
     <description>Recent content in Matt Harrison on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/matt-harrison/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/matt-harrison/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Polars</title>
-      <link>https://osacom.io/sessions/2023/getting-started-with-polars/</link>
+      <link>http://localhost:1313/sessions/2023/getting-started-with-polars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2023/getting-started-with-polars/</guid>
+      <guid>http://localhost:1313/sessions/2023/getting-started-with-polars/</guid>
       <description>Get ready to revolutionize your data analysis with Polars - the newest, most highly optimized dataframe library on the market! In this talk, we&amp;rsquo;ll introduce you to the power of Polars and show you how it compares to the popular Pandas library.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udi Rot on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/udi-rot/</link>
+    <link>http://localhost:1313/speakers/udi-rot/</link>
     <description>Recent content in Udi Rot on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/udi-rot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/udi-rot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everything I Learned About ClickHouse® was From Real Workloads</title>
-      <link>https://osacom.io/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</link>
+      <link>http://localhost:1313/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</guid>
+      <guid>http://localhost:1313/sessions/2025/everything-i-learned-about-clickhouse-was-from-real-workloads/</guid>
       <description>After years of pushing ClickHouse® to its outer limits in real-world observability workloads, we&amp;rsquo;ve learned a lot - sometimes the hard way - about getting the most out of your analytics system. But before you dive into inverted indexes, object storage, and terabyte-scale performance tuning, it&amp;rsquo;s critical to get the basics right.&#xA;This talk starts at the beginning, walking through the fundamentals that make ClickHouse® such a powerful engine for analytical workloads, the performance advantages of columnar storage, how its architecture supports horizontal scaling, and why it&amp;rsquo;s ideal for high-throughput, low-latency queries.</description>
     </item>
   </channel>

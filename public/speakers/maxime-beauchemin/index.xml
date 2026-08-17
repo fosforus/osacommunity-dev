@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maxime Beauchemin on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/maxime-beauchemin/</link>
+    <link>http://localhost:1313/speakers/maxime-beauchemin/</link>
     <description>Recent content in Maxime Beauchemin on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/maxime-beauchemin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/maxime-beauchemin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating the Landscape of a Fully Open Source Data Stack in 2023</title>
-      <link>https://osacom.io/sessions/2023/navigating-landscape/</link>
+      <link>http://localhost:1313/sessions/2023/navigating-landscape/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2023/navigating-landscape/</guid>
+      <guid>http://localhost:1313/sessions/2023/navigating-landscape/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Reality Checkpoint: The Good, the Bad, and the Overhyped</title>
-      <link>https://osacom.io/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</link>
+      <link>http://localhost:1313/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</guid>
+      <guid>http://localhost:1313/sessions/2024/ai-reality-checkpoint-the-good-the-bad-and-the-overhyped/</guid>
       <description>In the past 18 months, artificial intelligence has not just entered our workspaces – it has taken over. As we stand at the crossroads of innovation and automation, it&amp;rsquo;s time for a candid reflection on how AI has reshaped our professional lives, and to talk about where it&amp;rsquo;s been a game changer, where it&amp;rsquo;s falling short, and what&amp;rsquo;s about to shift dramatically in the short term.&#xA;Since the release of ChatGPT in December 2022, I&amp;rsquo;ve developed a &amp;ldquo;first-reflex&amp;rdquo; to augment and accelerate nearly every task with AI.</description>
     </item>
     <item>
       <title>Open Source’s Massive Unfair Advantage in the AI Era</title>
-      <link>https://osacom.io/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</link>
+      <link>http://localhost:1313/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</guid>
+      <guid>http://localhost:1313/sessions/2025/open-sources-massive-unfair-advantage-in-the-ai-era/</guid>
       <description>As AI transforms how we build, scale, and interact with software, one thing is becoming clear: open source isn’t just keeping up—it’s leading. In this keynote, Max Beauchemin, creator of Apache Superset and Apache Airflow, unpacks why open source is uniquely positioned to dominate in the age of AI. From training data to developer velocity, open projects have structural advantages that proprietary vendors simply can&amp;rsquo;t replicate.&#xA;We&amp;rsquo;ll explore how LLMs &amp;ldquo;&amp;ldquo;know&amp;rdquo;&amp;rdquo; open source deeply, how AI-native workflows amplify OSS contributions, and why communities—not corporations—are becoming the new centers of gravity for software innovation.</description>
     </item>
   </channel>

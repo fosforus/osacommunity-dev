@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nidhin Jose on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/nidhin-jose/</link>
+    <link>http://localhost:1313/speakers/nidhin-jose/</link>
     <description>Recent content in Nidhin Jose on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/nidhin-jose/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/nidhin-jose/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Event-Driven Analytics for Real-Time Retail Inventory Management</title>
-      <link>https://osacom.io/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</link>
+      <link>http://localhost:1313/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</guid>
+      <guid>http://localhost:1313/sessions/2025/open-source-event-driven-analytics-for-real-time-retail-inventory-management/</guid>
       <description>The retail sector&amp;rsquo;s shift toward omnichannel fulfillment and instant availability demands has exposed critical limitations in traditional batch-processed inventory systems. This presentation demonstrates how open source Event-Driven Architecture (EDA) tools are transforming retail inventory analytics, enabling continuous real-time processing that delivers superior accuracy, automated insights, and scalable supply chain responsiveness.&#xA;Open source analytics platforms are proving their value in retail operations, with adopters experiencing up to 30% fewer stockouts and 15% improved inventory accuracy compared to proprietary batch systems.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anurag Pandey on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/anurag-pandey/</link>
+    <link>http://localhost:1313/speakers/anurag-pandey/</link>
     <description>Recent content in Anurag Pandey on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="https://osacom.io/speakers/anurag-pandey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/anurag-pandey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ClickHouse® Chronicles: Real-World War Rooms with Human and AI Agents</title>
-      <link>https://osacom.io/sessions/2025/clickhouse-chronicles/</link>
+      <link>http://localhost:1313/sessions/2025/clickhouse-chronicles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/clickhouse-chronicles/</guid>
+      <guid>http://localhost:1313/sessions/2025/clickhouse-chronicles/</guid>
       <description>Distributed systems are full of surprises—and ClickHouse® is no exception. In this talk, Shivji (Nutanix) and Anurag (Incerto) share real-world war room stories from designing, testing, and running ClickHouse® across both cloud and on-prem environments, where debugging production issues often felt more like unraveling plot twists in a thriller than routine operations.&#xA;We&amp;rsquo;ll walk through some of the toughest incidents we&amp;rsquo;ve faced: what broke, what we thought was wrong, what actually was wrong, and how we got to the root cause.</description>
     </item>
   </channel>

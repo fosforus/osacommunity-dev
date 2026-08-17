@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sachidananda Maharana on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/sachidananda-maharana/</link>
+    <link>http://localhost:1313/speakers/sachidananda-maharana/</link>
     <description>Recent content in Sachidananda Maharana on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/sachidananda-maharana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/sachidananda-maharana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unified Data Management with ClickHouse® and Postgres</title>
-      <link>https://osacom.io/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</link>
+      <link>http://localhost:1313/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</guid>
+      <guid>http://localhost:1313/sessions/2024/unified-data-management-with-clickhouse-and-postgres/</guid>
       <description>Given the AI hype, organisations want to capture every data point which very quickly results into capturing extensive data from analytics, user interactions, transactions, metrics, logs, and time series. Given different shapes, volumes, scale, consistency and availability requirements, this evolves to many data stores to explore, manage and nurture. However, relying on multiple specialized databases increases operational costs, makes developers loaded with cognitive overload, necessitates various dashboards, and eventually demands significant expertise spread across teams.</description>
     </item>
   </channel>

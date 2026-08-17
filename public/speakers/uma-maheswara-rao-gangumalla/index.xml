@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uma Maheswara Rao Gangumalla on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/uma-maheswara-rao-gangumalla/</link>
+    <link>http://localhost:1313/speakers/uma-maheswara-rao-gangumalla/</link>
     <description>Recent content in Uma Maheswara Rao Gangumalla on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/uma-maheswara-rao-gangumalla/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/uma-maheswara-rao-gangumalla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unlocking Scalable and Efficient Data Storage with Apache Ozone</title>
-      <link>https://osacom.io/sessions/2023/unlocking-scalable-and-efficient-data-storage-with-apache-ozone/</link>
+      <link>http://localhost:1313/sessions/2023/unlocking-scalable-and-efficient-data-storage-with-apache-ozone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2023/unlocking-scalable-and-efficient-data-storage-with-apache-ozone/</guid>
+      <guid>http://localhost:1313/sessions/2023/unlocking-scalable-and-efficient-data-storage-with-apache-ozone/</guid>
       <description>In today&amp;rsquo;s data-driven world, organizations are faced with unprecedented volumes of data and increasingly complex storage requirements. To address these challenges, Apache Ozone emerges as a game-changing solution, redefining the landscape of distributed object storage systems.&#xA;Apache Ozone is an open-source, highly scalable, and efficient storage system designed to provide a reliable and cost-effective platform for managing vast amounts of data across distributed clusters. It builds upon the strengths of the Hadoop ecosystem, leveraging existing components and extending them to meet the demands of modern data storage.</description>
     </item>
   </channel>

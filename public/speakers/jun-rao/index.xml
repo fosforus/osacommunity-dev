@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jun Rao on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/jun-rao/</link>
+    <link>http://localhost:1313/speakers/jun-rao/</link>
     <description>Recent content in Jun Rao on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/jun-rao/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/jun-rao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinventing Kafka in the Data Streaming Era</title>
-      <link>https://osacom.io/sessions/2023/reinventing-kafka-in-the-data-streaming-era/</link>
+      <link>http://localhost:1313/sessions/2023/reinventing-kafka-in-the-data-streaming-era/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2023/reinventing-kafka-in-the-data-streaming-era/</guid>
+      <guid>http://localhost:1313/sessions/2023/reinventing-kafka-in-the-data-streaming-era/</guid>
       <description>Many enterprises are adopting data streaming platforms to take actions on what&amp;rsquo;s happening in the business in real time. Apache Kafka is becoming the standard for building this platform. In this talk, I will first provide an overview of Kafka and its eco-system: with Kafka as the storage layer, systems like Apache Flink as the real time processing layer, and an integration layer that connects any data sources and sinks. Then, I will talk about a couple of recent innovations.</description>
     </item>
     <item>
       <title>Leveraging Data Streaming Platform for Analytics and GenAI</title>
-      <link>https://osacom.io/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</link>
+      <link>http://localhost:1313/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</guid>
+      <guid>http://localhost:1313/sessions/2024/leveraging-data-streaming-platform-for-analytics-and-genai/</guid>
       <description>Apache Kafka is becoming the standard for integrating all information within an enterprise. This provides an opportunity for each enterprise to take actions on what&amp;rsquo;s happening in its business in real time. One common use case is to take this data and ingest it to a data lake for analytics. I will show that by integrating Kafka with Apache Iceberg can make analytics much easier. Another rising use case is GenAI.</description>
     </item>
   </channel>

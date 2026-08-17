@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gian Merlino on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/gian-merlino/</link>
+    <link>http://localhost:1313/speakers/gian-merlino/</link>
     <description>Recent content in Gian Merlino on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://osacom.io/speakers/gian-merlino/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/gian-merlino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting data materialization right</title>
-      <link>https://osacom.io/sessions/2024/getting-data-materialization-right/</link>
+      <link>http://localhost:1313/sessions/2024/getting-data-materialization-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2024/getting-data-materialization-right/</guid>
+      <guid>http://localhost:1313/sessions/2024/getting-data-materialization-right/</guid>
       <description>Materialization moves computation from query time to ingest time by creating specialized derived tables, or materialized views, that are simpler than the source tables and are geared towards supporting specific workloads. This is one of the most powerful and common techniques for speeding up OLAP workloads. You can implement materialization in various ways, including built-in &amp;ldquo;materialized view&amp;rdquo; or &amp;ldquo;projection&amp;rdquo; features in many databases, as well as with third-party stream processors and workflow orchestrators that sit outside the database.</description>
     </item>
   </channel>

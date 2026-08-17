@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris Tyshkevich on The Open Source Analytics Community</title>
-    <link>https://osacom.io/speakers/boris-tyshkevich/</link>
+    <link>http://localhost:1313/speakers/boris-tyshkevich/</link>
     <description>Recent content in Boris Tyshkevich on The Open Source Analytics Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Jan 2026 14:04:09 -0600</lastBuildDate>
-    <atom:link href="https://osacom.io/speakers/boris-tyshkevich/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/speakers/boris-tyshkevich/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Alert Analysis: Uncovering Critical Patterns in ClickHouse® Databases</title>
-      <link>https://osacom.io/sessions/2025/ai-powered-alert-analysis/</link>
+      <link>http://localhost:1313/sessions/2025/ai-powered-alert-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://osacom.io/sessions/2025/ai-powered-alert-analysis/</guid>
+      <guid>http://localhost:1313/sessions/2025/ai-powered-alert-analysis/</guid>
       <description>Manual analysis of thousands of daily database alerts is impossible—but AI changes everything. This talk demonstrates using modern AI tools to analyze internal alert databases and uncover critical patterns in ClickHouse® Deployments.&#xA;Through live demos, we&amp;rsquo;ll show how to:&#xA;Identify the most critical and common alert patterns using AI-assisted SQL generation&#xA;Correlate application alerts with ClickHouse® system tables (query_log, part_log, asynchronous_metric_log)&#xA;Automate root cause analysis and predict alert escalation paths</description>
     </item>
   </channel>
